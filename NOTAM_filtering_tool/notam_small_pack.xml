@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notam_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<notam>
+		<location>LOWK</location>
+		<number>A3204/21</number>
+		<class>International</class>
+		<issue_date>11/25/2021 1135</issue_date>
+		<effective_date>11/25/2021 1134</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A3204/21 NOTAMR A1601/14
+Q) LOVV/QOBCE/IV/B  /A /000/999/4639N01420E005
+A) LOWK B) 2111251134 C) PERM
+E) MAROLLA - RADIO MAST ERECTED AT PSN 463907,9N 0141922,6E -
+TOP OF OBST ABOVE MSL: 506,79M/1663FT - OBST DAY MARKED AND LIGHTED.
+ELEV: 478,49M/1570FT - HGT ABOVE GND: 28,30M/93FT.
+REF AIP AUSTRIA, LOWK AD 2 MAP 5-1</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0512/22</number>
+		<class>International</class>
+		<issue_date>03/10/2022 1318</issue_date>
+		<effective_date>03/27/2022 0000</effective_date>
+		<expiry_date>06/24/2022 1500EST</expiry_date>
+		<notam_body>A0512/22 NOTAMN
+Q) LOVV/QFAXX/IV/NBO/A /000/999/4807N01634E005
+A) LOWW B) 2203270000 C) 2206241500 EST
+E) REF AIP AUSTRIA LOWW AD 2-47 ITEM 2.2
+THE FOLLOWING TIMES ARE CURRENTLY CONSIDERED IN LOWW AS RUSH HOURS:
+0600-0800
+0900-1030
+1400-1500
+1600-1800
+1900-2100</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0668/22</number>
+		<class>International</class>
+		<issue_date>03/28/2022 0736</issue_date>
+		<effective_date>04/05/2022 0900</effective_date>
+		<expiry_date>06/24/2022 1000EST</expiry_date>
+		<notam_body>A0668/22 NOTAMN
+Q) LOVV/QPFCH/IV/NBO/AE/000/999/4807N01634E005
+A) LOWW B) 2204050900 C) 2206241000 EST
+E) VIENNA SCHWECHAT AIRPORT WILL GO INTO PERMANENT A-CDM OPERATIONS 
+TRANSMITTING DEPARTURE PLANNING INFORMATION (DPI) MESSAGES FOR ALL 
+DEPARTING IFR TRAFFIC TO NETWORK MANAGEMENT OPERATIONS CENTRE 
+(NMOC). NMOC WILL TAKE LOCAL TARGET TAKE-OFF TIMES INTO ACCOUNT FOR 
+FLOW MANAGEMENT PURPOSES. THIS WILL ALLOW FOR MORE ACCURATE AND 
+EFFICIENT CALCULATION OF THE CTOT (WHEN APPLICABLE) DUE TO THE USE 
+OF LOCAL TARGET TAKE-OFF TIMES.
+THE BASIC NMOC PROCEDURES CONTINUE TO APPLY. ALL IFR FLIGHTS 
+DEPARTING LOWW WILL BE AFFECTED AND SHALL ADHERE CLOSELY TO LOCAL 
+AIRPORT COLLABORATIVE DECISION MAKING (A-CDM) PRODEDURES.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0675/22</number>
+		<class>International</class>
+		<issue_date>03/28/2022 1137</issue_date>
+		<effective_date>03/28/2022 1137</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0675/22 NOTAMR A0673/22
+Q) LOVV/QFGXX/IV/NBO/AE/000/999/4807N01634E005
+A) LOWW B) 2203281137 C) PERM
+E) TO AVOID DELAYS, DEPARTING AIRBUS A220 / BOMBARDIER C-SERIES
+OPERATORS ARE OBLIGED TO INFORM ATC ON INITIAL CONTACT IF CURRENT
+WIND SITUATION PROHIBITS ENGINE STARTUP DURING OR AFTER PUSHBACK.
+ENGINE STARTUP AT THE GATE HAS TO BE CONSIDERED AND COORDINATED PRIOR
+INITIATING PUSHBACK.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A0699/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0838</issue_date>
+		<effective_date>04/03/2022 0500</effective_date>
+		<expiry_date>06/29/2022 1000EST</expiry_date>
+		<notam_body>A0699/22 NOTAMN
+Q) LOVV/QOBCE/IV/M  /AE/000/025/4716N01121E001
+A) LOWI B) 2204030500 C) 2206291000 EST
+E) CRANE ERECTED AT PSN: 471618N 0112208E (PLANOETZENHOFSTR 29)
+ELEV: 745M/2445FT AMSL
+HEIGHT ABOVE GND   : 47M/155FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A0736/22</number>
+		<class>International</class>
+		<issue_date>04/04/2022 0547</issue_date>
+		<effective_date>04/04/2022 0546</effective_date>
+		<expiry_date>07/01/2022 0800EST</expiry_date>
+		<notam_body>A0736/22 NOTAMR A0006/22
+Q) LOVV/QOBCE/IV/M  /AE/000/022/4716N01123E001
+A) LOWI B) 2204040546 C) 2207010800 EST
+E) CRANE ERECTED AT PSN: 471614N 0112256E (SCHNEEBURGGASSE 24)
+ELEV: 654M/2146FT AMSL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A0795/22</number>
+		<class>International</class>
+		<issue_date>04/11/2022 0522</issue_date>
+		<effective_date>04/11/2022 0522</effective_date>
+		<expiry_date>07/08/2022 0800EST</expiry_date>
+		<notam_body>A0795/22 NOTAMR A3272/21
+Q) LOVV/QOBCE/IV/M  /AE/000/029/4714N01123E001
+A) LOWI B) 2204110522 C) 2207080800 EST
+E) CRANE ERECTED AT AREA MUTTERS - SCHULGASSE 15
+PSN: 471334N 0112238E
+ELEV: 867M/2845FT AMSL
+HEIGHT ABOVE GND   : 28M/92FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A0800/22</number>
+		<class>International</class>
+		<issue_date>04/11/2022 1509</issue_date>
+		<effective_date>04/11/2022 1509</effective_date>
+		<expiry_date>07/08/2022 0800EST</expiry_date>
+		<notam_body>A0800/22 NOTAMN
+Q) LOVV/QNBXX/IV/BO /AE/000/999/4714N01124E025
+A) LOWI B) 2204111509 C) 2207080800 EST
+E) LIMITED RANGE OF INN NDB POSSIBLE DUE TO CONSTRUCTION WORK NEARBY.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0801/22</number>
+		<class>International</class>
+		<issue_date>04/12/2022 0616</issue_date>
+		<effective_date>04/12/2022 0615</effective_date>
+		<expiry_date>07/11/2022 0800EST</expiry_date>
+		<notam_body>A0801/22 NOTAMN
+Q) LOVV/QOBCE/IV/M  /AE/000/011/4811N01625E001
+A) LOWW B) 2204120615 C) 2207110800 EST
+E) 2 CRANES ERECTED AREA WIEN 3 MODECENTERSTRASSE 20
+CRANE 1
+PSN: 481105N 0162450E
+ELEV: 306M/1004FT AMSL
+HEIGHT ABOVE GND   : 144M/473FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES
+CRANE 2
+PSN: 481105N 0162448E
+ELEV: 290M/952FT AMSL
+HEIGHT ABOVE GND   : 138M/453FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LOWG</location>
+		<number>A0858/22</number>
+		<class>International</class>
+		<issue_date>04/20/2022 1245</issue_date>
+		<effective_date>04/20/2022 1242</effective_date>
+		<expiry_date>07/19/2022 0800EST</expiry_date>
+		<notam_body>A0858/22 NOTAMN
+Q) LOVV/QIUCG/I /NBO/A /000/999/4659N01526E005
+A) LOWG B) 2204201242 C) 2207190800 EST
+E) ILS RWY34C OEG CATEGORY 3 DOWNGRADED TO CAT I</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A0883/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 0630</issue_date>
+		<effective_date>04/22/2022 0629</effective_date>
+		<expiry_date>07/20/2022 0900EST</expiry_date>
+		<notam_body>A0883/22 NOTAMR A0116/22
+Q) LOVV/QOBCE/IV/M  /AE/000/022/4716N01123E001
+A) LOWI B) 2204220629 C) 2207200900 EST
+E) CRANE ERECTED AT HINTERWALDNERSTRASSE 21, 6020 INNSBRUCK
+PSN: 471613N 0112240E 
+MAX ELEV: 666M/2185FT AMSL
+HEIGHT ABOVE GND   : 18M/60FT  
+OBST DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0885/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 0729</issue_date>
+		<effective_date>04/22/2022 0729</effective_date>
+		<expiry_date>07/15/2022 1000EST</expiry_date>
+		<notam_body>A0885/22 NOTAMR A0209/22
+Q) LOVV/QFAXX/IV/NBO/A /000/999/4807N01634E005
+A) LOWW B) 2204220729 C) 2207151000 EST
+E) &amp;apos;AIRPORT SLOT ID&amp;apos; FOR GENERAL/BUSINESS AVIATION FLIGHTS TO/FROM
+COORDINATED AIRPORTS IN AUSTRIA - SEE AIP SUP 001/22.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A0914/22</number>
+		<class>International</class>
+		<issue_date>04/26/2022 0511</issue_date>
+		<effective_date>04/26/2022 0511</effective_date>
+		<expiry_date>07/26/2022 1500EST</expiry_date>
+		<notam_body>A0914/22 NOTAMR A0188/22
+Q) LOVV/QOBCE/IV/M  /AE/000/030/4714N01119E001
+A) LOWI B) 2204260511 C) 2207261500 EST
+E) CRANE ERECTED AT KIRCHPLATZ 8, 6091 GOETZENS
+PSN: 471411N 0111839E 
+MAX ELEV: 894M/2933FT AMSL
+HEIGHT ABOVE GND   : 26M/86FT  
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0251/22</number>
+		<class>International</class>
+		<issue_date>04/26/2022 0607</issue_date>
+		<effective_date>04/26/2022 0601</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0251/22 NOTAMN
+Q) LSAS/QOBCE/V/M/AE/000/018/4725N00833E005
+A) LSZH B) 2204260601 C) PERM
+E) CRANE 5.2KM 183DEG GEO ARP LSZH, MARKED, LGTD, 472440N0083239E,
+106.5M / 349.5FT AGL, 548.5M / 1799.6FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A0930/22</number>
+		<class>International</class>
+		<issue_date>04/27/2022 0902</issue_date>
+		<effective_date>04/27/2022 0900</effective_date>
+		<expiry_date>07/22/2022 0800EST</expiry_date>
+		<notam_body>A0930/22 NOTAMN
+Q) LOVV/QOBCE/IV/M  /AE/000/022/4716N01120E001
+A) LOWI B) 2204270900 C) 2207220800 EST
+E) CRANE ERECTED AT PSN: 471602N 0111957E
+AREA ANDREAS DIPAULI STRASSE 26
+ELEV: 664M/2179FT AMSL
+HEIGHT ABOVE GND   : 30M/99FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A0973/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1355</issue_date>
+		<effective_date>05/04/2022 0500</effective_date>
+		<expiry_date>07/29/2022 1200EST</expiry_date>
+		<notam_body>A0973/22 NOTAMN
+Q) LOVV/QOBCE/IV/M  /AE/000/023/4716N01121E001
+A) LOWI B) 2205040500 C) 2207291200 EST
+E) CRANE ERECTED AT PSN: 471608N 0112144E (HOERTNAGLSTRASSE 9)
+ELEV: 683M/2241FT AMSL
+MAX HEIGHT ABOVE GND: 35M/115FT
+OBSTACLE DAY MARKED : YES
+OBSTACLE DAY MARKED : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0975/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0711</issue_date>
+		<effective_date>05/03/2022 0711</effective_date>
+		<expiry_date>07/29/2022 0900EST</expiry_date>
+		<notam_body>A0975/22 NOTAMR A0589/22
+Q) LOVV/QFALT/IV/NBO/A /000/999/4807N01634E005
+A) LOWW B) 2205030711 C) 2207290900 EST
+E) AIRCRAFT PERFORMING FUEL STOP AT LOWW ARE REQUIRED TO REMAIN
+PASSENGERS ON BORD DURING GROUNDTIME.
+REFUELLING WITH PASSENGERS ON BORD MUST BE PERFORMED ACCORDING TO 
+CIVIL AVIATION AUTHORITY APPROVED REGULATION.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0317/22</number>
+		<class>International</class>
+		<issue_date>05/19/2022 1214</issue_date>
+		<effective_date>05/28/2022 0500</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0317/22 NOTAMN
+Q) LSAS/QFALT/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2205280500 C) PERM
+E) REINTRODUCTION OF CROSSING RWY OPERATIONS DRG LDG RWY 34.
+DEPARTURE PRIORITY WINDOW OPERATIONS (PRIDEP) SUSPENDED.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A1146/22</number>
+		<class>International</class>
+		<issue_date>05/23/2022 0604</issue_date>
+		<effective_date>05/23/2022 0603</effective_date>
+		<expiry_date>08/19/2022 1500EST</expiry_date>
+		<notam_body>A1146/22 NOTAMR A0380/22
+Q) LOVV/QOBCE/IV/M  /AE/000/032/4713N01122E005
+A) LOWI B) 2205230603 C) 2208191500 EST
+E) CRANE ERECTED AT PSN: 471323N 0112210E (MUTTERS LAERCHENWALD 5)
+MAX ELEV: 966/3170FT AMSL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0334/22</number>
+		<class>International</class>
+		<issue_date>05/24/2022 1409</issue_date>
+		<effective_date>05/24/2022 1409</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0334/22 NOTAMN
+Q) LSAS/QOBCE/V/M/AE/000/018/4724N00836E001
+A) LSZH B) 2205241409 C) PERM
+E) BUILDING LGTD, 472349N0083605E, 110.6M / 362.7FT AGL, 545.8M / 
+1790.8FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A1177/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 1415</issue_date>
+		<effective_date>05/30/2022 0400</effective_date>
+		<expiry_date>08/25/2022 2100EST</expiry_date>
+		<notam_body>A1177/22 NOTAMN
+Q) LOVV/QOBCE/IV/M  /AE/000/022/4717N01122E001
+A) LOWI B) 2205300400 C) 2208252100 EST
+E) CRANE ERECTED AT PSN: 471643N 0112145E (BOTENTHALWEG 8)
+ELEV: 660M/2166FT AMSL
+MAX HEIGHT ABOVE GND: 27M/89FT AGL
+OBST DAY MARKED: YES
+OBST NIGHT MARKED: YES</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A1202/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 1110</issue_date>
+		<effective_date>05/31/2022 1700</effective_date>
+		<expiry_date>08/25/2022 0900EST</expiry_date>
+		<notam_body>A1202/22 NOTAMN
+Q) LOVV/QOBCE/IV/M  /AE/000/021/4716N01123E001
+A) LOWI B) 2205311700 C) 2208250900 EST
+E) CRANE ERECTED AREA AT PSN 471614N 0112314E &amp;apos;HOETTINGER GASSE 41&amp;apos;
+ELEV: 632M/2074FT
+MAX HEIGHT ABOVE GND: 36M/119FT
+OBST DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0368/22</number>
+		<class>International</class>
+		<issue_date>06/07/2022 1211</issue_date>
+		<effective_date>06/07/2022 1211</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0368/22 NOTAMR A0353/22
+Q) LSAS/QPDLT/I/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2206071211 C) PERM
+E) SID RWY 16 VEBIT 1T NOT AVBL FOR BOEING 777 ACFT. 
+IN CASE SID RWY 16 VEBIT 4S ALSO NOT AVBL, BOEING 777 DEP ON 
+RWY 16 SHALL REFILE FPL VIA EXIT FIX DEGES.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1971/22</number>
+		<class>International</class>
+		<issue_date>05/11/2022 0800</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>12/31/2022 2359</expiry_date>
+		<notam_body>A1971/22 NOTAMN
+Q) LFEE/QPDCH/I /NBO/A /000/999/4735N00732E005
+A) LFSB B) 2205190000 C) 2212312359
+E) EXTENSION OF MODIFICATION, ON AN EXPERIMENTAL BASIS, OF THE RWY 
+15 RNAV SID TOWARDS &amp;apos;TORPA&amp;apos; AND &amp;apos;MOROK&amp;apos; - AIRAC AIP SUP 056/22 :
+APPENDIX 4 : READ SB515 INSTEAD OF BS
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1199/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0857</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>11/30/2022 2359</expiry_date>
+		<notam_body>A1199/22 NOTAMN
+Q) LFEE/QPACH/I /NBO/A /000/999/4735N00732E005
+A) LFSB B) 2205190000 C) 2211302359
+E) TEMPORARY REPLACEMENT OF THE VOR/DME STR - AIRAC AIP SUP 055/22 :
+SUBJECT : IMPACT ON STAR STR8K
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>W0775/22</number>
+		<class>International</class>
+		<issue_date>03/22/2022 0833</issue_date>
+		<effective_date>03/28/2022 0600</effective_date>
+		<expiry_date>08/22/2022 1500</expiry_date>
+		<notam_body>W0775/22 NOTAMN
+Q) LSAS/QWULW/V/BO/AW/000/021/4723N00833E001
+A) LSZH B) 2203280600 C) 2208221500
+D) MAR 28-APR 01 04-08 11-15 18-22 25-29 MAY 02-06 09-13 16-20 23-27
+30-JUN 03 06-10 13-17 20-24 27-JUL 01 04-08 11-15 18-22 25-29 AUG
+01-05 08-12 15-19 22 0600-1500
+E) UNMANNED ACFT ACT WILL TAKE PLACE OVER ZURICH CITY ALONG TR
+472242.00N0083303.29E 472312.88N0083259.61E 472350.93N0083253.76E,
+BTN UNIVERSITY HOSPITAL ZURICH AND UNIVERSITY ZURICH IRCHEL, BOTH
+DIRECTIONS AT AND BLW 120M/400FT AGL. FOR INFO CTC +41 44 440 44 11.
+F) GND
+G) 2100FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LOWK</location>
+		<number>A1113/22</number>
+		<class>International</class>
+		<issue_date>05/18/2022 1011</issue_date>
+		<effective_date>05/18/2022 1011</effective_date>
+		<expiry_date>08/16/2022 2130</expiry_date>
+		<notam_body>A1113/22 NOTAMR A1112/22
+Q) LOVV/QFFCG/IV/NBO/A /000/999/4639N01420E005
+A) LOWK B) 2205181011 C) 2208162130
+E) FIREFIGHTING DOWNGRADED TO CAT 6 (ICAO)
+UPGRADE TO CAT 7 (ICAO) PPR 8H,
+UPGRADE TO CAT 8 (ICAO) PPR 24H, 
+CONTACT DURING OPENING HOURS 0400 - 2130 UTC
+CALL: +43 463 41500 245
+EMAIL: GAC (A) AIRPORT-KLAGENFURT.AT
+REF AIP LOWK AD 2.6</notam_body>
+	</notam>
+	<notam>
+		<location>LSGG</location>
+		<number>A0325/22</number>
+		<class>International</class>
+		<issue_date>05/23/2022 0654</issue_date>
+		<effective_date>08/01/2022 2000</effective_date>
+		<expiry_date>08/01/2022 2020</expiry_date>
+		<notam_body>A0325/22 NOTAMN
+Q) LSAS/QFALT/IV/NBO/A/000/999/4614N00607E005
+A) LSGG B) 2208012000 C) 2208012020
+E) TFC SUSPENDED DUE TO NTL DAY FIREWORKS IN AD VCY. 
+EXP DLA UP TO 20 MIN.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A1171/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0516</issue_date>
+		<effective_date>05/27/2022 0515</effective_date>
+		<expiry_date>07/31/2022 2359</expiry_date>
+		<notam_body>A1171/22 NOTAMR A0416/22
+Q) LOVV/QOBCE/IV/M  /AE/000/024/4716N01121E001
+A) LOWI B) 2205270515 C) 2207312359
+E) CRANE ERECTED AT PSN: 471614N 0111942E (KLAMMSTRASSE 131)
+ELEV: 719M/2359FT AMSL
+MAX HEIGHT ABOVE GND: 17M/56FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1980/22</number>
+		<class>International</class>
+		<issue_date>05/11/2022 1001</issue_date>
+		<effective_date>05/11/2022 1001</effective_date>
+		<expiry_date>07/31/2022 1700</expiry_date>
+		<notam_body>A1980/22 NOTAMR A1975/22
+Q) LFEE/QICXX/I /NBO/A /000/999/4735N00732E005
+A) LFSB B) 2205111001 C) 2207311700
+D) 1000-1700
+E) ILS DOWNGRADED:
+WHEN VISIBILITY HIGHER THAN 550M AND/OR CEILING GREATER THAN OR 
+EQUAL TO 200FT:
+- ILS 15 DOWNGRADED TO I.T.4
+- ILS 33 DOWNGRADED TO I.B.1
+ILS APPROACHES CAT 2 AND CAT 3 NOT AVBL.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A1221/22</number>
+		<class>International</class>
+		<issue_date>06/01/2022 1507</issue_date>
+		<effective_date>06/01/2022 1507</effective_date>
+		<expiry_date>07/29/2022 2200</expiry_date>
+		<notam_body>A1221/22 NOTAMR A0454/22
+Q) LOVV/QOBCE/IV/M  /AE/000/021/4716N01121E001
+A) LOWI B) 2206011507 C) 2207292200
+E) CRANE ERECTED AREA &amp;apos;KARL-INNEREBNER STRASSE 70&amp;apos;
+PSN: 471604N 0112123E
+ELEV: 640M/2100FT AMSL
+HEIGHT ABOVE GND   : 27M/89FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LOWK</location>
+		<number>A1173/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0621</issue_date>
+		<effective_date>07/16/2022 0900</effective_date>
+		<expiry_date>07/23/2022 1600</expiry_date>
+		<notam_body>A1173/22 NOTAMN
+Q) LOVV/QWGLW/IV/M  /AW/000/145/4639N01420E025
+A) LOWK B) 2207160900 C) 2207231600
+D) DAILY 0900-1600
+E) AUSTRIAN JUNIORS GLIDER COMPETITION 2022 WILL TAKE PLACE WITHIN
+TMA LOWK 1-4 AND CTA S, C AND GLOCKNER. CAUTION ADVISED.
+SEE AIP AUSTRIA ENR 2.1 FIR, UIR, TMA, CTA.
+F) GND G) FL145</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1452/22</number>
+		<class>International</class>
+		<issue_date>04/14/2022 0906</issue_date>
+		<effective_date>04/14/2022 0906</effective_date>
+		<expiry_date>07/14/2022 2359</expiry_date>
+		<notam_body>A1452/22 NOTAMR A1450/22
+Q) LFEE/QPNCH/IV/NBO/A /000/999/4735N00732E005
+A) LFSB B) 2204140906 C) 2207142359
+E) NOISE ABATEMENT PROCEDURES - NEW RESTRICTIONS :
+-NO CHAPTER 3 AIRCRAFT WHOSE CUMULATIVE MARGIN IS LESS THAN 13 EPNDB 
+MAY :
+   -LAND OR PUSH BACK BETWEEN 2000 AND 2200
+   -LAND BETWEEN 0300 AND 0400.
+REGARDLESS OF ITS CUMULATIVE MARGIN.
+-NO AIRCRAFT MAY CARRY OUT A SCHEDULED DEPARTURE BETWEEN 2100 AND 
+2200 EXCEPT FOR COMMERCIAL FLIGHTS DELAYED FOR REASONS BEYOND THE 
+CONTROL OF THE CARRIER. 
+-THE AIR CARRIER WILL PROVIDE WITHIN 48HR TO THE CIVIL AVIATION 
+AUTHORITIES THE DETAILS OF THE REASONS FOR THE DELAY OF THE FLIGHTS 
+OPERATED.
+-ANY REFERENCE TO A DEPARTURE TIME SHALL BE UNDERSTOOD AS A PUSHBACK 
+TIME FROM THE ACFT STAND.
+-REF : 
+   AD2 LFSB AD 2.21 
+   AUGUST 06 2021 DECREE.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0314/22</number>
+		<class>International</class>
+		<issue_date>05/19/2022 0634</issue_date>
+		<effective_date>05/28/2022 0000</effective_date>
+		<expiry_date>07/14/2022 2359</expiry_date>
+		<notam_body>A0314/22 NOTAMN
+Q) LSAS/QMXLT/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2205280000 C) 2207142359
+E) REINTRODUCTION OF CROSSING RWY OPERATIONS DRG LDG RWY 34.
+ACFT HAVE TO BE ROLLING WI 10 SEC AFTER RECEPTION OF TKOF CLR.
+IF UNABLE NOTIFY ATC.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGG</location>
+		<number>A0349/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0946</issue_date>
+		<effective_date>07/14/2022 2025</effective_date>
+		<expiry_date>07/14/2022 2105</expiry_date>
+		<notam_body>A0349/22 NOTAMN
+Q) LSAS/QMRLT/IV/NBO/A/000/999/4614N00607E005
+A) LSGG B) 2207142025 C) 2207142105
+E) RWY 22 FIREWORKS 1 NM NW THR (461518N0060620E, RADIUS 0.5NM).
+MAX 350FT AGL / 1800FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0367/22</number>
+		<class>International</class>
+		<issue_date>06/07/2022 0801</issue_date>
+		<effective_date>07/03/2022 2100</effective_date>
+		<expiry_date>07/08/2022 0400</expiry_date>
+		<notam_body>A0367/22 NOTAMN
+Q) LSAS/QFALC/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2207032100 C) 2207080400
+D) SUN-THU 2100-2359
+MON-FRI 0000-0400
+E) AD CLSD AFT LAST SKED FLT. ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A1024/22</number>
+		<class>International</class>
+		<issue_date>05/09/2022 0852</issue_date>
+		<effective_date>05/09/2022 0852</effective_date>
+		<expiry_date>07/06/2022 2100</expiry_date>
+		<notam_body>A1024/22 NOTAMN
+Q) LOVV/QFALT/IV/NBO/A /000/999/4716N01121E005
+A) LOWI B) 2205090852 C) 2207062100
+E) ENGINERUN TEST STAND BETWEEN HANGAR 3 AND HANGAR 4 NOT AVAILABLE</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A5361/21</number>
+		<class>International</class>
+		<issue_date>12/27/2021 0948</issue_date>
+		<effective_date>12/27/2021 0947</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>A5361/21 NOTAMR A2732/21
+Q) LFEE/QPIAU/I /NBO/A /000/999/4735N00732E005
+A) LFSB B) 2112270947 C) 2206302359
+E) INSTRUMENT APPROACH PROCEDURE RNAV GNSS RWY33 NOT AVAILABLE :
+REF AIP FRANCE : AD 2 LFSB IAC RWY33 RNP.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A5362/21</number>
+		<class>International</class>
+		<issue_date>12/27/2021 0955</issue_date>
+		<effective_date>12/27/2021 0954</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>A5362/21 NOTAMR A2733/21
+Q) LFEE/QPIAU/I /NBO/A /000/999/4735N00732E005
+A) LFSB B) 2112270954 C) 2206302359
+E) INSTRUMENT APCH ILS Y CAT 1 OR LOC Y RWY33 SUSPENDED
+REF AIP FRANCE: AD2 LFSB IAC RWY33 FNA-ILS Y CAT 1 LOC Y</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A5363/21</number>
+		<class>International</class>
+		<issue_date>12/27/2021 0958</issue_date>
+		<effective_date>12/27/2021 0957</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>A5363/21 NOTAMR A2734/21
+Q) LFEE/QPDAU/I /NBO/A /000/999/4735N00732E005
+A) LFSB B) 2112270957 C) 2206302359
+E) FOLLOWING SID ARE SUSPENDED :
+RWY 15 LASAT 7S
+RWY 33 LASAT 7N
+PLANNING THOSE SID IS PROHIBITED
+REF : AD2 LFSB SID RWY 15 RNAV 
+      AD2 LFSB SID RWY 33 RNAV.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0351/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 1501</issue_date>
+		<effective_date>05/30/2022 1501</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>A0351/22 NOTAMN
+Q) LSAS/QLXAS/IV/M/A/000/999/4727N00833E005
+A) LSZH B) 2205301501 C) 2206302359
+E) TWY E EXIT NORTH CL LGT MIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0352/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 1501</issue_date>
+		<effective_date>05/30/2022 1501</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>A0352/22 NOTAMN
+Q) LSAS/QLXAS/IV/M/A/000/999/4727N00833E005
+A) LSZH B) 2205301501 C) 2206302359
+E) TWY E CL LGT MIS ON SEGMENT CROSSING RWY 28.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWK</location>
+		<number>A0707/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 1244</issue_date>
+		<effective_date>03/31/2022 1243</effective_date>
+		<expiry_date>06/30/2022 2230</expiry_date>
+		<notam_body>A0707/22 NOTAMR A3568/21
+Q) LOVV/QFALT/IV/NBO/A /000/999/4639N01420E005
+A) LOWK B) 2203311243 C) 2206302230
+E) THE HANGAR AREAS OF HANGAR 1 AND HANGAR 2 ARE NOT AVBL.
+REF AIP AUSTRIA LOWK 2.24-1-1.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWK</location>
+		<number>A0708/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 1336</issue_date>
+		<effective_date>03/31/2022 1335</effective_date>
+		<expiry_date>06/30/2022 2130</expiry_date>
+		<notam_body>A0708/22 NOTAMR A0136/22
+Q) LOVV/QMNLT/IV/NBO/A /000/999/4639N01420E005
+A) LOWK B) 2203311335 C) 2206302130
+E) AIRCRAFT HANDLING ON EAST 1 AND APRON EAST 2 IS ONLY POSSIBLE
+DURING DAYLIGHT</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0365/22</number>
+		<class>International</class>
+		<issue_date>06/07/2022 0751</issue_date>
+		<effective_date>06/28/2022 2100</effective_date>
+		<expiry_date>06/29/2022 0400</expiry_date>
+		<notam_body>A0365/22 NOTAMN
+Q) LSAS/QFALC/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2206282100 C) 2206290400
+E) AD CLSD AFT LAST SKED FLT. ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>A1198/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0945</issue_date>
+		<effective_date>06/25/2022 0600</effective_date>
+		<expiry_date>06/28/2022 2200</expiry_date>
+		<notam_body>A1198/22 NOTAMN
+Q) LOVV/QRTCA/IV/BO /AW/000/165/4723N01111E032
+A) LOWI B) 2206250600 C) 2206282200
+E) TEMPO RESTRICTED AREA INNSBRUCK ACTIVE - SEE AIP SUP 007/22
+F) GND G) FL165</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0180/22</number>
+		<class>International</class>
+		<issue_date>03/25/2022 0816</issue_date>
+		<effective_date>03/27/2022 0000</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>A0180/22 NOTAMN
+Q) LSAS/QMRLT/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2203270000 C) 2206242359
+E) RWY 10/28 RCL MARKINGS PARTIALLY MIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0181/22</number>
+		<class>International</class>
+		<issue_date>03/25/2022 0820</issue_date>
+		<effective_date>04/04/2022 0000</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>A0181/22 NOTAMN
+Q) LSAS/QMRLT/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2204040000 C) 2206242359
+E) RWY 10/28 GROOVING MIS ON NEW CENTRAL ASPH SFC.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0299/22</number>
+		<class>International</class>
+		<issue_date>05/10/2022 1222</issue_date>
+		<effective_date>05/15/2022 0000</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>A0299/22 NOTAMN
+Q) LSAS/QLXAS/IV/M/A/000/999/4727N00833E005
+A) LSZH B) 2205150000 C) 2206242359
+E) TWY E EXIT SOUTH CL LGT MIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0310/22</number>
+		<class>International</class>
+		<issue_date>05/16/2022 1426</issue_date>
+		<effective_date>05/17/2022 0000</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>A0310/22 NOTAMN
+Q) LSAS/QLCAS/I/BO/A/000/999/4727N00833E005
+A) LSZH B) 2205170000 C) 2206242359
+E) RWY 10/28 RCLL PARTIALLY MIS (MAX 280M) BTN TWY K AND THR 10.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWG</location>
+		<number>A1073/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 0636</issue_date>
+		<effective_date>06/24/2022 0600</effective_date>
+		<expiry_date>06/24/2022 1100</expiry_date>
+		<notam_body>A1073/22 NOTAMN
+Q) LOVV/QIDAS/I /NBO/A /000/999/4659N01526E005
+A) LOWG B) 2206240600 C) 2206241100
+E) DME OEG CH46X ASSOCIATED WITH ILS U/S</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A1106/22</number>
+		<class>International</class>
+		<issue_date>05/18/2022 0615</issue_date>
+		<effective_date>06/24/2022 0700</effective_date>
+		<expiry_date>06/24/2022 0900</expiry_date>
+		<notam_body>A1106/22 NOTAMN
+Q) LOVV/QCMAS/IV/M  /A /000/999/4807N01634E005
+A) LOWW B) 2206240700 C) 2206240900
+E) SURFACE MOVEMENT RADAR WEST OUT OF SERVICE.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0189/22</number>
+		<class>International</class>
+		<issue_date>03/27/2022 0835</issue_date>
+		<effective_date>03/27/2022 2030</effective_date>
+		<expiry_date>06/24/2022 0500</expiry_date>
+		<notam_body>A0189/22 NOTAMN
+Q) LSAS/QMRLC/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2203272030 C) 2206240500
+D) SUN-THU 2030-2359 
+MON-FRI 0000-0500
+E) RWY 10/28 CLSD AFT LAST SKED FLT.
+ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0212/22</number>
+		<class>International</class>
+		<issue_date>04/02/2022 0331</issue_date>
+		<effective_date>04/03/2022 2030</effective_date>
+		<expiry_date>06/24/2022 0500</expiry_date>
+		<notam_body>A0212/22 NOTAMN
+Q) LSAS/QMXLT/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2204032030 C) 2206240500
+D) MON-FRI 0000-0500 SUN-THU 2030-2359
+E) FOR LDG RWY 34 VACATING VIA TWY B OR E5 ONLY WITH ATC CLR.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0166/22</number>
+		<class>International</class>
+		<issue_date>03/23/2022 1105</issue_date>
+		<effective_date>03/27/2022 2100</effective_date>
+		<expiry_date>06/24/2022 0400</expiry_date>
+		<notam_body>A0166/22 NOTAMN
+Q) LSAS/QMRLC/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2203272100 C) 2206240400
+D) SUN-THU 2100-2359
+MON-FRI 0000-0400
+E) RWY 16/34 CLSD AFT LAST SKED FLT.
+ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWG</location>
+		<number>A1072/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 0635</issue_date>
+		<effective_date>06/23/2022 0600</effective_date>
+		<expiry_date>06/23/2022 1400</expiry_date>
+		<notam_body>A1072/22 NOTAMN
+Q) LOVV/QIDAS/I /NBO/A /000/999/4659N01526E005
+A) LOWG B) 2206230600 C) 2206231400
+E) DME OEG CH46X ASSOCIATED WITH ILS U/S</notam_body>
+	</notam>
+	<notam>
+		<location>LOWG</location>
+		<number>A1071/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 0634</issue_date>
+		<effective_date>06/22/2022 1100</effective_date>
+		<expiry_date>06/22/2022 1400</expiry_date>
+		<notam_body>A1071/22 NOTAMN
+Q) LOVV/QIDAS/I /NBO/A /000/999/4659N01526E005
+A) LOWG B) 2206221100 C) 2206221400
+E) DME OEG CH46X ASSOCIATED WITH ILS U/S</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0366/22</number>
+		<class>International</class>
+		<issue_date>06/07/2022 0801</issue_date>
+		<effective_date>06/20/2022 2100</effective_date>
+		<expiry_date>06/22/2022 0400</expiry_date>
+		<notam_body>A0366/22 NOTAMN
+Q) LSAS/QFALC/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2206202100 C) 2206220400
+D) MON-TUE 2100-2359
+TUE-WED 0000-0400
+E) AD CLSD AFT LAST SKED FLT. ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGG</location>
+		<number>A0355/22</number>
+		<class>International</class>
+		<issue_date>06/01/2022 0753</issue_date>
+		<effective_date>06/19/2022 2000</effective_date>
+		<expiry_date>06/21/2022 0330</expiry_date>
+		<notam_body>A0355/22 NOTAMN
+Q) LSAS/QMXLC/IV/NBO/A/000/999/4614N00607E005
+A) LSGG B) 2206192000 C) 2206210330
+D) 2000-0330
+E) LINK 5 CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGG</location>
+		<number>A0332/22</number>
+		<class>International</class>
+		<issue_date>05/24/2022 1007</issue_date>
+		<effective_date>06/20/2022 2130</effective_date>
+		<expiry_date>06/21/2022 0300</expiry_date>
+		<notam_body>A0332/22 NOTAMN
+Q) LSAS/QPDLT/I/NBO/A/000/999/4614N00607E005
+A) LSGG B) 2206202130 C) 2206210300
+E) PASSEIRY DVOR/DME PAS 116.600 U/S DUE TO MAINT.
+DEP RWY 04: FOR SID BALSI XN, BELUS XN, DEPUL XP/T, 
+MEDAM XN/P/Q/A/P/T, PAS XP AND ROCCA XN/P/Q, EXP OMNIDIRECTIONAL DEP.
+DEP RWY 22: FOR SID BALSI XA, BELUS XA, DEPUL XA, DIPIR XA, 
+MEDAM XA/B/C AND ROCCA XA/B/C, EXP OMNIDIRECTIONAL DEP.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGG</location>
+		<number>A0333/22</number>
+		<class>International</class>
+		<issue_date>05/24/2022 1007</issue_date>
+		<effective_date>06/20/2022 2130</effective_date>
+		<expiry_date>06/21/2022 0300</expiry_date>
+		<notam_body>A0333/22 NOTAMN
+Q) LSAS/QNMAS/IV/BO/AE/000/999/4610N00600E050
+A) LSGG B) 2206202130 C) 2206210300
+E) PASSEIRY DVOR/DME PAS 116.600 U/S DUE TO MAINT.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0348/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0718</issue_date>
+		<effective_date>06/20/2022 2130</effective_date>
+		<expiry_date>06/21/2022 0200</expiry_date>
+		<notam_body>A0348/22 NOTAMN
+Q) LSAS/QNMAS/IV/BO/AE/000/999/4711N00754E025
+A) LSZH B) 2206202130 C) 2206210200
+E) WILLISAU VOR/DME WIL 116.900 U/S DUE TO MAINT.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWI</location>
+		<number>B0961/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 0620</issue_date>
+		<effective_date>06/16/2022 0800</effective_date>
+		<expiry_date>06/19/2022 1954</expiry_date>
+		<notam_body>B0961/22 NOTAMN
+Q) LOVV/QWPLW/IV/M  /AW/000/125/4726N01239E018
+A) LOWI B) 2206160800 C) 2206191954
+D) DAILY 0800-1954
+E) AIR DISPLAY WITH PARAGLIDERS - KAISERWINKL OPEN 2022 - IN THE 
+AREA KOESSEN BETWEEN TURNING POINTS
+472513N0130333E HOCHKOENIG AND 471709N0121751E WILDKOGEL WILL TAKE 
+PLACE.
+DEPARTURE AND LANDING AREA:
+473733N0122033E DEPARTURE AREA GIPFELHAUS
+473912N0122520E LANDING AREA BERGBAHN
+AIRSPACE D IS NOT AFFECTED. APRX 120 PARTICIPANTS.
+F) GND G) FL125</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A2113/22</number>
+		<class>International</class>
+		<issue_date>05/18/2022 0854</issue_date>
+		<effective_date>06/13/2022 0300</effective_date>
+		<expiry_date>06/18/2022 2000</expiry_date>
+		<notam_body>A2113/22 NOTAMN
+Q) LFEE/QATLT/IV/NBO/AE/018/145/4732N00619E069
+A) LFSB B) 2206130300 C) 2206182000
+E) RESTRICTIONS AD:
+TRAINING IFR, VFR AND TEST FLIGHTS PROHIBITED WITHIN TMA.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A2382/22</number>
+		<class>International</class>
+		<issue_date>06/01/2022 1434</issue_date>
+		<effective_date>06/12/2022 0300</effective_date>
+		<expiry_date>06/18/2022 2000</expiry_date>
+		<notam_body>A2382/22 NOTAMN
+Q) LFEE/QFALT/IV/NBO/A /000/999/4735N00732E005
+A) LFSB B) 2206120300 C) 2206182000
+E) AD RESTRICTIONS FOR AIRPLANES :
+RISK OF SATURATION OF MAIN PARKING AREA.
+MANDATORY HANDLING FOR ALL REGULAR OR NON REGULAR FLIGHTS, TAXI 
+FLIGHTS OR GENERAL AVIATION.
+DAY AND NIGHT STOP FORBIDDEN ON MAIN APRON.
+PROMOTIONAL EVENT AREA OPERATIONAL BTN 0600 AND 1800.
+&amp;apos;ART BASEL&amp;apos; TRAFFIC PROHIBITED OUTSIDE THESE HOURS.
+STOP-OVER LIMITED TO ONE HOUR EXCEPT FOR STATE FLIGHTS, EMERGENCY 
+LANDING AND MEDEVAC.
+PARKING ON PRIVATE AREAS TO BE NEGOCIATED DIRECTLY WITH MAINTENANCE 
+AREA USERS (AMAC, JET AVIATION, ASB, NOMAD, NOVARTIS, GAC)
+ACCESS PROHIBITED TO NON-BASED VFR, EXCEPT &amp;apos;ART BASEL&amp;apos; TRAFFIC.
+HANDLING COMPANIES :
+SWISSPORT : TEL 0033(0)389902385
+EMAIL : BSL.SERVICES(AT)SWISSPORT.COM
+SITA : BSLOBXH
+AIR SERVICE BASEL : TEL 0041615673700 FAX 0041615673701
+EMAIL : FBO(AT)AIRSERVICEBASEL.COM</notam_body>
+	</notam>
+	<notam>
+		<location>LOWK</location>
+		<number>A1172/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0614</issue_date>
+		<effective_date>06/11/2022 0900</effective_date>
+		<expiry_date>06/18/2022 1600</expiry_date>
+		<notam_body>A1172/22 NOTAMN
+Q) LOVV/QWGLW/IV/M  /AW/000/145/4639N01420E025
+A) LOWK B) 2206110900 C) 2206181600
+D) DAILY 0900-1600
+E) ALPE ADRIA CUP 2022 GLIDER FLYING COMPETITION WILL TAKE PLACE 
+WITHIN
+TMA LOWK 1-4 AND CTA S, C AND GLOCKNER. CAUTION ADVICED.
+SEE AIP AUSTRIA ENR 2.1 FIR, UIR, TMA, CTA.
+F) GND G) FL145</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A2393/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 0746</issue_date>
+		<effective_date>06/16/2022 0800</effective_date>
+		<expiry_date>06/16/2022 1000</expiry_date>
+		<notam_body>A2393/22 NOTAMN
+Q) LFEE/QFAXX/IV/NBO/A /000/999/4735N00732E005
+A) LFSB B) 2206160800 C) 2206161000
+E) COMBAT ACFT AIR SHOW WITHIN &amp;apos;COLMAR&amp;apos; AREA - AIP SUP 136/22 :
+SUBJECT : CREATION OF A TEMPORARY RESTRICTED AREA &amp;apos;ZRT MIKE&amp;apos;
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>V0130/22</number>
+		<class>Military</class>
+		<issue_date>05/23/2022 1410</issue_date>
+		<effective_date>05/23/2022 1412</effective_date>
+		<expiry_date>06/16/2022 0001</expiry_date>
+		<notam_body>V0130/22 NOTAMN 
+Q) LFEE/QPIAU/I/BO/A/000/999/4735N00731E005 
+A) LFSB 
+B) 2205231412 
+C) 2206160001 
+E) [US DOD PROCEDURAL NOTAM] INSTRUMENT APPROACH PROCEDURE NOT AUTHORIZED ILS Y OR LOC Y RWY 15</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>V0131/22</number>
+		<class>Military</class>
+		<issue_date>05/23/2022 1411</issue_date>
+		<effective_date>05/23/2022 1412</effective_date>
+		<expiry_date>06/16/2022 0001</expiry_date>
+		<notam_body>V0131/22 NOTAMN 
+Q) LFEE/QPIAU/I/BO/A/000/999/4735N00731E005 
+A) LFSB 
+B) 2205231412 
+C) 2206160001 
+E) [US DOD PROCEDURAL NOTAM] INSTRUMENT APPROACH PROCEDURE NOT AUTHORIZED ILS Y OR LOC Y RWY 33</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>V0132/22</number>
+		<class>Military</class>
+		<issue_date>05/23/2022 1411</issue_date>
+		<effective_date>05/23/2022 1413</effective_date>
+		<expiry_date>06/16/2022 0001</expiry_date>
+		<notam_body>V0132/22 NOTAMN 
+Q) LFEE/QPIAU/I/BO/A/000/999/4735N00731E005 
+A) LFSB 
+B) 2205231413 
+C) 2206160001 
+E) [US DOD PROCEDURAL NOTAM] INSTRUMENT APPROACH PROCEDURE NOT AUTHORIZED RNP RWY 15</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>V0133/22</number>
+		<class>Military</class>
+		<issue_date>05/23/2022 1425</issue_date>
+		<effective_date>05/23/2022 1427</effective_date>
+		<expiry_date>06/16/2022 0001</expiry_date>
+		<notam_body>V0133/22 NOTAMN 
+Q) LFEE/QPICH/I/BO/A/000/999/4735N00731E005 
+A) LFSB 
+B) 2205231427 
+C) 2206160001 
+E) [US DOD PROCEDURAL NOTAM] IFR TAKE-OFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES AMENDMENT IFR TAKEOFF MINIMUMS DELETE: RWY 15: TO EASTERN SIDE OF RWY CNTRLN: 240 FT/NM. CLIMB ON COURSE 153° TO 1300, THEN PROCEED DIRECT ROUTING UP TO ENROUTE SAFE ALTITUDE. DO NOT TURN BEFORE BS OR 3.5 DME BLM. CLIMB GRADIENT DETERMINED BY OBSTACLE 3950 IN QUADRANT 155° AND 14.5 NM FROM ARP. DELETE: RWY 15: TO WESTERN SIDE OF RWY CNTRLN: 300 FT/NM. CLIMB ON COURSE 153° TO 1300, THEN PROCEED DIRECT ROUTING UP TO ENROUTE SAFE ALTITUDE. DO NOT TURN BEFORE BS OR 3.5 DME BLM. CLIMB GRADIENT DETERMINED BY OBSTACLE 2745 IN QUADRANT 183° AND 7.6 NM FROM ARP. ADD: RWY 15: 330 FT/NM. CLIMB ON COURSE 153° TO 1300, THEN PROCEED DIRECT ROUTING UP TO ENROUTE SAFE ALTITUDE. DO NOT TURN BEFORE 2.3NM MH OR 3.5 BLM. CLIMB GRADIENT 5.5% (330 FT/NM) DETERMINED BY TREE 1249 IN QDR 160° AND 2.2 NM FROM ARP.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>V0134/22</number>
+		<class>Military</class>
+		<issue_date>05/23/2022 1432</issue_date>
+		<effective_date>05/23/2022 1434</effective_date>
+		<expiry_date>06/16/2022 0001</expiry_date>
+		<notam_body>V0134/22 NOTAMN 
+Q) LFEE/QPICH/I/BO/A/000/999/4735N00731E005 
+A) LFSB 
+B) 2205231434 
+C) 2206160001 
+E) [US DOD PROCEDURAL NOTAM] IFR TAKE-OFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES CHANGED IFR TAKEOFF MINIMUMS CHANGE: RWY 25: FROM 510 FT/NM. CLIMB ON COURSE 255° TO 2000, THEN PROCEED DIRECT ROUTING UP TO ENROUTE SAFE ALTITUDE. CLIMB GRADIENT DETERMINED BY OBSTACLE 1056 IN QUADRANT 245° AND 0.9 NM FROM ARP TO 523 FT/NM. CLIMB ON COURSE 255° TO 2000, THEN PROCEED DIRECT ROUTING UP TO ENROUTE SAFE ALTITUDE. CLIMB GRADIENT 8.6% (510 FT/NM) DETERMINED BY TREE 1060 IN QDR 245° AND 0.9 NM FROM ARP</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>V0135/22</number>
+		<class>Military</class>
+		<issue_date>05/23/2022 1433</issue_date>
+		<effective_date>05/23/2022 1435</effective_date>
+		<expiry_date>06/16/2022 0001</expiry_date>
+		<notam_body>V0135/22 NOTAMN 
+Q) LFEE/QPICH/I/BO/A/000/999/4735N00731E005 
+A) LFSB 
+B) 2205231435 
+C) 2206160001 
+E) [US DOD PROCEDURAL NOTAM] IFR TAKE-OFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES CHANGED IFR TAKEOFF MINIMUMS CHANGE: RWY 33: TO EASTERN SIDE OF RWY CNTRLN: FROM 360 FT/NM. CLIMB ON TRACK 333° TO 1.9 DME BLM, THEN PROCEED DIRECT ROUTING TO ENROUTE SAFE ALTITUDE. CLIMB GRADIENT DETERMINED BY ANTENNAE 4094 IN QUADRANT 030° AND 13.5 NM FROM ARP TO 310 FT/NM. CLIMB ON COURSE 332° TO 4.2NM BLU OR 1.9 NM BLM, THEN PROCEED DIRECT ROUTING CLIMBING 330FT/NM TO ENROUTE SAFE ALTITUDE. CLIMB GRADIENT 5.1% (310FT/NM) DETERMINED BY MOUNTAIN QDR 031°, 13.5NM FROM ARP. ATS CLIMB GRADIENT 5.5% (330FT/NM). BRINCKHEIM MODEL AIRCRAFT FLYING AREA 1507, QDR 308°, 3.9 NM FROM ARP. CHANGE: RWY 33: TO WESTERN SIDE OF RWY CNTRLN: FROM 318 FT/NM. CLIMB ON COURSE 333° TO 1.9 DME BLM, THEN PROCEED DIRECT ROUTING TO ENROUTE SAFE ALTITUDE. ATC CLIMB GRADIENT DUE TO BRICKHEIM MODEL AIRCRAFT FLYING AREA 1487 IN QUADRANT 310° AND 3.6 NM FROM ARP TO 228 FT/NM. CLIMB ON HEADING 332° TO 4.2NM BLU OR 1.9 NM BLM, THEN PROCEED DIRECT ROUTING CLIMBING 330FT/NM TO ENROUTE SAFE ALTITUDE. CLIMB GRADIENT 3.8% (228FT/NM) DUE TO WIND TURBINE 1525M (5004) AMSL, QDR 190°, 22 NM FROM ARP, ATS CLIMB GRADIENT 5.5%(330FT/NM) FOR BRINCKHEIM MODEL AIRCRAFT FLYING AREA 1507, QDR 308°, 3.9 NM FROM ARP.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGG</location>
+		<number>A0370/22</number>
+		<class>International</class>
+		<issue_date>06/07/2022 1239</issue_date>
+		<effective_date>06/12/2022 1200</effective_date>
+		<expiry_date>06/15/2022 2200</expiry_date>
+		<notam_body>A0370/22 NOTAMN
+Q) LSAS/QFALT/IV/NBO/A/000/999/4614N00607E005
+A) LSGG B) 2206121200 C) 2206152200
+E) WTO (WORLD TRADE ORGANIZATION) MINISTERIAL CONFERENCE: 
+AD NOT TO BE PLANNED FOR DIV OR ALTN. 
+AD NOT TO BE PLANNED FOR TEST, TRG, SCHOOL AND TECHNICAL FLT. 
+VFR FLT PROHIBITED. 
+LOCAL PROC FOR SWIFTCOPTER. 
+SPECIAL PROC FOR HEMS (HEL EMERG MEDICAL SER) ACCORDING AIP ENR 5.1. 
+IFR TYPE OF FLT S OR N AUTH ONLY.
+PRKG PSN 48 CLSD. EXP MIL HEL ACT IN THE VCY OF PRKG PSN 48.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0364/22</number>
+		<class>International</class>
+		<issue_date>06/07/2022 0749</issue_date>
+		<effective_date>06/14/2022 2100</effective_date>
+		<expiry_date>06/15/2022 0400</expiry_date>
+		<notam_body>A0364/22 NOTAMN
+Q) LSAS/QFALC/IV/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2206142100 C) 2206150400
+E) AD CLSD AFT LAST SKED FLT. ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0982/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 1549</issue_date>
+		<effective_date>06/14/2022 0600</effective_date>
+		<expiry_date>06/14/2022 1000</expiry_date>
+		<notam_body>A0982/22 NOTAMN
+Q) LOVV/QFGAS/IV/M  /A /000/999/4807N01634E005
+A) LOWW B) 2206140600 C) 2206141000
+E) A-SMGCS (ADVANCED SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM)  
+ASTOS UNSERVICEABLE. EXPECT LIMITED CAPACITY ON GROUND.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGG</location>
+		<number>A0335/22</number>
+		<class>International</class>
+		<issue_date>05/25/2022 0540</issue_date>
+		<effective_date>06/13/2022 2130</effective_date>
+		<expiry_date>06/14/2022 0300</expiry_date>
+		<notam_body>A0335/22 NOTAMN
+Q) LSAS/QICAS/I/NBO/A/000/999/4614N00607E005
+A) LSGG B) 2206132130 C) 2206140300
+E) RWY 04 ILS INE 110.900 AND RWY 22 ILS ISW 108.700 U/S 
+DUE TO MAINT. AVBL O/R WI 15 MIN.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0346/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0714</issue_date>
+		<effective_date>06/13/2022 2130</effective_date>
+		<expiry_date>06/14/2022 0300</expiry_date>
+		<notam_body>A0346/22 NOTAMN
+Q) LSAS/QNMAS/IV/BO/A/000/999/4727N00833E025
+A) LSZH B) 2206132130 C) 2206140300
+E) KLOTEN DVOR/DME KLO 114.850 U/S DUE TO MAINT.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0347/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0715</issue_date>
+		<effective_date>06/13/2022 1700</effective_date>
+		<expiry_date>06/13/2022 2130</expiry_date>
+		<notam_body>A0347/22 NOTAMN
+Q) LSAS/QNMAS/IV/BO/AE/000/999/4736N00849E050
+A) LSZH B) 2206131700 C) 2206132130
+E) ZURICH EAST DVOR/DME ZUE 110.050 U/S DUE TO MAINT.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWK</location>
+		<number>A0563/22</number>
+		<class>International</class>
+		<issue_date>03/15/2022 0902</issue_date>
+		<effective_date>03/15/2022 0900</effective_date>
+		<expiry_date>06/13/2022 1500</expiry_date>
+		<notam_body>A0563/22 NOTAMR A0562/22
+Q) LOVV/QOBCE/IV/M  /AE/000/017/4639N01420E001
+A) LOWK B) 2203150900 C) 2206131500
+E) MOBILE CRANE ERECTED
+HEILIGEN GEIST PLATZ 4, 9020 KLAGENFURT
+PSN: 463727N  0141810E
+HIGHT ABOVE GROUND: 55M/181FT
+ELEV: 499M/1638FT
+OBST DAY MARKED : YES 
+OBST NIGHT MARKED : YES</notam_body>
+	</notam>
+	<notam>
+		<location>LSGG</location>
+		<number>A0289/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1527</issue_date>
+		<effective_date>06/11/2022 2025</effective_date>
+		<expiry_date>06/11/2022 2050</expiry_date>
+		<notam_body>A0289/22 NOTAMN
+Q) LSAS/QMRLT/IV/NBO/A/000/999/4614N00607E005
+A) LSGG B) 2206112025 C) 2206112050
+E) RWY 22 FIREWORKS 4.5 NM NE THR (461835N0061127E, RADIUS 0.5NM).
+MAX 400FT AGL / 1800FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A2271/22</number>
+		<class>International</class>
+		<issue_date>05/25/2022 1038</issue_date>
+		<effective_date>05/30/2022 2230</effective_date>
+		<expiry_date>06/11/2022 0300</expiry_date>
+		<notam_body>A2271/22 NOTAMN
+Q) LFEE/QMRLC/IV/NBO/A /000/999/4735N00732E005
+A) LFSB B) 2205302230 C) 2206110300
+D) 2230-0300
+E) RUNWAYS 15/33 AND 07/25 CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0344/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0710</issue_date>
+		<effective_date>06/10/2022 2130</effective_date>
+		<expiry_date>06/11/2022 0300</expiry_date>
+		<notam_body>A0344/22 NOTAMN
+Q) LSAS/QICAS/I/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2206102130 C) 2206110300
+E) MNM ONE ILS U/S DUE TO MAINT. DETAILED INFO ABT ACT AND 
+ILS STS AVBL ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A2417/22</number>
+		<class>International</class>
+		<issue_date>06/03/2022 0844</issue_date>
+		<effective_date>06/03/2022 0843</effective_date>
+		<expiry_date>06/11/2022 0300</expiry_date>
+		<notam_body>A2417/22 NOTAMR A2231/22
+Q) LFEE/QFALT/IV/NBO/A /000/999/4735N00732E005
+A) LFSB B) 2206030843 C) 2206110300
+E) REHABILITATION OF A PORTION OF &amp;apos;SOUTH&amp;apos; PARKING AREA - AIRAC AIP 
+SUP 003/22 EXTENDED TO 11 JUNE 2022 :
+SUBJECT : AD USE RESTRICTIONS AND CHANGES IN STANDS AND ACCESS 
+CONDITIONS TO PARKING AREA.
+INDIVIDUAL PHASES WILL BE ACTIVATED BY NOTAM.
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A2418/22</number>
+		<class>International</class>
+		<issue_date>06/03/2022 0851</issue_date>
+		<effective_date>06/03/2022 0850</effective_date>
+		<expiry_date>06/11/2022 0300</expiry_date>
+		<notam_body>A2418/22 NOTAMR A2232/22
+Q) LFEE/QFALT/IV/NBO/A /000/999/4735N00732E005
+A) LFSB B) 2206030850 C) 2206110300
+E) AIRAC AIP SUP 003/22 : &amp;apos;WORK ON THE SOUTH TARMAC&amp;apos; IN PROGRESS</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0962/22</number>
+		<class>International</class>
+		<issue_date>05/01/2022 1459</issue_date>
+		<effective_date>05/02/2022 0500</effective_date>
+		<expiry_date>06/10/2022 1600</expiry_date>
+		<notam_body>A0962/22 NOTAMN
+Q) LOVV/QMXLT/IV/M  /A /000/999/4807N01634E005
+A) LOWW B) 2205020500 C) 2206101600
+E) TAXILANE 38 WEST OF PARKING STAND F51 RESTRICTED TO MAX WINGSPAN 
+36 M</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0345/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0714</issue_date>
+		<effective_date>06/09/2022 2130</effective_date>
+		<expiry_date>06/10/2022 0200</expiry_date>
+		<notam_body>A0345/22 NOTAMN
+Q) LSAS/QICAS/I/NBO/A/000/999/4727N00833E005
+A) LSZH B) 2206092130 C) 2206100200
+E) MNM ONE ILS U/S DUE TO CLBR FLT. DETAILED INFO ABT ACT AND 
+ILS STS AVBL ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWG</location>
+		<number>A1070/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 0626</issue_date>
+		<effective_date>06/09/2022 0600</effective_date>
+		<expiry_date>06/09/2022 1000</expiry_date>
+		<notam_body>A1070/22 NOTAMN
+Q) LOVV/QNMAS/IV/BO /AE/000/999/4657N01527E025
+A) LOWG B) 2206090600 C) 2206091000
+E) DVOR/DME GRZ 116.200MHZ/CH109X U/S</notam_body>
+	</notam>
+	<notam>
+		<location>LOWG</location>
+		<number>A1069/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 0625</issue_date>
+		<effective_date>06/08/2022 0600</effective_date>
+		<expiry_date>06/08/2022 1400</expiry_date>
+		<notam_body>A1069/22 NOTAMN
+Q) LOVV/QNMAS/IV/BO /AE/000/999/4657N01527E025
+A) LOWG B) 2206080600 C) 2206081400
+E) DVOR/DME GRZ 116.200MHZ/CH109X U/S</notam_body>
+	</notam>
+</notam_list>

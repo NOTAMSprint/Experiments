@@ -1,0 +1,2381 @@
+<notam_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<notam>
+		<location>EDSB</location>
+		<number>C2370/21</number>
+		<class>International</class>
+		<issue_date>07/08/2021 1237</issue_date>
+		<effective_date>07/08/2021 1236</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>STUTTGART DVOR/DME STG 116.85/CH115Y DVOR PART ON R166 ONY USABLE
+UP TO 12NM AT AND BELOW 6000FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C2371/21</number>
+		<class>International</class>
+		<issue_date>07/08/2021 1258</issue_date>
+		<effective_date>07/08/2021 1258</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>STUTTGART DVOR/DME STG 116.85/CH115Y DVOR PART ON R277 NOT USABLE 
+AT 29.8NM AT AND BELOW 5000FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C2863/21</number>
+		<class>International</class>
+		<issue_date>08/25/2021 1210</issue_date>
+		<effective_date>08/25/2021 1209</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>ILS RWY 03 IKBE
+LOC COVERAGE UP TO 25NM IN SECTOR -10DEG(W) - 9DEG(O) IN RELATION 
+TO RCL. MNM INTERCEPTION ALT IN THESE AREAS 3200FT MSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZR</location>
+		<number>B1546/21</number>
+		<class>International</class>
+		<issue_date>11/22/2021 0949</issue_date>
+		<effective_date>11/22/2021 0949</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>STAR KPT 3H: 
+KPT DVOR/DME 108.40 FIELD STRENGTH INSUFFICIENT AFT ZR612. 
+EXP RADAR VECTORS TO IAF.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGC</location>
+		<number>B0118/22</number>
+		<class>International</class>
+		<issue_date>01/31/2022 0712</issue_date>
+		<effective_date>01/31/2022 0712</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>RWY 24 ILS LOC ICF 108.150 AND GP 334.550 U/S.
+RWY 24 ILS AND LOC APCH NOT AVBL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C0390/22</number>
+		<class>International</class>
+		<issue_date>02/09/2022 1649</issue_date>
+		<effective_date>02/09/2022 1648</effective_date>
+		<expiry_date>05/09/2022 2159EST</expiry_date>
+		<notam_body>BADEN RESCUE FREQ 121.555MHZ NOT AVBL.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P0929/22</number>
+		<class>Military</class>
+		<issue_date>02/10/2022 1908</issue_date>
+		<effective_date>02/10/2022 1858</effective_date>
+		<expiry_date>05/10/2022 2200EST</expiry_date>
+		<notam_body>LOW VISIBILITY TAKE OFF PROCEDURE SUSPENDED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C0429/22</number>
+		<class>International</class>
+		<issue_date>02/14/2022 0829</issue_date>
+		<effective_date>02/14/2022 0827</effective_date>
+		<expiry_date>05/14/2022 2359EST</expiry_date>
+		<notam_body>DUE TO NAVAID COVERAGE OF KRH DVOR/DME THE FLW CHANGES TO SID 
+OCCUR:
+RWY 03:
+NATOR5Q TEMPO SUSPENDED.
+REF AIP PAGES AD 2 EDTL 5-7-1 EFF 28 MAR 2019 AND 5-7-2 EFF 23
+MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDJA</location>
+		<number>C0435/22</number>
+		<class>International</class>
+		<issue_date>02/14/2022 1442</issue_date>
+		<effective_date>02/15/2022 0500</effective_date>
+		<expiry_date>05/15/2022 2100EST</expiry_date>
+		<notam_body>TWY B CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>EDJA</location>
+		<number>C0436/22</number>
+		<class>International</class>
+		<issue_date>02/14/2022 1510</issue_date>
+		<effective_date>02/15/2022 0500</effective_date>
+		<expiry_date>05/15/2022 2100EST</expiry_date>
+		<notam_body>TWY P CLSD BTN 100M EASTWARDS OF INT LEADING INTO APN 4 AND TWY B.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>M0171/22</number>
+		<class>Military</class>
+		<issue_date>02/16/2022 0524</issue_date>
+		<effective_date>02/16/2022 0513</effective_date>
+		<expiry_date>05/31/2022 2200EST</expiry_date>
+		<notam_body>CRANE ERECTED 275DEG 6610M FROM ARP ETHL PSN AT 481338N0094919E 
+MAX HEIGHT 126FT AGL / 1801FT AMSL DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A0705/22</number>
+		<class>International</class>
+		<issue_date>02/17/2022 0821</issue_date>
+		<effective_date>02/17/2022 0821</effective_date>
+		<expiry_date>05/17/2022 2359EST</expiry_date>
+		<notam_body>DUE TO NAVAID COVERAGE OF LBU DME THE FLW CHANGES TO SID OCCUR:
+GPS / FMS RNAV OVERLAYS REMAIN UNCHANGED.
+RWY 25:
+OKIBA4B: ADD RMK: AFTER PASSING LBU BRNAV EQUIPMENT NECESSARY.
+RWY07:
+ETASA2H: ADD RMK: AFTER PASSING LBU BRNAV EQUIPMENT NECESSARY.
+REF AIP AD 2 EDDS 5-7-2 EFF 30 APR 2015, 5-7-3 AND 5-7-7 BOTH
+EFF 26 MAR 2020, 5-7-5 EFF 20 AUG 2015.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C0466/22</number>
+		<class>International</class>
+		<issue_date>02/17/2022 1011</issue_date>
+		<effective_date>02/28/2022 0500</effective_date>
+		<expiry_date>09/30/2022 1800EST</expiry_date>
+		<notam_body>CRANE 2.7NM NE OF ARP, 474149N 0093404E, ELEV 1467FT/83FT GND, 
+JIB 32M, NIGHT MARKED. CRANE IS LOCATED IN CLOSE VICINITY BUT 
+OUTSIDE APCH AND SFC RWY 24.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTD</location>
+		<number>C0509/22</number>
+		<class>International</class>
+		<issue_date>02/21/2022 1217</issue_date>
+		<effective_date>02/21/2022 1217</effective_date>
+		<expiry_date>05/21/2022 2359EST</expiry_date>
+		<notam_body>DURING ACTIVATION OF NLFS (EDR150) THE FLW CHANGES TO 
+MAPCH PROC OCCUR:
+CROSS TD004 AT OR ABOVE 4000. MINIMUM MISSED APPROACH CLIMB GRADIENT 
+IS 4.6 PERCENT (280FT/NM) UNTIL PASSING 4000. 
+REF AIP PAGES AD 2 EDTD 4-6-1 DATED 25 FEB 2021.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTD</location>
+		<number>C0510/22</number>
+		<class>International</class>
+		<issue_date>02/21/2022 1218</issue_date>
+		<effective_date>02/21/2022 1217</effective_date>
+		<expiry_date>05/21/2022 2359EST</expiry_date>
+		<notam_body>DURING ACTIVATION OF NLFS (EDR150) THE FLW CHANGES TO STAR OCCUR:
+NATOR4D: AMEND MNM IFR CRUSING LEVEL BETWEEN NATOR AND XIBUD TO 
+READ 7500.
+EMKIL2D: AMEND MNM IFR CRUSING LEVEL BETWEEN EMKIL AND ALUVI TO 
+READ 6700.
+REF AIP PAGES AD 2 EDTD 3-1-1 EFF 01 MAY 2014, 3-1-2 DATED 
+23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTD</location>
+		<number>C0511/22</number>
+		<class>International</class>
+		<issue_date>02/21/2022 1219</issue_date>
+		<effective_date>02/21/2022 1219</effective_date>
+		<expiry_date>05/21/2022 2359EST</expiry_date>
+		<notam_body>DURING ACTIVATION OF NLFS (EDR150) THE FLW CHANGES TO SID OCCUR:
+RWY 18:
+MOPAN3S: CROSS TD183 AT OR ABOVE 7500FT. PDG 3.3 PERCENT (205 FT/NM).
+INITIAL CLIMB ALTITUDE IS FL80.
+RWY 36:
+MOPAN3N: CROSS TD183 AT OR ABOVE 7500FT. PDG 5.5 PERCENT 
+(330 FT/NM). 
+INITIAL CLIMB ALTITUDE IS FL80.
+REF AIP PAGES AD 2 EDTD 5-7-1 AND 5-7-3 EFF 23 MAY 2019, 5-7-2 
+AND 5-7-4 DATED 23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSG</location>
+		<number>C0521/22</number>
+		<class>International</class>
+		<issue_date>02/24/2022 1514</issue_date>
+		<effective_date>02/24/2022 1514</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>MOCA TO 2700FT ON TRACKS SG403-ISG26 AND SG402-ISG26
+AD 2 LFSG IAC RWY26 RNP REFERS</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C0550/22</number>
+		<class>International</class>
+		<issue_date>02/24/2022 1517</issue_date>
+		<effective_date>02/24/2022 1517</effective_date>
+		<expiry_date>05/24/2022 2359EST</expiry_date>
+		<notam_body>DUE TO NAVAID COVERAGE OF ZUE DVOR/DME THE FLW CHANGES TO
+MISSED APCH OCCUR:
+ILS OR LOC RWY 06:
+CLIMB ON HEADING 058 DEG TO 5000 AND EXPECT VECTORING BY ATC.
+CROSS 9.7 DME FHD AT OR ABOVE 4200.
+PDG 4.8 PER CENT (295 FT/NM).
+ILS OR LOC RWY 24:
+CLIMB ON HEADING 238 DEG TO 5000 AND EXPECT VECTORING BY ATC.
+CROSS 9.3 DME FHD AT OR ABOVE 4000.
+PDG 4.4 PER CENT (270 FT/NM).
+IN CASE OF RADIO COMMUNICATION FAILURE PROCEED TO ALTERNATE 
+AERODROME.
+RNP MAPCH REMAIN UNCHANGED.
+REF AIP AD2 EDNY 4-2-1 DATED 25 FEB 2021, 4-2-2 EFF 08 NOV 2018.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C0551/22</number>
+		<class>International</class>
+		<issue_date>02/24/2022 1518</issue_date>
+		<effective_date>02/24/2022 1518</effective_date>
+		<expiry_date>05/24/2022 2359EST</expiry_date>
+		<notam_body>DUE TO NAVAID COVERAGE OF ZUE DVOR/DME THE FLW CHANGES TO
+APCH OCCUR:
+ALL STANDARD ILS OR LOC APCH FROM IAF MOKOP TEMP SUSPENDED. 
+EXPECT VECTORING TO FINAL.
+BETWEEN 2300 (2200) AND 0440 (0340) UTC NO VECTORING AVAILABLE. 
+DURING THIS TIME ONLY RNP APCH POSSIBLE.
+RNP APCH REMAIN UNCHANGED.
+REF AIP AD2 EDNY 4-2-1 DATED 25 FEB 2021, 4-2-2 EFF 08 NOV 2018.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTD</location>
+		<number>C0643/22</number>
+		<class>International</class>
+		<issue_date>03/03/2022 1050</issue_date>
+		<effective_date>03/03/2022 1049</effective_date>
+		<expiry_date>05/31/2022 2359EST</expiry_date>
+		<notam_body>STAR CHG, DUE TO DECOMMISSIONING OF TRA DVOR/DME, VOR-PART:
+TRA 3D - AMEND TRA DVOR/DME TO READ TRA DME. ADD RMK, BRNAV EQPT 
+NECESSARY. CHG PERM.
+REF AIP PAGES AD 2 EDTD 3-1-1 EFF 01 MAY 2014, 3-1-2 
+DATED 23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A0965/22</number>
+		<class>International</class>
+		<issue_date>03/03/2022 1407</issue_date>
+		<effective_date>03/03/2022 1406</effective_date>
+		<expiry_date>05/30/2022 2359EST</expiry_date>
+		<notam_body>DUE TO COVERAGE OF STG DVOR/DME THE FLW CHANGES TO MAPCH OCCUR:
+ILS OR LOC AND VOR RWY 25:
+DISREGARD R277 STG. USE R223 LBU ONLY.
+REF AIP AD2 EDDS 4-2-1 EFF 26 MAR 2020, 4-3-1 EFF 26 MAR 2020.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A0976/22</number>
+		<class>International</class>
+		<issue_date>03/04/2022 0446</issue_date>
+		<effective_date>03/04/2022 0445</effective_date>
+		<expiry_date>05/31/2022 2359EST</expiry_date>
+		<notam_body>CRANE AT LEINFELDEN-ECHTERDINGEN, PSN 275DEG MAG/2.9 NM FROM ARP,
+484146N 0090854E, ELEV 1556 FT / 165 FT AGL, DAY AND NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTG</location>
+		<number>E0542/22</number>
+		<class>Military</class>
+		<issue_date>03/10/2022 0633</issue_date>
+		<effective_date>03/10/2022 0633</effective_date>
+		<expiry_date>06/09/2022 2359EST</expiry_date>
+		<notam_body>CRANE WI INNER TFC PATTERN SE OF AD, APRX 850M S OF THR 05, 
+475327N 0073643E, ELEV 905FT/202FT AGL, BOOM RADIUS 61M. DAY AND 
+NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A1215/22</number>
+		<class>International</class>
+		<issue_date>03/17/2022 0508</issue_date>
+		<effective_date>03/17/2022 0508</effective_date>
+		<expiry_date>06/17/2022 2359EST</expiry_date>
+		<notam_body>CRANE PSN LEINFELDEN-ECHTERDINGEN, 272DEG MAG/2.9NM FROM ARP,
+484139N 0090858E, ELEV 1565FT/178FT AGL. DAY AND NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZB</location>
+		<number>B0326/22</number>
+		<class>International</class>
+		<issue_date>03/17/2022 0710</issue_date>
+		<effective_date>03/17/2022 0710</effective_date>
+		<expiry_date>04/25/2023 2359EST</expiry_date>
+		<notam_body>CRANE 3.1KM 321DEG GEO ARP LSZB, MARKED, LIGHTED, 465601N0072826E,
+40.3M / 132.3FT AGL, 592.4M / 1943.6FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A1238/22</number>
+		<class>International</class>
+		<issue_date>03/17/2022 1021</issue_date>
+		<effective_date>03/27/2022 0000</effective_date>
+		<expiry_date>06/19/2022 2359EST</expiry_date>
+		<notam_body>FUEL AVGAS 100LL FUELLING SERVICES ONLY AVBL BTN 0330-1630. 
+EXEMPTION FOR AMBULANCE FLIGHTS ONLY WITH 2HR PPR VIA PHONE: 
++49 (0)711-7940598.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGK</location>
+		<number>B0369/22</number>
+		<class>International</class>
+		<issue_date>03/24/2022 0937</issue_date>
+		<effective_date>03/24/2022 0937</effective_date>
+		<expiry_date>11/25/2022 2359EST</expiry_date>
+		<notam_body>CRANES 0.7KM 074DEG GEO ARP LSGK, MARKED, LGTD, 462918N0071528E,
+33.6M / 110.2FT AGL, 1042.0M / 3418.6FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZR</location>
+		<number>B0377/22</number>
+		<class>International</class>
+		<issue_date>03/25/2022 0700</issue_date>
+		<effective_date>03/25/2022 0700</effective_date>
+		<expiry_date>08/27/2022 2359EST</expiry_date>
+		<notam_body>CRANE 0.4KM 067DEG GEO ARP LSZR, MARKED, LGTD, 472911N0093402E,
+24.0M / 78.8FT AGL, 421.7M / 1383.6FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTG</location>
+		<number>E0748/22</number>
+		<class>Military</class>
+		<issue_date>03/29/2022 0741</issue_date>
+		<effective_date>03/29/2022 0741</effective_date>
+		<expiry_date>06/29/2022 2359EST</expiry_date>
+		<notam_body>ACFT HEAVIER 14T MTOM, 48HR PPR DUE TO TEMPO REDUCED FIRE 
+FIGHTING EQPT.</notam_body>
+	</notam>
+	<notam>
+		<location>EDJA</location>
+		<number>C0900/22</number>
+		<class>International</class>
+		<issue_date>03/29/2022 1226</issue_date>
+		<effective_date>04/05/2022 2000</effective_date>
+		<expiry_date>07/05/2022 2359EST</expiry_date>
+		<notam_body>OCA(H) VALUES RAISED AS FOLLOWS:
+LNAV/VNAV RWY 06: ACFT CATEGORY A 2330 (251) FT, B 2340 (261),
+C 2350 (271), D 2360 (281) DUE TO MOBILE CRANE AT 475840N 0101357E.
+ELEV 2199FT.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2153/22</number>
+		<class>Military</class>
+		<issue_date>03/30/2022 0524</issue_date>
+		<effective_date>03/30/2022 0522</effective_date>
+		<expiry_date>06/24/2022 2200EST</expiry_date>
+		<notam_body>AD PPR.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZB</location>
+		<number>B0440/22</number>
+		<class>International</class>
+		<issue_date>04/04/2022 0627</issue_date>
+		<effective_date>04/05/2022 0000</effective_date>
+		<expiry_date>05/20/2022 2359EST</expiry_date>
+		<notam_body>PRKG PSN G2-G5 AND Y6 CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZB</location>
+		<number>B0454/22</number>
+		<class>International</class>
+		<issue_date>04/06/2022 0508</issue_date>
+		<effective_date>04/06/2022 0508</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>ANTENNA 0.3KM 000DEG GEO ARP LSZB, MARKED, LGTD, 465454N0072957E,
+21.0M / 68.9FT AGL, 530.7M / 1740.9FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZG</location>
+		<number>B0455/22</number>
+		<class>International</class>
+		<issue_date>04/06/2022 0516</issue_date>
+		<effective_date>04/06/2022 0516</effective_date>
+		<expiry_date>05/29/2023 2359EST</expiry_date>
+		<notam_body>CRANES 2.4KM 317DEG GEO ARP LSZG, MARKED, LGTD, 471149N0072341E,
+51.0M / 167.4FT AGL, 511.6M / 1678.5FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A1675/22</number>
+		<class>International</class>
+		<issue_date>04/06/2022 0654</issue_date>
+		<effective_date>04/06/2022 0654</effective_date>
+		<expiry_date>07/06/2022 2359EST</expiry_date>
+		<notam_body>MSA RAISED AS FOLLOWS:
+SECTOR BTN CLOCKWISE 245 DEG MAG AND 345 DEG MAG INBOUND STG DVOR/DME
+RAISED TO 4300FT MSL, DUE TO WINDPARK PSN 483244N 0094212E,
+ELEV 3313FT. AIP AD 2 EDDS 3-1-2, 3-1-3, 3-1-4, 3-1-5, 3-1-6, 4-2-1,
+4-2-2, 4-3-1, 4-3-2, 5-7-3, 5-7-7 REFER.</notam_body>
+	</notam>
+	<notam>
+		<location>EDMB</location>
+		<number>E0887/22</number>
+		<class>Military</class>
+		<issue_date>04/06/2022 1342</issue_date>
+		<effective_date>04/06/2022 1342</effective_date>
+		<expiry_date>07/06/2022 2359EST</expiry_date>
+		<notam_body>AD HOURS OF OPS CHANGEND AS FLW:
+MON-THU 1100-1800.
+FRI 1200-1800.
+SAT, SUN 0700-1800.
+ALL OTHER TIMES PPR TIL 1400 ONE DAY IN ADVANCE.
+SHORT DLA POSS DUE TO TEMPO VEHICLES ON RWY.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1002/22</number>
+		<class>International</class>
+		<issue_date>04/07/2022 1816</issue_date>
+		<effective_date>04/07/2022 1815</effective_date>
+		<expiry_date>07/07/2022 1800EST</expiry_date>
+		<notam_body>SEVERAL CRANES ERECTED RADIUS 100M CENTERED ON 474053N 0093523E, 
+2.7NM E AIRPORT, ELEV 1661FT AMSL/147FT AGL, NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZB</location>
+		<number>B0466/22</number>
+		<class>International</class>
+		<issue_date>04/08/2022 0508</issue_date>
+		<effective_date>04/08/2022 0508</effective_date>
+		<expiry_date>03/16/2023 2359EST</expiry_date>
+		<notam_body>CRANES 2.1KM 273DEG GEO ARP LSZB, MARKED, LGTD, 
+465448N0072820E, 35.0M / 114.9FT AGL, 600.0M / 1968.6FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDJA</location>
+		<number>C1015/22</number>
+		<class>International</class>
+		<issue_date>04/08/2022 0743</issue_date>
+		<effective_date>04/08/2022 0743</effective_date>
+		<expiry_date>07/08/2022 2359EST</expiry_date>
+		<notam_body>TWY P EDGE LIGHTS U/S.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>M0362/22</number>
+		<class>Military</class>
+		<issue_date>04/11/2022 0616</issue_date>
+		<effective_date>04/11/2022 0603</effective_date>
+		<expiry_date>07/08/2022 0603EST</expiry_date>
+		<notam_body>SEVERAL CRANES ERECTED WITHIN ARC 285-075 DEG AND ARC 105-255 DEG 
+MAX DISTANCE 6000M FROM ARP ETHL 481312N0095437E 
+MAX HGT 230FT AGL/2000FT AMSL VARIOUS MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A1769/22</number>
+		<class>International</class>
+		<issue_date>04/11/2022 0857</issue_date>
+		<effective_date>04/11/2022 0857</effective_date>
+		<expiry_date>07/09/2022 2359EST</expiry_date>
+		<notam_body>SEVERAL CRANES 2.9NM W OF ARP, AT LEINFELDEN 484138N 0090854E. 
+ELEV 1572FT/181FT AGL. DAY AND NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZG</location>
+		<number>B0497/22</number>
+		<class>International</class>
+		<issue_date>04/20/2022 0642</issue_date>
+		<effective_date>04/20/2022 0642</effective_date>
+		<expiry_date>01/14/2023 2359EST</expiry_date>
+		<notam_body>CRANE 1.6KM 001DEG GEO ARP LSZG, MARKED, LGTD, 471146N0072501E,
+45.0M / 147.7FT AGL, 498.0M / 1633.9FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZR</location>
+		<number>B0498/22</number>
+		<class>International</class>
+		<issue_date>04/20/2022 0654</issue_date>
+		<effective_date>04/20/2022 0654</effective_date>
+		<expiry_date>07/23/2022 2359EST</expiry_date>
+		<notam_body>CRANE 1.2KM 273DEG GEO ARP LSZR, MARKED, LGTD, 472908N0093247E,
+28.0M / 91.9FT AGL, 425.1M / 1394.5FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDMB</location>
+		<number>F1380/22</number>
+		<class>Military</class>
+		<issue_date>04/20/2022 1324</issue_date>
+		<effective_date>05/02/2022 0400</effective_date>
+		<expiry_date>08/02/2022 2359EST</expiry_date>
+		<notam_body>2 CRANES ERECTED PSN 0,6NM E OF LANDINGSITE 
+ELEV 2077FT AMSL/119FT AGL
+JIB 43M, NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1150/22</number>
+		<class>International</class>
+		<issue_date>04/21/2022 0852</issue_date>
+		<effective_date>05/01/2022 0000</effective_date>
+		<expiry_date>08/01/2022 2359EST</expiry_date>
+		<notam_body>SID CHANGED DUE TO RENEWAL OF STR VOR/DME:
+RWY 21:
+STR 6P TEMPO SUSPENDED.
+REF AD 2 EDSB 5-7-3 EFF 28 FEB 2019, 5-7-4 EFF 23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1151/22</number>
+		<class>International</class>
+		<issue_date>04/21/2022 0856</issue_date>
+		<effective_date>05/01/2022 0000</effective_date>
+		<expiry_date>08/01/2022 2359EST</expiry_date>
+		<notam_body>APCH CHG DUE TO RENEWAL OF STR VOR/DME:
+RWY 21:
+ALL CONVENTIONAL STANDARD APROACHES FROM IAF SUL TEMPO SUSPENDED.
+REF AD 2 EDTL 4-2-1, 4-4-2 BOTH EFF 28 MAR 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1154/22</number>
+		<class>International</class>
+		<issue_date>04/21/2022 0858</issue_date>
+		<effective_date>05/01/2022 0000</effective_date>
+		<expiry_date>08/01/2022 2359EST</expiry_date>
+		<notam_body>SID CHG DUE TO RENEWAL OF STR VOR/DME:
+RWY 03:
+STR 3Q TEMPO SUSPENDED.
+RWY 21:
+STR 3R AND NATOR 5R TEMPO SUSPENDED.
+REF AD 2 EDTL 5-7-1, 5-7-3 BOTH EFF 28 MAR 2019, 5-7-2, 5-7-4 BOTH
+EFF EFF 23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1182/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 1340</issue_date>
+		<effective_date>04/22/2022 1339</effective_date>
+		<expiry_date>07/22/2022 2359EST</expiry_date>
+		<notam_body>STAR CHG, DUE TO NAVAID COVERAGE OF SUL DVOR:
+RWY 03/21 - SUL6T, SUL4A TEMPO SUSPENDED.
+REF AIP PAGES AD 2 EDTL 3-1-1 EFF 28 MAR 2018 AND 3-2-1 EFF 27 APR 
+2017.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1183/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 1341</issue_date>
+		<effective_date>04/22/2022 1340</effective_date>
+		<expiry_date>07/22/2022 2359EST</expiry_date>
+		<notam_body>DUE TO NAVAID COVERAGE OF SUL DVOR THE FLW CHANGES TO SID OCCUR:
+RWY 03: SUL 6Q, NATOR 5Q TEMPO SUSPENDED.
+REF AIP PAGES AD 2 EDTL 5-7-1 EFF 28 MAR 2019 AND 5-7-2 
+EFF 23 MAY 2019.
+RWY 21: SUL 6R, NATOR 5R TEMPO SUSPENDED.
+REF AIP PAGES AD 2 EDTL 5-7-3 EFF 28 MAR 2019 AND 5-7-4 
+EFF 23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZS</location>
+		<number>B0530/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 1511</issue_date>
+		<effective_date>04/22/2022 1511</effective_date>
+		<expiry_date>06/18/2022 2359EST</expiry_date>
+		<notam_body>MOBILE CRANE 1.0KM 245DEG GEO ARP LSZS, MARKED, LGTD,
+463150N0095218E, 58.0M / 190.3FT AGL, 1758.9M / 5770.7FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1203/22</number>
+		<class>International</class>
+		<issue_date>04/26/2022 0116</issue_date>
+		<effective_date>04/26/2022 0116</effective_date>
+		<expiry_date>07/25/2022 2359EST</expiry_date>
+		<notam_body>OBSTACLE CLEARANCE SURFACE PENETRATED BY MOBILE CRANE
+PSN BETWEEN 300M AN 600 M BEFORE THR 03, 270M NW OF EXTENDED RCL.
+482122N 0074846E. MAX ELEV 752FT/237FT AGL. DAY AND NIGHT MARKED.
+DURING IFR APCH RWY 03 AND RWY 21 CRANE WILL BE RETRACTED BELOW OBST
+FREE SURFACES.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZB</location>
+		<number>B0541/22</number>
+		<class>International</class>
+		<issue_date>04/26/2022 0557</issue_date>
+		<effective_date>04/26/2022 0550</effective_date>
+		<expiry_date>09/29/2023 2359EST</expiry_date>
+		<notam_body>CRANE 2.8KM 179DEG GEO ARP LSZB, MARKED, LGTD, 465313N0073001E,
+38.9M / 127.5FT AGL, 562.3M / 1844.9FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0251/22</number>
+		<class>International</class>
+		<issue_date>04/26/2022 0607</issue_date>
+		<effective_date>04/26/2022 0601</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>CRANE 5.2KM 183DEG GEO ARP LSZH, MARKED, LGTD, 472440N0083239E,
+106.5M / 349.5FT AGL, 548.5M / 1799.6FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1219/22</number>
+		<class>International</class>
+		<issue_date>04/27/2022 0018</issue_date>
+		<effective_date>04/27/2022 0017</effective_date>
+		<expiry_date>07/27/2022 2359EST</expiry_date>
+		<notam_body>CRANE 2.7 NM SSW ARP. PSN 473935N 0092654E. ELEV 1490FT/97FT AGL. 
+NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1241/22</number>
+		<class>International</class>
+		<issue_date>04/28/2022 0908</issue_date>
+		<effective_date>04/28/2022 0908</effective_date>
+		<expiry_date>07/28/2022 2359EST</expiry_date>
+		<notam_body>DUE TO NAVAID COVERAGE OF SUL DVOR THE FLW CHANGES TO STAR OCCUR.
+RWY 03/21 - SUL5M: TEMPO SUSPENDED.
+REF AIP PAGES AD 2 EDSB 3-1-1 EFF 28 FEB 2019, 3-1-2 EFF 27 APR 2017.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1242/22</number>
+		<class>International</class>
+		<issue_date>04/28/2022 0909</issue_date>
+		<effective_date>04/28/2022 0909</effective_date>
+		<expiry_date>07/28/2022 2359EST</expiry_date>
+		<notam_body>SID CHG, DUE TO NAVAID COVERAGE OF SUL DVOR:
+RWY 03 - GAGSI 5N AND TUBLO 9N, TEMPO SUSPENDED, EXP RNAV(GPS) SID.
+REF AIP PAGES AD 2 EDSB 5-7-1 EFF 28 FEB 2019 AND 5-7-2 EFF 23 MAY 
+2019.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZB</location>
+		<number>B0568/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1135</issue_date>
+		<effective_date>05/02/2022 1135</effective_date>
+		<expiry_date>05/16/2022 2359EST</expiry_date>
+		<notam_body>CHARGING STN FOR ELECTRO ACFT NOT AVBL.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZB</location>
+		<number>B0571/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0507</issue_date>
+		<effective_date>05/03/2022 0508</effective_date>
+		<expiry_date>06/16/2022 2359EST</expiry_date>
+		<notam_body>MOBILE CRANE 3.0KM 323DEG GEO ARP LSZB, MARKED, LGTD,
+465603N0072831E, 31.8M / 104.4FT AGL, 582.8M / 1912.1FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2274/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1118</issue_date>
+		<effective_date>05/06/2022 1117</effective_date>
+		<expiry_date>05/13/2022 1200EST</expiry_date>
+		<notam_body>SULZ DVOR SUL 116.10 MHZ ON MAINT. DO NOT USE, FALSE INDICATIONS 
+POSS.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1334/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1120</issue_date>
+		<effective_date>05/06/2022 1120</effective_date>
+		<expiry_date>05/13/2022 1200EST</expiry_date>
+		<notam_body>SULZ DVOR SUL 116.10 MHZ ON MAINT. DO NOT USE, FALSE INDICATIONS 
+POSS.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1335/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1121</issue_date>
+		<effective_date>05/06/2022 1121</effective_date>
+		<expiry_date>05/13/2022 1200EST</expiry_date>
+		<notam_body>SULZ DVOR SUL 116.10 MHZ ON MAINT. DO NOT USE, FALSE INDICATIONS 
+POSS.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2275/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1126</issue_date>
+		<effective_date>05/06/2022 1126</effective_date>
+		<expiry_date>05/13/2022 1200EST</expiry_date>
+		<notam_body>DUE TO MAINT OF SUL DVOR THE FLW CHANGE TO SID OCCUR:
+SUL 3B:
+ADD RMK: AFTER PASSING 3500 BRNAV EQUIPMENT NECESSARY.
+REF AIP AD 2 EDDS 5-7-2 EFF 30 APR 2015 AND 5-7-3 DATED 18 JUN 2020.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1341/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1207</issue_date>
+		<effective_date>05/06/2022 1207</effective_date>
+		<expiry_date>05/13/2022 1200EST</expiry_date>
+		<notam_body>DUE TO MAINT OF SUL DVOR THE FLW CHANGE TO STAR OCCUR:
+POSN SUL IDENTIFIED AS SUL INT. COORD REMAIN UNCHANGED.
+SUL 4A AND SUL 6T:
+STAR SUL 4A AND SUL 6T: TEMPO SUSPENDED.
+EXPECT CORRESPONDING RNAV(GPS) STAR.
+NON RNAV(GPS) EQUIPPED ACFT SHALL FILE STAR KRH 4T OR KRH 5A.
+REF AIP AD 2 EDTL 3-1-1 EFF 28 MAR 2019, 3-1-2 EFF 27 APR 2017.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1342/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1209</issue_date>
+		<effective_date>05/06/2022 1209</effective_date>
+		<expiry_date>05/13/2022 1200EST</expiry_date>
+		<notam_body>DUE TO MAINT OF SUL DVOR THE FLW CHANGES TO SID OCCUR:
+GPS / FMS RNAV OVERLAY REMAIN UNCHANGED.
+SID NATOR 5Q AND SUL 6Q: TEMPO SUSPENDED.
+EXPECT CORRESPONDING RNAV(GPS) SID.
+SID NATOR 5R AND SUL 6R: TEMPO SUSPENDED.
+EXPECT CORRESPONDING RNAV(GPS) SID.
+REF AIP AD 2 EDTL 5-7-1 AND 5-7-3 BOTH EFF 28 MAR 2019, 5-7-2 AND
+5-7-4 BOTH EFF 23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>LFGA</location>
+		<number>C0669/22</number>
+		<class>International</class>
+		<issue_date>03/10/2022 1050</issue_date>
+		<effective_date>04/21/2022 0000</effective_date>
+		<expiry_date>04/20/2023 2359</expiry_date>
+		<notam_body>OPERATIONAL EVALUATION OF THE RNP 261 PINS IFR PROCEDURE ON 
+COLMAR 
+HOSPITAL PASTEUR HELIPORT -  AIRAC AIP SUP 043/22 :
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1201/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0901</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>12/31/2022 2359</expiry_date>
+		<notam_body>EXTENSION OF MODIFICATION, ON AN EXPERIMENTAL BASIS, OF THE RWY 
+15 
+RNAV SID TOWARDS &amp;apos;TORPA&amp;apos; AND &amp;apos;MOROK&amp;apos; - AIRAC AIP SUP 056/22 :
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFQC</location>
+		<number>R0202/22</number>
+		<class>International</class>
+		<issue_date>01/27/2022 0836</issue_date>
+		<effective_date>02/14/2022 0700</effective_date>
+		<expiry_date>12/30/2022 1400</expiry_date>
+		<notam_body>UAV FLIGHTS IN LUNEVILLE AREA - AIP SUP 010/22 :
+SUBJECT : CREATION OF A TEMPORARY RESTRICTED AREA.
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR
+F) SFC G) 1700FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LFST</location>
+		<number>F0506/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0856</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>11/30/2022 2359</expiry_date>
+		<notam_body>TEMPORARY REPLACEMENT OF THE VOR/DME STR - AIRAC AIP SUP 055/22 :
+SUBJECT : IMPACT ON THE AWY NETWORK, SID, STAR AND IFR PROCEDURES.
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFGA</location>
+		<number>A1198/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0857</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>11/30/2022 2359</expiry_date>
+		<notam_body>TEMPORARY REPLACEMENT OF THE VOR/DME STR - AIRAC AIP SUP 055/22 :
+SUBJECT : IMPACT ON IFR APCH PROCEDURES
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1199/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0857</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>11/30/2022 2359</expiry_date>
+		<notam_body>TEMPORARY REPLACEMENT OF THE VOR/DME STR - AIRAC AIP SUP 055/22 :
+SUBJECT : IMPACT ON STAR STR8K
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LSZA</location>
+		<number>W0811/22</number>
+		<class>International</class>
+		<issue_date>03/25/2022 1038</issue_date>
+		<effective_date>03/28/2022 0600</effective_date>
+		<expiry_date>08/26/2022 1530</expiry_date>
+		<notam_body>UNMANNED ACFT WILL TAKE PLACE OVER LUGANO CITY ALONG TR
+460102.09N0085709.64E 460055.24N0085708.51E 460048.51N0085709.74E
+460041.39N0085712.76E 460038.15N0085717.11E 460035.96N0085732.07E
+460035.80N0085740.12E, CENTERED ON 460049.11N0085718.39E BTN EOC
+OSPEDALE REGIONALE DI LUGANO-ITALIANO AND EOC OSPEDALE REGIONALE
+DI LUGANO-CIVICO (BOTH DIRECTIONS) AT AND BLW 140M/460FT AGL.
+FOR INFO CTC TEL +41 76 457 35 11.
+F) GND
+G) 1550FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>W0775/22</number>
+		<class>International</class>
+		<issue_date>03/22/2022 0833</issue_date>
+		<effective_date>03/28/2022 0600</effective_date>
+		<expiry_date>08/22/2022 1500</expiry_date>
+		<notam_body>UNMANNED ACFT ACT WILL TAKE PLACE OVER ZURICH CITY ALONG TR
+472242.00N0083303.29E 472312.88N0083259.61E 472350.93N0083253.76E,
+BTN UNIVERSITY HOSPITAL ZURICH AND UNIVERSITY ZURICH IRCHEL, BOTH
+DIRECTIONS AT AND BLW 120M/400FT AGL. FOR INFO CTC +41 44 440 44 11.
+F) GND
+G) 2100FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LSMP</location>
+		<number>B0587/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 0612</issue_date>
+		<effective_date>07/28/2022 0530</effective_date>
+		<expiry_date>08/08/2022 0530</expiry_date>
+		<notam_body>TWY S CLSD EXC SEGMENT BTN TWY SC AND INT L.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1349/22</number>
+		<class>International</class>
+		<issue_date>05/07/2022 1100</issue_date>
+		<effective_date>05/07/2022 1059</effective_date>
+		<expiry_date>08/05/2022 2200</expiry_date>
+		<notam_body>GLOBAL REPORTING FORMAT RUNWAY CONDITION CODE (RWYCC) AVBL VIA
+ATIS. FULL CONDITION REPORT (RCR) AVBL O/R VIA ATC ONLY.</notam_body>
+	</notam>
+	<notam>
+		<location>LFGA</location>
+		<number>C1264/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0714</issue_date>
+		<effective_date>05/03/2022 0713</effective_date>
+		<expiry_date>08/04/2022 2359</expiry_date>
+		<notam_body>FIXED WINGS ACFT TKOF PROHIBITED FROM INTERMEDIATE PART OF PAVED 
+RWY.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1762/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1039</issue_date>
+		<effective_date>05/03/2022 1000</effective_date>
+		<expiry_date>07/31/2022 1700</expiry_date>
+		<notam_body>ILS DOWNGRADED :
+WHEN VISIBILITY HIGHER THAN 550M AND/OR CEILING GREATER THAN OR 
+EQUAL TO 200FT :
+- ILS 15 DOWNGRADED TO I.T.4
+- ILS 33 DOWNGRADED TO I.B.1.</notam_body>
+	</notam>
+	<notam>
+		<location>LSMP</location>
+		<number>B0586/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 0612</issue_date>
+		<effective_date>07/19/2022 1500</effective_date>
+		<expiry_date>07/28/2022 0530</expiry_date>
+		<notam_body>AD CLSD DUE TO WIP.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>M0424/22</number>
+		<class>Military</class>
+		<issue_date>04/27/2022 1855</issue_date>
+		<effective_date>04/27/2022 1852</effective_date>
+		<expiry_date>07/26/2022 2200</expiry_date>
+		<notam_body>CRANE ERECTED 281 DEG 6360M FROM ARP ETHL PSN AT 48135N0094929E
+MAX HEIGHT 88FT AGL/ 1768FT AMSL DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1230/22</number>
+		<class>International</class>
+		<issue_date>04/27/2022 1237</issue_date>
+		<effective_date>04/27/2022 1236</effective_date>
+		<expiry_date>07/25/2022 2200</expiry_date>
+		<notam_body>TWY H AND TWY S BTN APRON 1 AND APRON 2 AVBL FOR ACFT UP TO ICAO
+CODE E. ACFT ICAO CODE F STAND BY FOR FOLLOW ME.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>M0410/22</number>
+		<class>Military</class>
+		<issue_date>04/25/2022 1838</issue_date>
+		<effective_date>04/25/2022 1836</effective_date>
+		<expiry_date>07/22/2022 2200</expiry_date>
+		<notam_body>CRANE ERECTED 283DEG 13598M FROM ARP ETHL AT PSN 481453N0094355E 
+MAX HEIGHT 610FT AGL/2231FT AMSL DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>LSMP</location>
+		<number>B0584/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 0610</issue_date>
+		<effective_date>07/01/2022 1500</effective_date>
+		<expiry_date>07/19/2022 1500</expiry_date>
+		<notam_body>TWY S CLSD EXC SEGMENT BTN TWY SC AND INT M.</notam_body>
+	</notam>
+	<notam>
+		<location>LSMP</location>
+		<number>B0585/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 0611</issue_date>
+		<effective_date>07/01/2022 1500</effective_date>
+		<expiry_date>07/19/2022 1500</expiry_date>
+		<notam_body>RWY 23 ILS GP U/S.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1452/22</number>
+		<class>International</class>
+		<issue_date>04/14/2022 0906</issue_date>
+		<effective_date>04/14/2022 0906</effective_date>
+		<expiry_date>07/14/2022 2359</expiry_date>
+		<notam_body>NOISE ABATEMENT PROCEDURES - NEW RESTRICTIONS :
+-NO CHAPTER 3 AIRCRAFT WHOSE CUMULATIVE MARGIN IS LESS THAN 13 EPNDB 
+MAY :
+   -LAND OR PUSH BACK BETWEEN 2000 AND 2200
+   -LAND BETWEEN 0300 AND 0400.
+REGARDLESS OF ITS CUMULATIVE MARGIN.
+-NO AIRCRAFT MAY CARRY OUT A SCHEDULED DEPARTURE BETWEEN 2100 AND 
+2200 EXCEPT FOR COMMERCIAL FLIGHTS DELAYED FOR REASONS BEYOND THE 
+CONTROL OF THE CARRIER. 
+-THE AIR CARRIER WILL PROVIDE WITHIN 48HR TO THE CIVIL AVIATION 
+AUTHORITIES THE DETAILS OF THE REASONS FOR THE DELAY OF THE FLIGHTS 
+OPERATED.
+-ANY REFERENCE TO A DEPARTURE TIME SHALL BE UNDERSTOOD AS A PUSHBACK 
+TIME FROM THE ACFT STAND.
+-REF : 
+   AD2 LFSB AD 2.21 
+   AUGUST 06 2021 DECREE.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTM</location>
+		<number>C1028/22</number>
+		<class>International</class>
+		<issue_date>04/10/2022 0018</issue_date>
+		<effective_date>04/10/2022 0017</effective_date>
+		<expiry_date>07/10/2022 2359</expiry_date>
+		<notam_body>MOBILE CRANE IN DEP SECTOR RWY 25 FOR ALL IFR DEP, 
+PSN 480256N 0092026E, ELEV 1953FT/96FT AGL. NOT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZA</location>
+		<number>B0477/22</number>
+		<class>International</class>
+		<issue_date>04/12/2022 0750</issue_date>
+		<effective_date>04/12/2022 0750</effective_date>
+		<expiry_date>07/10/2022 1800</expiry_date>
+		<notam_body>TWY Z CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>LFGA</location>
+		<number>C0940/22</number>
+		<class>International</class>
+		<issue_date>04/02/2022 0806</issue_date>
+		<effective_date>04/02/2022 0806</effective_date>
+		<expiry_date>07/02/2022 2359</expiry_date>
+		<notam_body>GLOBAL REPORTING FORMAT HOURS OF OPS :
+MON-FRI : 0530-1000, 1200-1500.
+SAT SUN  AND HOLLY DAY: 0630-1100,1200-1600
+OUTSIDE THESE HOURS AVBL WITH PPR AS FOLLOWS FOR COMMERCIAL FLIGHTS:
+MON-FRI: 1000-1200 PPR 6HR AD MANAGER
+SAT-SUN:  PPR 18HR AD MANAGER.</notam_body>
+	</notam>
+	<notam>
+		<location>LSMP</location>
+		<number>B0583/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 0609</issue_date>
+		<effective_date>05/09/2022 0530</effective_date>
+		<expiry_date>07/01/2022 1500</expiry_date>
+		<notam_body>TWY S CLSD BTN INT S AND INT P.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0269/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1225</issue_date>
+		<effective_date>05/02/2022 1400</effective_date>
+		<expiry_date>07/01/2022 0400</expiry_date>
+		<notam_body>TWY C3 CLSD FOR CONST VEHICLE PRKG.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A5361/21</number>
+		<class>International</class>
+		<issue_date>12/27/2021 0948</issue_date>
+		<effective_date>12/27/2021 0947</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>INSTRUMENT APPROACH PROCEDURE RNAV GNSS RWY33 NOT AVAILABLE :
+REF AIP FRANCE : AD 2 LFSB IAC RWY33 RNP.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A5362/21</number>
+		<class>International</class>
+		<issue_date>12/27/2021 0955</issue_date>
+		<effective_date>12/27/2021 0954</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>INSTRUMENT APCH ILS Y CAT 1 OR LOC Y RWY33 SUSPENDED
+REF AIP FRANCE: AD2 LFSB IAC RWY33 FNA-ILS Y CAT 1 LOC Y</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A5363/21</number>
+		<class>International</class>
+		<issue_date>12/27/2021 0958</issue_date>
+		<effective_date>12/27/2021 0957</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>FOLLOWING SID ARE SUSPENDED :
+RWY 15 LASAT 7S
+RWY 33 LASAT 7N
+PLANNING THOSE SID IS PROHIBITED
+REF : AD2 LFSB SID RWY 15 RNAV 
+      AD2 LFSB SID RWY 33 RNAV.</notam_body>
+	</notam>
+	<notam>
+		<location>LFQP</location>
+		<number>M0952/22</number>
+		<class>Military</class>
+		<issue_date>03/31/2022 0713</issue_date>
+		<effective_date>03/31/2022 0655</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>TELEPHONE CONTACT OF THE TWR : IF THE CONTROL TWR CANNOT BE 
+REACHED AT +33 (0)3.87.25.21.53, PLEASE USE THE EMERG PHONE : 
++33 (0)6.21.42.45.59.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>M0053/22</number>
+		<class>Military</class>
+		<issue_date>01/20/2022 1357</issue_date>
+		<effective_date>01/28/2022 0700</effective_date>
+		<expiry_date>06/30/2022 2200</expiry_date>
+		<notam_body>CRANE ERECTED 280 DEG 2750M FROM ARP ETHL PSN AT 481327N0095230E 
+MAX HEIGHT 79FT AGL/ 1755FT AMSL DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>EDJA</location>
+		<number>C1315/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 0646</issue_date>
+		<effective_date>06/16/2022 0000</effective_date>
+		<expiry_date>06/29/2022 2359</expiry_date>
+		<notam_body>TRIGGER NOTAM - PERM AIRAC AMDT 06/22 WEF 16 JUN 2022.
+CHANGES TO ATS COMMUNICATION FACILITIES AT MEMMINGEN AD.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0180/22</number>
+		<class>International</class>
+		<issue_date>03/25/2022 0816</issue_date>
+		<effective_date>03/27/2022 0000</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>RWY 10/28 RCL MARKINGS PARTIALLY MIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0181/22</number>
+		<class>International</class>
+		<issue_date>03/25/2022 0820</issue_date>
+		<effective_date>04/04/2022 0000</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>RWY 10/28 GROOVING MIS ON NEW CENTRAL ASPH SFC.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0189/22</number>
+		<class>International</class>
+		<issue_date>03/27/2022 0835</issue_date>
+		<effective_date>03/27/2022 2030</effective_date>
+		<expiry_date>06/24/2022 0500</expiry_date>
+		<notam_body>RWY 10/28 CLSD AFT LAST SKED FLT.
+ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0212/22</number>
+		<class>International</class>
+		<issue_date>04/02/2022 0331</issue_date>
+		<effective_date>04/03/2022 2030</effective_date>
+		<expiry_date>06/24/2022 0500</expiry_date>
+		<notam_body>FOR LDG RWY 34 VACATING VIA TWY B OR E5 ONLY WITH ATC CLR.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0166/22</number>
+		<class>International</class>
+		<issue_date>03/23/2022 1105</issue_date>
+		<effective_date>03/27/2022 2100</effective_date>
+		<expiry_date>06/24/2022 0400</expiry_date>
+		<notam_body>RWY 16/34 CLSD AFT LAST SKED FLT.
+ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSX</location>
+		<number>M0831/22</number>
+		<class>Military</class>
+		<issue_date>03/21/2022 0954</issue_date>
+		<effective_date>03/21/2022 0954</effective_date>
+		<expiry_date>06/20/2022 2359</expiry_date>
+		<notam_body>PROCEDURES SUSPENDED :
+MIAC 2 : AD LFSX MIL B
+MIAC 4 :
+  - HPMA TACAN ILS OR LOC RWY11
+  - HPMA TACAN/PAR RWY11
+  - HPMA TACAN RWY11
+  - DEPARTURE RWY11
+  - DEPARTURE RWY29.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>P2674/22</number>
+		<class>Military</class>
+		<issue_date>04/21/2022 0529</issue_date>
+		<effective_date>04/21/2022 0519</effective_date>
+		<expiry_date>06/20/2022 2359</expiry_date>
+		<notam_body>EDDS MIL AIRFIELD:
+NEW HOURS OF SERVICE DUE TO COVID19.
+0400-2100 MON-FRI AND 0600-1400 SAT-SUN.
+ONLY PPR APPROVED MISSIONS WILL BE SUPPORTED AFTER OPS HR
+PPR REQUESTS OUTSIDE NORMAL OPS HOURS MUST BE SUBMITTED 7 DAYS IN
+ADVANCE.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2516/22</number>
+		<class>Military</class>
+		<issue_date>04/13/2022 0634</issue_date>
+		<effective_date>04/13/2022 0631</effective_date>
+		<expiry_date>06/19/2022 2200</expiry_date>
+		<notam_body>PAR RWY09/27 OUT OF SERVICE</notam_body>
+	</notam>
+	<notam>
+		<location>LFSG</location>
+		<number>C0750/22</number>
+		<class>International</class>
+		<issue_date>03/16/2022 1651</issue_date>
+		<effective_date>03/16/2022 1651</effective_date>
+		<expiry_date>06/16/2022 1600</expiry_date>
+		<notam_body>TAXIWAYS RESTRICTIONS :
+TWY A B D E T1 T2 T3  NOT AVBL FOR FIXED WINGS ACFT WITH WHEELBASE 
+EQUAL OR MORE THAN 18M AND MAIN LANDING GEAR WIDTH EQUAL OR MORE 
+THAN 9M.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1247/22</number>
+		<class>International</class>
+		<issue_date>04/28/2022 1055</issue_date>
+		<effective_date>05/16/2022 0400</effective_date>
+		<expiry_date>06/15/2022 2359</expiry_date>
+		<notam_body>CRANE IN DEP SECTOR RWY 24 FOR ALL IFR DEP.
+PSN 473930N 0092901E, JIB LENGTH 45M.
+ELEV 1434FT/114FT AGL. NOT MARKED AND LIGHTED.
+INFORMATION WILL BE PUBLISHED IN AIP SUP IFR EFF 16 JUN 22.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSG</location>
+		<number>C0738/22</number>
+		<class>International</class>
+		<issue_date>03/15/2022 1423</issue_date>
+		<effective_date>03/15/2022 1422</effective_date>
+		<expiry_date>06/14/2022 2359</expiry_date>
+		<notam_body>TAXIWAY D AND T3 LIGHTING U/S.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSH</location>
+		<number>P1365/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 1526</issue_date>
+		<effective_date>04/22/2022 1526</effective_date>
+		<expiry_date>06/13/2022 1700</expiry_date>
+		<notam_body>CRANE OPR ON AD :
+PSN : 484806N 0074911E
+RDL/D : 005/0.29NM ARP HAGUENAU
+HEIGHT : 78FT
+ELEVATION : 542FT
+LIGHTING : NIGHT AND DAY.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2349/22</number>
+		<class>Military</class>
+		<issue_date>04/06/2022 0840</issue_date>
+		<effective_date>04/06/2022 0837</effective_date>
+		<expiry_date>06/07/2022 2200</expiry_date>
+		<notam_body>HL11-HL31
+HL12-HL32
+HL13-HL33
+
+SUSPENDED</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>M0350/22</number>
+		<class>Military</class>
+		<issue_date>04/06/2022 0842</issue_date>
+		<effective_date>04/06/2022 0839</effective_date>
+		<expiry_date>06/07/2022 2200</expiry_date>
+		<notam_body>LAUPHEIM NDB LUP 407.0KZH UNRELIABLE</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2350/22</number>
+		<class>Military</class>
+		<issue_date>04/06/2022 0842</issue_date>
+		<effective_date>04/06/2022 0839</effective_date>
+		<expiry_date>06/07/2022 2200</expiry_date>
+		<notam_body>NDB RWY09/27 AND COPTER NDB265 AND COPTER NDB091 SUSPENDED</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2060/22</number>
+		<class>International</class>
+		<issue_date>04/27/2022 1412</issue_date>
+		<effective_date>05/30/2022 0400</effective_date>
+		<expiry_date>06/03/2022 1600</expiry_date>
+		<notam_body>HIGH MOBILE CRANE AT PSN 484230N 0090939E FASANENHOF, 2.6NM 
+NW OF ARP, ELEV 1511FT/168FT AGL. DAY AND NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1008/22</number>
+		<class>International</class>
+		<issue_date>04/07/2022 2249</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>06/02/2022 2359</expiry_date>
+		<notam_body>TRIGGER NOTAM - PERM AIRAC AIP AMDT 05/22 WEF 19 MAY 2022.
+CHANGES TO:
+STANDARD ARRIVAL ROUTES AND CHART - INSTRUMENT (STAR), 
+STANDARD DEPARTURE ROUTES AND CHART - INSTRUMENT (SID) , 
+INSTRUMENT APPROACH CHART FOR RWY 06/24 AT FRIEDRICHSHAFEN.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C0628/22</number>
+		<class>International</class>
+		<issue_date>03/02/2022 0826</issue_date>
+		<effective_date>03/02/2022 0825</effective_date>
+		<expiry_date>06/01/2022 2359</expiry_date>
+		<notam_body>LAHR RESCUE FREQ 121.555MHZ OUT OF SERVICE.</notam_body>
+	</notam>
+	<notam>
+		<location>LFST</location>
+		<number>F0505/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0803</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>06/01/2022 2359</expiry_date>
+		<notam_body>TRIGGER NOTAM - AIRAC AIP SUP 055/22 WEF 19 MAY TIL 30 NOV 2022 :
+TEMPORARY REPLACEMENT OF THE VOR/DME STR WITH IMPACT ON THE AWY 
+NETWORK, SID, STAR AND IFR PROCEDURES.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1200/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0900</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>06/01/2022 2359</expiry_date>
+		<notam_body>TRIGGER NOTAM - AIRAC AIP SUP 056/22 WEF 19 MAY TIL 31 DEC 2022 : 
+EXTENSION OF MODIFICATION, ON AN EXPERIMENTAL BASIS, OF THE RWY 15 
+RNAV SID TOWARDS &amp;apos;TORPA&amp;apos; AND &amp;apos;MOROK&amp;apos;.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZS</location>
+		<number>A0224/22</number>
+		<class>International</class>
+		<issue_date>04/07/2022 0600</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>06/01/2022 2359</expiry_date>
+		<notam_body>TRIGGER NOTAM - AIRAC AIP SUP 001/22 VALID TIL 2022 JUN 16:
+WORLD ECONOMIC FORUM (WEF) DAVOS 2022, ALL IFR PROC TEMPO SUSPENDED.
+SPECIAL ARR/DEP PROC FOR IFR OPS. 
+PPR MANDATORY FOR FLT WITH Y/Z FPL TO/FM LSZS. 
+PPR MANAGED BY ENGADIN AP, SEE WWW.ENGADIN-AIRPORT.CH</notam_body>
+	</notam>
+	<notam>
+		<location>LSZG</location>
+		<number>B0462/22</number>
+		<class>International</class>
+		<issue_date>04/07/2022 0600</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>06/01/2022 2359</expiry_date>
+		<notam_body>TRIGGER NOTAM - PERM AIRAC AIP AMDT 004/2022:
+IAC RNP RWY 24 CAT A/B: LPV WITHDRAWN.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGC</location>
+		<number>B0463/22</number>
+		<class>International</class>
+		<issue_date>04/07/2022 0600</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>06/01/2022 2359</expiry_date>
+		<notam_body>TRIGGER NOTAM - PERM AIRAC AIP AMDT 004/2022:
+RWY 24 ILS LOC AND GP WITHDRAWN. 
+IAC ILS RWY 24 CAT A, B AND LOC RWY 24 CAT A, B WITHDRAWN.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2924/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0611</issue_date>
+		<effective_date>04/29/2022 0602</effective_date>
+		<expiry_date>06/01/2022 2200</expiry_date>
+		<notam_body>CONSTRUCTION WIP NORTH AND SOUTH OF RWY09/27 BTN TWY B AND D.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2926/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0613</issue_date>
+		<effective_date>04/29/2022 0603</effective_date>
+		<expiry_date>06/01/2022 2200</expiry_date>
+		<notam_body>VASIS RWY09/27 U/S</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2927/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0614</issue_date>
+		<effective_date>04/29/2022 0605</effective_date>
+		<expiry_date>06/01/2022 2200</expiry_date>
+		<notam_body>TWY F CLSD</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2932/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0620</issue_date>
+		<effective_date>04/29/2022 0608</effective_date>
+		<expiry_date>06/01/2022 2200</expiry_date>
+		<notam_body>HELIPAD EAST ESTABLISHED AT INTERSECTION A ON EASTERN PART OF 
+RWY09/27 481311N0095509E 30X30M DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2933/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0621</issue_date>
+		<effective_date>04/29/2022 0609</effective_date>
+		<expiry_date>06/01/2022 2200</expiry_date>
+		<notam_body>PARKING SPOT 7A CLOSED</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2934/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0622</issue_date>
+		<effective_date>04/29/2022 0609</effective_date>
+		<expiry_date>06/01/2022 2200</expiry_date>
+		<notam_body>HELIPAD WEST ESTABLISHED BTN INTERSECTION C AND D ON WESTERN PART 
+OF RWY09/27 481313N0095413E 30X30M, DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2936/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0624</issue_date>
+		<effective_date>04/29/2022 0610</effective_date>
+		<expiry_date>06/01/2022 2200</expiry_date>
+		<notam_body>TWY D AND TWY E, BTN TWY C AND TWY D, LIMITED. USEABLE FOR ACFT 
+WITH MAX WINGSPAN OF 25M ONLY</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2937/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0625</issue_date>
+		<effective_date>04/29/2022 0611</effective_date>
+		<expiry_date>06/01/2022 2200</expiry_date>
+		<notam_body>PARKING SPOTS 1-5, 6A, 6B CLOSED.</notam_body>
+	</notam>
+	<notam>
+		<location>LSMP</location>
+		<number>W1004/22</number>
+		<class>International</class>
+		<issue_date>04/27/2022 0705</issue_date>
+		<effective_date>05/01/2022 2000</effective_date>
+		<expiry_date>06/01/2022 0400</expiry_date>
+		<notam_body>TEMPO D-AREA ESTABLISHED 4.1 KM SSE PAYERNE AD, RADIUS 0.6 KM
+(464845N0065639E RADIUS 0.3 NM).
+WX MEASUREMENTS BY REMOTELY PILOTED AERIAL SYSTEM, WHITE BLINKING PSN
+LGT WITH VISUAL RANGE OF AT LEAST 3KM.
+FOR INFO CTC TEL +41 79 893 93 31.
+F) GND
+G) 6600FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C0959/22</number>
+		<class>International</class>
+		<issue_date>04/04/2022 0822</issue_date>
+		<effective_date>04/04/2022 0822</effective_date>
+		<expiry_date>05/31/2022 2359</expiry_date>
+		<notam_body>TWY L, C, D, E, F, G AND H CLSD. EXPECT BACKTRACK ON RWY.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0255/22</number>
+		<class>International</class>
+		<issue_date>04/27/2022 0644</issue_date>
+		<effective_date>04/27/2022 0644</effective_date>
+		<expiry_date>05/31/2022 2359</expiry_date>
+		<notam_body>SID RWY 16 VEBIT 1T NOT AVBL FOR BOEING 777 ACFT. 
+IN CASE SID RWY 16 VEBIT 4S ALSO NOT AVBL, BOEING 777 CREW DEP ON 
+RWY 16 WITH EXIT FIX VEBIT SHALL REQ SID SAT 2S AT CLR DELIVERY.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0258/22</number>
+		<class>International</class>
+		<issue_date>04/28/2022 1014</issue_date>
+		<effective_date>05/02/2022 0000</effective_date>
+		<expiry_date>05/31/2022 2359</expiry_date>
+		<notam_body>RWY 10/28 RCLL PARTIALLY MIS (MAX 280M) BTN TWY K AND F.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P0990/22</number>
+		<class>Military</class>
+		<issue_date>02/15/2022 0834</issue_date>
+		<effective_date>02/15/2022 0832</effective_date>
+		<expiry_date>05/31/2022 1600</expiry_date>
+		<notam_body>CRANE ERECTED 08DEG 520M FROM ARP ETHL PSN AT 481329N0095440E MAX 
+HEIGHT 91FT AGL/ 1757FT AMSL DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P0991/22</number>
+		<class>Military</class>
+		<issue_date>02/15/2022 0836</issue_date>
+		<effective_date>02/15/2022 0833</effective_date>
+		<expiry_date>05/31/2022 1600</expiry_date>
+		<notam_body>CRANE ERECTED 08DEG 550M FROM ARP ETHL PSN AT 481330N0095440E MAX 
+HEIGHT 118FT AGL/1874FT AMSL DAY AND NIGHT MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0198/22</number>
+		<class>International</class>
+		<issue_date>03/28/2022 2157</issue_date>
+		<effective_date>05/30/2022 2100</effective_date>
+		<expiry_date>05/31/2022 0400</expiry_date>
+		<notam_body>AD CLSD AFT LAST SKED FLT. ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A0117/22</number>
+		<class>International</class>
+		<issue_date>01/13/2022 1013</issue_date>
+		<effective_date>02/24/2022 0400</effective_date>
+		<expiry_date>05/30/2022 0300</expiry_date>
+		<notam_body>REHABILITATION OF A PORTION OF &amp;apos;SOUTH&amp;apos; PARKING AREA - AIRAC AIP 
+SUP 003/22 WEF 24 FEBRUARY 2022 0400 :
+SUBJECT : AD USE RESTRICTIONS AND CHANGES IN STANDS AND ACCESS 
+CONDITIONS TO PARKING AREA.
+INDIVIDUAL PHASES WILL BE ACTIVATED BY NOTAM.
+THIS AIP SUP IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A0605/22</number>
+		<class>International</class>
+		<issue_date>02/23/2022 1352</issue_date>
+		<effective_date>02/24/2022 2300</effective_date>
+		<expiry_date>05/30/2022 0300</expiry_date>
+		<notam_body>AIRAC AIP SUP 003/22 : TRANSITION PHASE 1 ACTIVATED</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>D0934/22</number>
+		<class>Military</class>
+		<issue_date>05/05/2022 0546</issue_date>
+		<effective_date>05/25/2022 1300</effective_date>
+		<expiry_date>05/29/2022 1200</expiry_date>
+		<notam_body>COMPULSORY REPORTING POINT ECHO FOR VFR DEP/DEST EDDS TEMPORARILY
+WITHDRAWN DUE TO EVENT AT STUTTGART CITY.</notam_body>
+	</notam>
+	<notam>
+		<location>LSMD</location>
+		<number>A0240/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 0629</issue_date>
+		<effective_date>05/20/2022 0700</effective_date>
+		<expiry_date>05/28/2022 2159</expiry_date>
+		<notam_body>DRG WORLD ECONOMIC FORUM (WEF) SPECIAL FLT PROC APPLY. USE CHARTS
+PROVIDED IN AIR CREW GUIDE, AVBL O/R FM WWW.TOPMOTION.CH.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0263/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1045</issue_date>
+		<effective_date>05/21/2022 0000</effective_date>
+		<expiry_date>05/27/2022 2359</expiry_date>
+		<notam_body>AD NOT TO BE PLANNED AS ALTN FOR NON-SKED AND NON-COMMERCIAL FLT
+DUE TO WORLD ECONOMIC FORUM (WEF) .</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0264/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1047</issue_date>
+		<effective_date>05/21/2022 0000</effective_date>
+		<expiry_date>05/27/2022 2359</expiry_date>
+		<notam_body>EARLIEST LDG 1300 FOR NON-SKED AND NON-COMMERCIAL WIDEBODY ACFT
+WO PRKG PERMISSION DUE TO WORLD ECONOMIC FORUM (WEF) .</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0265/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1050</issue_date>
+		<effective_date>05/21/2022 0000</effective_date>
+		<expiry_date>05/27/2022 2359</expiry_date>
+		<notam_body>PRKG PERMISSION REQUIRED FOR NON-SKED AND NON-COMMERCIAL FLT
+WITH GND TIME MORE THAN 2HR DUE TO WORLD ECONOMIC FORUM (WEF) .</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>B0567/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1112</issue_date>
+		<effective_date>05/22/2022 0000</effective_date>
+		<expiry_date>05/27/2022 2359</expiry_date>
+		<notam_body>NO VFR TFC EXC HEL DUE TO WORLD ECONOMIC FORUM (WEF) .</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0266/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1116</issue_date>
+		<effective_date>05/22/2022 0000</effective_date>
+		<expiry_date>05/27/2022 2359</expiry_date>
+		<notam_body>NO CAT A IFR TFC EXC HEL DUE TO WORLD ECONOMIC FORUM (WEF) .</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0267/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1138</issue_date>
+		<effective_date>05/21/2022 0000</effective_date>
+		<expiry_date>05/27/2022 2359</expiry_date>
+		<notam_body>FPL WITH INDIVIDUAL CS REQUIRED FOR EACH HEL FLT BTN AD LSZH 
+(ZURICH) AND AD LSMV (DAVOS) AND VICE VERSA DUE TO WORLD ECONOMIC
+FORUM (WEF) . USE OF IMMATRICULATION APV FOR ONE SINGLE FLT PER DAY
+ONLY.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZS</location>
+		<number>A0254/22</number>
+		<class>International</class>
+		<issue_date>04/27/2022 0529</issue_date>
+		<effective_date>05/20/2022 0800</effective_date>
+		<expiry_date>05/26/2022 1500</expiry_date>
+		<notam_body>DRG WORLD ECONOMIC FORUM DAVOS (WEF) : AD STRICTLY PPR FOR Y/Z PLN,
+PPR NR TO BE OBTAINED AT HANDLING OFFICE MAIL: 
+HANDLING(A)ENGADIN-AIRPORT.CH OR TEL +41 81 851 08 48.
+PPR NR HAS TO BE FILED AT FPL ITEM 18. FLT WO PPR MIGHT BE REJECTED
+TO LAND. FOR DETAILS SEE WWW.ENGADIN-AIRPORT.CH.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>D0951/22</number>
+		<class>Military</class>
+		<issue_date>05/05/2022 1339</issue_date>
+		<effective_date>05/25/2022 1800</effective_date>
+		<expiry_date>05/25/2022 2100</expiry_date>
+		<notam_body>PJE 2NM RADIUS CENTERED ON 481951N 0075018E, LAHR (1.5NM SE LAHR
+NDB LHR).
+F) GND G) 4500FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A1494/22</number>
+		<class>International</class>
+		<issue_date>03/28/2022 1110</issue_date>
+		<effective_date>04/18/2022 0400</effective_date>
+		<expiry_date>05/25/2022 1859</expiry_date>
+		<notam_body>HIGH MOBILE CRANE AT OSTFILDERN, 2.8NM NE OF ARP,
+PSN 484342N 0091549E, ELEV 1533FT/197FT AGL, DAY AND NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTF</location>
+		<number>E1145/22</number>
+		<class>Military</class>
+		<issue_date>05/03/2022 1426</issue_date>
+		<effective_date>05/23/2022 2000</effective_date>
+		<expiry_date>05/23/2022 2130</expiry_date>
+		<notam_body>FIREWORKS DISPLAY FREIBURG MESSE SOUTH OF FIELD PSN 4801N 00750E.
+F) GND G) 600FT AGL</notam_body>
+	</notam>
+	<notam>
+		<location>LSZB</location>
+		<number>B0534/22</number>
+		<class>International</class>
+		<issue_date>04/25/2022 0559</issue_date>
+		<effective_date>05/23/2022 0700</effective_date>
+		<expiry_date>05/23/2022 2100</expiry_date>
+		<notam_body>RWY 14 ILS IBE 110.100 U/S DUE TO MAINT.
+FOR APCH PROC MONITOR ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1761/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1030</issue_date>
+		<effective_date>05/09/2022 2200</effective_date>
+		<expiry_date>05/21/2022 0300</expiry_date>
+		<notam_body>RWY 15/33 AND 07/25 CLOSED.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0256/22</number>
+		<class>International</class>
+		<issue_date>04/28/2022 1010</issue_date>
+		<effective_date>05/03/2022 0000</effective_date>
+		<expiry_date>05/20/2022 2359</expiry_date>
+		<notam_body>TWY J TWY CL LGT MIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSG</location>
+		<number>C1319/22</number>
+		<class>International</class>
+		<issue_date>05/07/2022 0930</issue_date>
+		<effective_date>05/16/2022 0600</effective_date>
+		<expiry_date>05/20/2022 1600</expiry_date>
+		<notam_body>ILS RWY26 U/S DUE TO MAINT :  DO NOT USE, POSSIBLE FALSE 
+INDICATIONS.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSG</location>
+		<number>W0785/22</number>
+		<class>International</class>
+		<issue_date>05/07/2022 0937</issue_date>
+		<effective_date>05/16/2022 0600</effective_date>
+		<expiry_date>05/20/2022 1600</expiry_date>
+		<notam_body>CALIBRATION FLIGHT ACTIVITY OVER &amp;apos;EPINAL MIRECOURT&amp;apos; AD:
+- 25NM RADIUS CIRCLE AROUND AD ARP
+- INFO: EPINAL INFORMATION 120.200MHZ
+F) GND G) 2500FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C0469/22</number>
+		<class>International</class>
+		<issue_date>02/17/2022 1410</issue_date>
+		<effective_date>02/24/2022 0000</effective_date>
+		<expiry_date>05/19/2022 2359</expiry_date>
+		<notam_body>AMEND CALLSIGN ZURICH ARRIVAL 119.925 TO READ ALPS RADAR.
+REF: AIP GERMANY PAGES AD 2 EDNY 3-1-2 TO EDNY 5-7-15.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C0563/22</number>
+		<class>International</class>
+		<issue_date>02/25/2022 1154</issue_date>
+		<effective_date>02/25/2022 1154</effective_date>
+		<expiry_date>05/18/2022 2359</expiry_date>
+		<notam_body>PDG DUE TO OBSTACLES FOR ALL IFR DEPARTURES RWY 06 RAISED TO 3,4 
+PER CENT (210FT/NM) UNTIL PASSING 2200FT MSL. DUE TO NEW 
+OBSTACLE SURVEY. REFER AIP AD 2 EDNY 5-7-1, 5-7-10, 5-7-11.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C0741/22</number>
+		<class>International</class>
+		<issue_date>03/14/2022 0416</issue_date>
+		<effective_date>03/14/2022 0416</effective_date>
+		<expiry_date>05/18/2022 2359</expiry_date>
+		<notam_body>OCA(H) VALUES RAISED AS FOLLOWS:
+
+ILS CAT I RWY 24: A 1612 (244), B 1622 (254) FEET, C AND D UNCHANGED.
+ILS CAT II RWY 24: A 1454 (86), B 1470 (102), C 1483 (115), D 1496 
+(128) FEET
+LOC RWY 24: A-D 1730 (370) FEET
+LNAV/VNAV RWY 24: A 1621 (253), B 1631 (263), C 1641 (273), D 1657 
+(289) FEET
+LPV RWY 24: A 1612 (244), B 1622 (254) FEET, C AND D UNCHANGED.
+ILS CAT I RWY 06: A 1520 (185), B 1530 (195) FEET, C AND D UNCHANGED.
+LNAV/VNAV RWY 06: A 1631 (296), B 1641 (306), C 1651 (316) FEET, D 
+UNCHANGED.
+LPV CAT I RWY 06: A 1520 (185), B 1530 (195) FEET, C AND D UNCHANGED.
+DUE TO NEW OBSTACLE SURVEY.
+
+REFER AIP AD 2 EDNY 4-2-1, 4-2-2, 4-6-1, 4-6-5.
+INFORMATION IS PLANNED TO BE PUBLISHED IN AIP EFF 24.02.2022.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1202/22</number>
+		<class>International</class>
+		<issue_date>03/31/2022 0905</issue_date>
+		<effective_date>03/31/2022 0904</effective_date>
+		<expiry_date>05/18/2022 2359</expiry_date>
+		<notam_body>MODIFICATION, ON AN EXPERIMENTAL BASIS, OF THE RWY 15 RNAV SID 
+TOWARDS TORPA AND MOROK : SEE AIRAC AIP SUP 243/21 
+THE PROVISIONS INCLUDED IN THIS AIP SUP ARE IN FORCE TIL 18 MAY 2359.
+THIS AIP SUP 243/21 IS AVBL AT WWW.SIA.AVIATION-CIVILE.GOUV.FR</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1143/22</number>
+		<class>International</class>
+		<issue_date>04/20/2022 1425</issue_date>
+		<effective_date>04/20/2022 1425</effective_date>
+		<expiry_date>05/18/2022 2359</expiry_date>
+		<notam_body>SID CHG RWY 06 DUE TO FALSE AIP DATA. 
+BEMKI3E:
+CROSS ABEBO AT OR ABOVE 6500.
+REF AIP AD 2 EDNY 5-7-1.
+EFF DATE 24 MAR 2022.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1145/22</number>
+		<class>International</class>
+		<issue_date>04/20/2022 1434</issue_date>
+		<effective_date>04/20/2022 1431</effective_date>
+		<expiry_date>05/18/2022 2359</expiry_date>
+		<notam_body>DUE TO NAVAID COVERAGE OF KPT DVOR/DME THE FLW CHANGES TO SID 
+OCCUR:
+RWY 06:
+BEMKI 3E AND KPT 5E
+CROSS 4.9 DME FHD AT OR ABOVE 4200. PDG 11.6 PERCENT (710 FT/NM).
+ADD RMK: AFTER PASSING 4.9 DME FHD BRNAV EQUIPMENT NECESSARY.
+RWY 24:
+BEMKI 3W AND KPT 5W
+CROSS 3.9 DME FHD AT OR ABOVE 3300. PDG 8.0 PERCENT (490 FT/NM).
+ADD RMK: AFTER PASSING 3.9 DME FHD BRNAV EQUIPMENT NECESSARY
+GPS / FMS RNAV OVERLAYS REMAIN UNCHANGED:
+REF AIP PAGES AD 2 EDNY 5-7-1, 5-7-5 BOTH DATED 24 MAR 2022 AND
+5-7-3, 5-7-7 BOTH EFF 08 NOV 2018.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1146/22</number>
+		<class>International</class>
+		<issue_date>04/20/2022 1453</issue_date>
+		<effective_date>04/20/2022 1452</effective_date>
+		<expiry_date>05/18/2022 2359</expiry_date>
+		<notam_body>STAR CHG, DUE TO NAVAID COVERAGE OF KPT DVOR/DME:
+RWY 06/24 - KPT 7P, BRNAV EQPT NECESSARY.
+REF AIP PAGES AD 2 EDNY 3-1-1 EFF 19 JUL 2018 AND 3-1-2 EFF 08 NOV
+2018.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1148/22</number>
+		<class>International</class>
+		<issue_date>04/21/2022 0737</issue_date>
+		<effective_date>04/21/2022 0737</effective_date>
+		<expiry_date>05/18/2022 2359</expiry_date>
+		<notam_body>DUE TO DATABASE ISSUES THE FLW CHANGED TO SID OCCUR:
+RWY 24:
+ALAGO 6W TEMPO SUSPENDED.
+REF AIR AD 2 EDNY 5-7-13 EFF 08 NOV 2018 AND 5-7-14 DATED 24 MAR 
+2022.</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1170/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 0635</issue_date>
+		<effective_date>04/22/2022 0635</effective_date>
+		<expiry_date>05/18/2022 2359</expiry_date>
+		<notam_body>DUE TO WRONG PUBLICATION THE FLW CHANGES TO STAR OCCUR:
+KPT 8P: READ COORDINATES AS FOLLOWS:
+NY410= N 47 44 31.29 / E 10 04 41.54
+NY411= N 47 44 22.19 / E 09 55 07.37
+NY412= N 47 44 07.24 / E 09 41 02.24
+CHANGES ARE PERMANENT AND AND WILL BE PUBLISHED WITH NEXT AMDT.
+REF AIP PAGES AD 2 EDNY 3-1-2 EFF 19 MAY 2022.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0201/22</number>
+		<class>International</class>
+		<issue_date>03/28/2022 2203</issue_date>
+		<effective_date>05/16/2022 2100</effective_date>
+		<expiry_date>05/18/2022 0400</expiry_date>
+		<notam_body>AD CLSD AFT LAST SKED FLT. ACTUAL CLOSURE BCST ON ATIS.</notam_body>
+	</notam>
+	<notam>
+		<location>LFST</location>
+		<number>A1746/22</number>
+		<class>International</class>
+		<issue_date>05/01/2022 1320</issue_date>
+		<effective_date>05/16/2022 0400</effective_date>
+		<expiry_date>05/17/2022 2200</expiry_date>
+		<notam_body>RFFS LEVEL 8 NOT PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2283/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1423</issue_date>
+		<effective_date>05/16/2022 0600</effective_date>
+		<expiry_date>05/17/2022 1430</expiry_date>
+		<notam_body>STUTTGART DME SGD 115.45MHZ/CH101Y ON MAINT. DO NOT USE, FALSE 
+INDICATIONS POSS.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2209/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0709</issue_date>
+		<effective_date>05/17/2022 0700</effective_date>
+		<expiry_date>05/17/2022 0900</expiry_date>
+		<notam_body>SID CHG, DUE TO MAINT OF KRH DVOR/DME:
+KRH 2H - AMEND KRH DVOR/DME, TO READ KRH INT DEFINED BY R277 
+LBU/30.3 DME LBU. COORD REMAIN UNCHANGED.
+REF AIP AD 2 EDDS 5-7-5 EFF 20 AUG 2015 AND 5-7-7 DATED 18 JUN 2020.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2210/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0714</issue_date>
+		<effective_date>05/17/2022 0700</effective_date>
+		<expiry_date>05/17/2022 0900</expiry_date>
+		<notam_body>STAR CHG, DUE TO MAINT OF KRH DVOR/DME:
+HLDG AT BADSO INT TEMPO SUSPENDED. IN CASE OF RADIO COM FAILURE PCD 
+FM BADSO INT ON R258 LBU TO LBU VOR/DME FOR STD APCH PROC.
+REF AIP AD 2 EDDS 3-1-2/-3/-4 ALL EFF 26 MAR 2020.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1292/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0723</issue_date>
+		<effective_date>05/17/2022 0700</effective_date>
+		<expiry_date>05/17/2022 0900</expiry_date>
+		<notam_body>SID CHG, DUE TO MAINT OF KRH DVOR/DME:
+RWY 03 - GAGSI5N AND TUBLO9N TEMPO SUSPENDED, EXP RNAV(GPS) SID.
+REF AIP PAGES AD 2 EDSB 5-7-1 EFF 28 FEB 2019 AND 5-7-2 EFF 23 MAY 
+2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1293/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0728</issue_date>
+		<effective_date>05/17/2022 0700</effective_date>
+		<expiry_date>05/17/2022 0900</expiry_date>
+		<notam_body>STAR CHG, DUE TO MAINT OF KRH DVOR/DME:
+PSN KRH DVOR/DME DEFINED BY BRG 237 DEG TO KBA/R354 SUL, IDENTIFIED 
+AS KRH INT, COORD REMAIN UNCHANGED.
+REF AIP AD 2 EDSB 3-1-1 EFF 28 FEB 2019 AND 3-1-2 EFF 27 APR 2017.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1294/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0742</issue_date>
+		<effective_date>05/17/2022 0700</effective_date>
+		<expiry_date>05/17/2022 0900</expiry_date>
+		<notam_body>DUE TO MAINT OF KRH DVOR/DME THE FLW CHANGES TO SID OCCUR:
+RWY 03:
+SID NATOR 5Q AND SUL 6Q TEMPO SUSPENDED.
+EXPECT RNAV(GPS) SID.
+REF AIP AD 2 EDTL 5-7-1 EFF 28 MAR 2019 AND 5-7-2 EFF 23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1295/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0744</issue_date>
+		<effective_date>05/17/2022 0700</effective_date>
+		<expiry_date>05/17/2022 0900</expiry_date>
+		<notam_body>DUE TO MAINT OF KRH DVOR/DME THE FLW CHANGES TO STAR OCCUR:
+PSN KRH DVOR/DME DEFINED BY BRG 237DEG TO KBA/R354 SUL.
+IDENTIFIED AS KRH INT, COORD REMAIN UNCHANGED.
+REF AIP AD 2 EDTL 3-1-1 EFF 28 MAR 2019 AND 3-1-2 EFF 27
+APR 2017.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1327/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 2027</issue_date>
+		<effective_date>05/17/2022 0700</effective_date>
+		<expiry_date>05/17/2022 0900</expiry_date>
+		<notam_body>APCH PROC CHG, DUE TO MAINT OF KRH DVOR/DME:
+ALL STD APCH PROC FROM IAF KRH TEMPO SUSPENDED. EXP VECTORING TO 
+FINAL APCH BY ATC. IN CASE OF RADIO COM FAILURE PCD FM KRH INT ON 
+COURSE 237 DEG KBA TO KBA FOR STD APCH PROC. RNP APCH PROC REMAINS 
+UNCHANGED.
+REF AIP AD 2 EDSB 4-2-2 AND 4-4-2 BOTH EFF 28 FEB 2019</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2164/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 0734</issue_date>
+		<effective_date>05/16/2022 1100</effective_date>
+		<expiry_date>05/16/2022 1300</expiry_date>
+		<notam_body>DUE TO MAINT OF LBU VOR/DME THE FLW CHANGES TO APCH PROC OCCUR:
+ALL STANDARD ILS OR LOC AND VOR APCH PROC FROM IAF LBU TEMPO
+SUSPENDED. EXPECT RADAR VECTORING TO FINAL APPROACH.
+IN CASE OF RADIO COMMUNICATION FAILURE PROCEED AT OR ABOVE 5000
+DIRECT TO IAF STG DVOR/DME FOR STANDARD APCH PROC.
+ALL STANDARD RNP APCH PROC REMAIN UNCHANGED.
+REF AIP AD 2 EDDS 4-2-1/2 AND 4-3-1/2 ALL EFF 26 MAR 2020.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2165/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 0736</issue_date>
+		<effective_date>05/16/2022 1100</effective_date>
+		<expiry_date>05/16/2022 1300</expiry_date>
+		<notam_body>DUE TO MAINT OF LBU VOR/DME THE FLW CHANGES TO MISSED APCH PROC
+OCCUR:
+AMEND ILS OR LOC AND VOR MISSED APCH PROC TO READ:
+RWY 25:
+CLIMB ON R252 STG TO 6000, WHEN CROSSING 5.6 DME STG OR 5000,
+WHICHEVER IS LATER, LT TO STG DVOR/DME. ENTER STG HLDG.
+RWY 07:
+CLIMB STRAIGHT AHEAD TO 6000, WHEN CROSSING 5.6 DME STG OR 5000,
+WHICHEVER IS LATER, LT TO STG DVOR/DME. ENTER STG HLDG.
+ALL RNP MISSED APCH PROC REMAIN UNCHANGED.
+REF AIP AD 2 EDDS 4-2-1/2 AND 4-3-1/2 ALL EFF 26 MAR 2020.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2166/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 0737</issue_date>
+		<effective_date>05/16/2022 1100</effective_date>
+		<expiry_date>05/16/2022 1300</expiry_date>
+		<notam_body>DUE TO MAINT OF LBU VOR/DME THE FOLLOWING CHANGES TO SID OCCUR:
+RWY 07:
+GPS / FMS RNAV OVERLAYS REMAIN UNCHANGED.
+KRH2H, VESID2H, TAGIK2H AND ETASA2H:
+CHANGED TO READ: ON R072 STG TO 5.6 DME STG, LT, ON TRACK 332 DEG
+TO LBU INT. AFTER PASSING 3500 BRNAV EQUIPMENT NECESSARY.
+REF AIP AD 2 EDDS 5-7-5 EFF 20 AUG 2015 AND 5-7-7 DATED 18 JUN 2020</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2168/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 0739</issue_date>
+		<effective_date>05/16/2022 1100</effective_date>
+		<expiry_date>05/16/2022 1300</expiry_date>
+		<notam_body>DUE TO MAINT OF LBU VOR/DME THE FLW CHANGES TO SID OCCUR:
+RWY 25:
+GPS / FMS RNAV OVERLAYS REMAIN UNCHANGED:
+KRH5B, VESID4B, TAGIK4B AND ETASA4B:
+REPLACE R238 LBU BY 11.0 DME STG. CHANGE RMK TO READ AFTER CROSSING
+11.0 DME STG BRNAV EQUIPMENT NECESSARY.
+DKB9B, GEBNO7B AND OKIBA4B:
+CHANGED TO READ: ON R252 STG TO 5.6 DME STG, RT (MAX IAS 230KT UNTIL
+ESTABLISHED ON TRACK 339 DEG) , ON TRACK 339 DEG UNTIL CROSSING R282
+STG, RT, ON TRACK 053 DEG TO LBU INT. AFTER PASSING 3500 BRNAV
+EQUIPMENT NECESSARY.
+ROTWE5B:
+ADD RMK: CLIMB WITH 4.5 PER CENT (275 FT/NM) UNTIL PASSING 5000.
+AFTER PASSING 5000 BRNAV EQUIPMENT NECESSARY.
+REF AIP AD 2 EDDS 5-7-1 EFF 18 AUG 2016, 5-7-2 EFF 30 APR 2015
+AND 5-7-3 DATED 18 JUN 2020</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2170/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 0741</issue_date>
+		<effective_date>05/16/2022 1100</effective_date>
+		<expiry_date>05/16/2022 1300</expiry_date>
+		<notam_body>DUE TO MAINT OF LBU VOR/DME THE FLW CHANGES TO STAR OCCUR:
+BADSO 2A: BRNAV EQUIPMENT NECESSARY.
+AMEND LBU VOR/DME TO READ LBU INT.
+PSN DEFINED BY R012/ 13.0 DME STG.
+LBU HLDG ESTABLISHED AS FOLLOWS: INBOUND ON R012 STG / TRACK 192 DEG,
+LT, 1 MINUTE, MNM HLDG ALTITUDE 5000.
+IN CASE OF RADIO COMMUNICATION FAILURE PROCEED AT OR ABOVE 5000
+DIRECT TO IAF STG FOR STANDARD APCH PROC.
+REF AIP AD 2 EDDS 3-1-1 EFF 18 OCT 2012, AND 3-1-2/-3/-4
+ALL EFF 26 MAR 2020</notam_body>
+	</notam>
+	<notam>
+		<location>EDTF</location>
+		<number>E1151/22</number>
+		<class>Military</class>
+		<issue_date>05/04/2022 0804</issue_date>
+		<effective_date>05/04/2022 0804</effective_date>
+		<expiry_date>05/15/2022 1800</expiry_date>
+		<notam_body>GRASS RWY 16/34 NORTH OF TWY B PPR DUE TO HIGH GRASS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSGC</location>
+		<number>B0573/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0535</issue_date>
+		<effective_date>05/13/2022 1300</effective_date>
+		<expiry_date>05/15/2022 1600</expiry_date>
+		<notam_body>AD PPR DUE TO HVY LOCAL TFC. ACFT PRKG LTD.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0244/22</number>
+		<class>International</class>
+		<issue_date>04/25/2022 0556</issue_date>
+		<effective_date>05/13/2022 2130</effective_date>
+		<expiry_date>05/14/2022 0300</expiry_date>
+		<notam_body>RWY 28 ILS IZW 109.750 U/S DUE TO MAINT.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTF</location>
+		<number>E1144/22</number>
+		<class>Military</class>
+		<issue_date>05/03/2022 1422</issue_date>
+		<effective_date>05/13/2022 2000</effective_date>
+		<expiry_date>05/13/2022 2130</expiry_date>
+		<notam_body>FIREWORKS DISPLAY FREIBURG MESSE SOUTH OF FIELD 4801N 00750E.
+F) GND G) 600FT AGL</notam_body>
+	</notam>
+	<notam>
+		<location>LSGK</location>
+		<number>B0452/22</number>
+		<class>International</class>
+		<issue_date>04/05/2022 1121</issue_date>
+		<effective_date>05/13/2022 0800</effective_date>
+		<expiry_date>05/13/2022 1800</expiry_date>
+		<notam_body>RWY 08/26 CLSD DUE TO EMERG EXER.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSM</location>
+		<number>P0364/22</number>
+		<class>International</class>
+		<issue_date>02/04/2022 1018</issue_date>
+		<effective_date>02/04/2022 1018</effective_date>
+		<expiry_date>05/13/2022 1600</expiry_date>
+		<notam_body>OBSTACLES (TREES) TAKE-OFF FUNNEL 08 :
+OBST 1 : TREE  PSN 472918N 0064815E ELEV 1076FT
+OBST 2 : TREE  PSN 472925N 0064844E ELEV 1168FT
+OBST 3 : TREE  PSN 472924N 0064844E ELEV 1165FT
+OBST 4 : TREE  PSN 472924N 0064845E ELEV 1181FT
+OBST 5 : TREE  PSN 472924N 0064846E ELEV 1171FT
+OBST 6 : TREE  PSN 472924N 0064848E ELEV 1168FT</notam_body>
+	</notam>
+	<notam>
+		<location>LFSM</location>
+		<number>P0365/22</number>
+		<class>International</class>
+		<issue_date>02/04/2022 1020</issue_date>
+		<effective_date>02/04/2022 1020</effective_date>
+		<expiry_date>05/13/2022 1600</expiry_date>
+		<notam_body>OBSTACLES WITHIN LANDING FUNNEL 08 AND TAKE OFF FUNNEL 26 : 
+OBST 1 : TREE   PSN 472907N 0064628E ELEV 1138FT 
+OBST 2 : TREE   PSN 472906N 0064626E ELEV 1155FT 
+OBST 3 : TREE   PSN 472903N 0064623E ELEV 1152FT 
+OBST 4 : TREE   PSN 472902N 0064622E ELEV 1158FT 
+OBST 5 : TREE   PSN 472902N 0064622E ELEV 1165FT 
+OBST 6 : TREE   PSN 472901N 0064621E ELEV 1161FT.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A0872/22</number>
+		<class>International</class>
+		<issue_date>02/26/2022 0819</issue_date>
+		<effective_date>02/28/2022 0630</effective_date>
+		<expiry_date>05/13/2022 1600</expiry_date>
+		<notam_body>TWY W CLSD. TWY Z EAST OF PRKG PSN 106 CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>ETHL</location>
+		<number>P2942/22</number>
+		<class>Military</class>
+		<issue_date>04/29/2022 0632</issue_date>
+		<effective_date>05/11/2022 0500</effective_date>
+		<expiry_date>05/13/2022 1600</expiry_date>
+		<notam_body>SRA RWY09 MINIMUM RAISED TO 2200FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>EDNY</location>
+		<number>C1333/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1100</issue_date>
+		<effective_date>05/09/2022 0500</effective_date>
+		<expiry_date>05/13/2022 1600</expiry_date>
+		<notam_body>ILS RWY 06  OUT OF SERVICE DUE TO WIP. 
+DO NOT USE, FALSE INDICTIONS POSSIBLE.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1338/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1206</issue_date>
+		<effective_date>05/06/2022 1206</effective_date>
+		<expiry_date>05/13/2022 1200</expiry_date>
+		<notam_body>DUE TO MAINT OF SUL DVOR THE FLW CHANGE TO SID OCCUR:
+SID GAGSI 5N AND TUBLO 9N: TEMPO SUSPENDED.
+EXPECT CORRESPONDING RNAV(GPS) SID.
+REF AIP AD 2 EDSB 5-7-1 EFF 28 FEB 2019, 5-7-2 EFF 23 MAY 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>EDSB</location>
+		<number>C1339/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1207</issue_date>
+		<effective_date>05/06/2022 1207</effective_date>
+		<expiry_date>05/13/2022 1200</expiry_date>
+		<notam_body>DUE TO MAINT OF SUL DVOR THE FLW CHANGE TO STAR OCCUR:
+STAR SUL 5M: TEMPO SUSPENDED.
+EXPECT CORRESPONDING RNAV(GPS) STAR.
+NON RNAV(GPS) EQUIPPED ACFT SHALL FILE STAR KRH 4M
+REF AIP AD 2 EDSB 3-1-1 EFF 28 FEB 2019, 3-1-2 EFF 27 APR 2017.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTL</location>
+		<number>C1340/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1207</issue_date>
+		<effective_date>05/06/2022 1207</effective_date>
+		<expiry_date>05/13/2022 1200</expiry_date>
+		<notam_body>DUE TO MAINT OF SUL DVOR THE FLW CHANGES TO APCH OCCUR:
+RWY 21:
+ALL CONVENTIONAL STANDARD APCH PROC FROM IAF SUL TEMPO SUSPENDED.
+RNP APCH PROC REMAIN UNCHANGED.
+REF AIP AD 2 EDTL 4-2-1 AND 4-4-2 BOTH EFF 28 MAR 2019.</notam_body>
+	</notam>
+	<notam>
+		<location>LSMP</location>
+		<number>B0588/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1007</issue_date>
+		<effective_date>05/13/2022 1000</effective_date>
+		<expiry_date>05/13/2022 1100</expiry_date>
+		<notam_body>RWY 05/23 ILS U/S.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2219/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 1149</issue_date>
+		<effective_date>05/08/2022 2200</effective_date>
+		<expiry_date>05/12/2022 2059</expiry_date>
+		<notam_body>2 HIGH MOBILE CRANES 3NM WNW OF ARP, PSN 484139N 0090841E,
+ELEV 1634FT / 243FT AGL, DAY AND NIGHT MARKED.</notam_body>
+	</notam>
+	<notam>
+		<location>LFGA</location>
+		<number>P1154/22</number>
+		<class>International</class>
+		<issue_date>04/08/2022 0708</issue_date>
+		<effective_date>04/12/2022 0700</effective_date>
+		<expiry_date>05/12/2022 1900</expiry_date>
+		<notam_body>OBST : CRANE (RDL 090DEG/0,16NM THR 01)
+PSN : 480616N 0072141E
+ELEV : 702FT
+HGT : 78FT
+LGT: DAY AND NIGHT</notam_body>
+	</notam>
+	<notam>
+		<location>LFSX</location>
+		<number>F0733/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 0850</issue_date>
+		<effective_date>05/09/2022 1000</effective_date>
+		<expiry_date>05/12/2022 1500</expiry_date>
+		<notam_body>TACAN LXI 108.200MHZ/CH19X U/S. DO NOT USE POSSIBLE FALSE 
+INDICATION</notam_body>
+	</notam>
+	<notam>
+		<location>LSZH</location>
+		<number>A0276/22</number>
+		<class>International</class>
+		<issue_date>05/04/2022 1105</issue_date>
+		<effective_date>05/09/2022 0700</effective_date>
+		<expiry_date>05/12/2022 1400</expiry_date>
+		<notam_body>RWY 14 GLS APCH NOT AVBL.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSX</location>
+		<number>M1332/22</number>
+		<class>Military</class>
+		<issue_date>05/05/2022 0925</issue_date>
+		<effective_date>05/11/2022 0600</effective_date>
+		<expiry_date>05/12/2022 0600</expiry_date>
+		<notam_body>ILS LUXEUIL 108.100 MHZ U/S DUE TO MAINT. DO NOT USE, POSSIBLE 
+FALSE INDICATION.</notam_body>
+	</notam>
+	<notam>
+		<location>LFST</location>
+		<number>A1850/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 1343</issue_date>
+		<effective_date>05/10/2022 0700</effective_date>
+		<expiry_date>05/11/2022 1500</expiry_date>
+		<notam_body>ILS 23 IN MAINT. DO NOT USE POSSIBLE WRONG INDICATION</notam_body>
+	</notam>
+	<notam>
+		<location>LFSX</location>
+		<number>W0738/22</number>
+		<class>International</class>
+		<issue_date>05/04/2022 0606</issue_date>
+		<effective_date>05/11/2022 0800</effective_date>
+		<expiry_date>05/11/2022 1400</expiry_date>
+		<notam_body>CALIBRATION FLIGHT ACTIVITY ON LUXIEUL AERODROME WITHIN 15NM 
+RADIUS AROUND THE AERODROME.
+RADIO CONTACT ADVISED ON LUXEUIL APP 129.925MHZ
+F) SFC G) FL070</notam_body>
+	</notam>
+	<notam>
+		<location>LFQP</location>
+		<number>W0734/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 1422</issue_date>
+		<effective_date>05/10/2022 1230</effective_date>
+		<expiry_date>05/10/2022 1600</expiry_date>
+		<notam_body>CALIBRATION FLIGHT ACTIVITY ON PHALSBOURG BOURSCHEID AERODROME 
+WITHIN 25NM RADIUS AROUND THE AERODROME.
+USER INFORMATION:STRASBOURG APP 120.700MHZ
+F) SFC G) FL090</notam_body>
+	</notam>
+	<notam>
+		<location>LFSB</location>
+		<number>A1731/22</number>
+		<class>International</class>
+		<issue_date>04/30/2022 0616</issue_date>
+		<effective_date>05/09/2022 0630</effective_date>
+		<expiry_date>05/10/2022 1530</expiry_date>
+		<notam_body>WHEN VISIBILITY GREATER THAN 1500M, ILS RWY 15 U/S DUE TO MAINT :
+DO NOT USE BECAUSE POSSIBLE FALSE INDICATIONS.</notam_body>
+	</notam>
+	<notam>
+		<location>LSZA</location>
+		<number>B0535/22</number>
+		<class>International</class>
+		<issue_date>04/25/2022 0601</issue_date>
+		<effective_date>05/09/2022 0800</effective_date>
+		<expiry_date>05/10/2022 1500</expiry_date>
+		<notam_body>RWY 01 IGS (INSTR GUIDANCE SYSTEM) DME ILU 108.900 U/S 
+DUE TO MAINT. DRG VMC ONLY.</notam_body>
+	</notam>
+	<notam>
+		<location>LFSX</location>
+		<number>M1330/22</number>
+		<class>Military</class>
+		<issue_date>05/05/2022 0923</issue_date>
+		<effective_date>05/10/2022 0630</effective_date>
+		<expiry_date>05/10/2022 0900</expiry_date>
+		<notam_body>PAR NG U/S (MAINT).</notam_body>
+	</notam>
+	<notam>
+		<location>LFST</location>
+		<number>R1130/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0900</issue_date>
+		<effective_date>05/09/2022 0600</effective_date>
+		<expiry_date>05/09/2022 2300</expiry_date>
+		<notam_body>TEMPORARY PROHIBITED AREA &amp;apos;ZIT PFUE&amp;apos; FOR THE NEEDS OF A SPECIFIC 
+AIR SECURITY PLAN WHITHIN STRASBOURG REGION :
+- LATERAL LIMITS :
+482506N 0074430E
+CLOCKWISE 15NM RADIUS ARC OF A CIRCLE CENTRED ON 483501N 0074608E.
+484219N 0075622E 
+GERMAN-FRENCH BOUNDARY
+482506N 0074430E
+- STATUS :
+TEMPORARY PROHIBITED AREA (ZIT) WHICH COEXISTS WITH OVERLAPPING 
+CONTROLLED AND SPECIAL STATUS AREAS.
+- INFORMATION FOR AIR USERS :
+STRASBOURG INFO 120.700MHZ
+STRASBOURG TWR 119.250MHZ / 121.805MHZ
+STRASBOURG APP 119.580MHZ / 120.700MHZ / 133.100MHZ / 134.575MHZ
+CDC (CONTROL CENTER) RAKI (OR REPLACEMENT CDC) 119.700MHZ / 
+143.550MHZ /
+317.500MHZ
+- SERVICES PROVIDED :
+INSIDE THE ZIT, THE USUAL ATS PROVIDE AIR USERS WITH SERVICES 
+ASSOCIATED TO COEXISTING AIRSPACE CLASSES.
+- ENTRY CONDITIONS :
+GAT/OAT : ENTRY PROHIBITED, INCLUDING UNMANNED ACFT, EXCEPT :
+ - GAT/OAT IFR TFC INBOUND OR OUTBOUND FLW AD :
+   . STRASBOURG ENTZHEIM (LFST)
+   . KALSRUHE/BADEN-BADEN (EDSB)
+   . LAHR (EDTL) 
+   FOLLOW USUAL ATS INSTRUCTIONS (REAL TIME INSTRUCTIONS MIGHT BE 
+IMPOSED  BY MIL AUTHORITIES FOR AIR SAFETY REASONS),
+ - OFFICIAL FLIGHTS, CUSTOMS, POLICE, &amp;apos;GENDARMERIE&amp;apos; FLIGHTS, OR 
+CIVIL SECURITY  WHEN FLYING ROUND THE ZIT IS NOT POSSIBLE, AND AFTER 
+AUTHORIZATION FROM &amp;apos;CNOA&amp;apos; (CENTRE NATIONAL DES OPERATIONS AERIENNES).
+- SPECIAL PROVISIONS :
+VFR GAT ACTIVITIES ON HAGUENAU (LFSH), SAVERNE-STEINBOURG (LFQY) AND 
+STRASBOURG-NEUHOF (LFGC) AD ARE SUSPENDED.
+RECREATIONAL AND SPORTING ACTIVITIES WITHIN THE ZIT ARE SUSPENDED.
+- AUTHORITIES TO CONTACT :
+R1130/22 NOTAMN
+Q) LFEE/QROLP/IV/NBO/AW/000/115/4835N00746E015
+A) LFST PART 2 OF 2 B) 2205090600 C) 2205092300</notam_body>
+	</notam>
+	<notam>
+		<location>LSZR</location>
+		<number>B0557/22</number>
+		<class>International</class>
+		<issue_date>04/28/2022 0839</issue_date>
+		<effective_date>05/09/2022 1600</effective_date>
+		<expiry_date>05/09/2022 1900</expiry_date>
+		<notam_body>ALL RWY CLSD DUE TO RFFS EXER.
+EXC SAR FLT.</notam_body>
+	</notam>
+	<notam>
+		<location>LFST</location>
+		<number>A1864/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 1651</issue_date>
+		<effective_date>05/09/2022 0600</effective_date>
+		<expiry_date>05/09/2022 1600</expiry_date>
+		<notam_body>AD RESERVED FOR STATE ACFT OR REGULAR SKED COMMERCIAL FLIGHTS - 
+CONTACT : EXPLOITATION(AT)STRASBOURG.AEROPORT.FR</notam_body>
+	</notam>
+	<notam>
+		<location>LFSX</location>
+		<number>M1329/22</number>
+		<class>Military</class>
+		<issue_date>05/05/2022 0922</issue_date>
+		<effective_date>05/09/2022 0600</effective_date>
+		<expiry_date>05/09/2022 1500</expiry_date>
+		<notam_body>ILS LUXEUIL 108.100 MHZ U/S DUE TO MAINT. DO NOT USE, POSSIBLE 
+FALSE INDICATION.</notam_body>
+	</notam>
+	<notam>
+		<location>EDDS</location>
+		<number>A2239/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 0452</issue_date>
+		<effective_date>05/07/2022 2200</effective_date>
+		<expiry_date>05/09/2022 0345</expiry_date>
+		<notam_body>RWY 07/25 CLOSED.</notam_body>
+	</notam>
+	<notam>
+		<location>LSPM</location>
+		<number>B0589/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 1533</issue_date>
+		<effective_date>05/07/2022 1100</effective_date>
+		<expiry_date>05/08/2022 1800</expiry_date>
+		<notam_body>RWY 10/28 CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>EDTF</location>
+		<number>E1111/22</number>
+		<class>Military</class>
+		<issue_date>04/30/2022 1058</issue_date>
+		<effective_date>05/07/2022 1130</effective_date>
+		<expiry_date>05/07/2022 1615</expiry_date>
+		<notam_body>RWY 16/34 ASPHALT AND 16/34 GRAS CLOSED. EXCEPT HEL CLASS 1 VIA 
+FATO.</notam_body>
+	</notam>
+</notam_list>

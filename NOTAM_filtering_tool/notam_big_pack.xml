@@ -1,0 +1,3737 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notam_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<notam>
+		<location>LAX</location>
+		<number>N/A</number>
+		<class>Aerodrome</class>
+		<issue_date>empty</issue_date>
+		<effective_date>04/25/2022 1743</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>empty</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>N/A</number>
+		<class>Aerodrome</class>
+		<issue_date>empty</issue_date>
+		<effective_date>03/25/2022 1647</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>empty</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A0280/13</number>
+		<class>International</class>
+		<issue_date>01/21/2013 1623</issue_date>
+		<effective_date>01/21/2013 1623</effective_date>
+		<expiry_date>03/21/2013 0600EST</expiry_date>
+		<notam_body>A0280/13 NOTAMN 
+Q) FAJA/QFULT/IV/NBO/A/000/999/2608S02815E005
+A) FAOR B) 1301211623 C) 1303210600 EST
+E) FUELLING AT PARKING BAY E1 LTD TO STARBOARD SIDE OF ACFT.</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A0288/13</number>
+		<class>International</class>
+		<issue_date>01/22/2013 0938</issue_date>
+		<effective_date>01/22/2013 0938</effective_date>
+		<expiry_date>04/19/2013 1230EST</expiry_date>
+		<notam_body>A0288/13 NOTAMR A0285/13 
+Q) FAJA/QOBCE/IV/M/AE/000/056/2610S02813E005
+A) FAOR B) 1301220938 C) 1304191230 EST
+E) STAND 541, HUGES ROAD, JOHANNESBURG (261046S 0281323E): CRANE WITH
+DAY AND NIGHT MARKINGS ERECTED FROM GND-85FT AGL.
+F) GND G) 5569FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A0388/13</number>
+		<class>International</class>
+		<issue_date>01/29/2013 1112</issue_date>
+		<effective_date>01/29/2013 1112</effective_date>
+		<expiry_date>03/20/2013 0900EST</expiry_date>
+		<notam_body>A0388/13 NOTAMR A0347/13 
+Q) FAJA/QMNXX/IV/NBO/A/000/999/2608S02815E005
+A) FAOR B) 1301291112 C) 1303200900 EST
+E) ACFT ENTERING PRKG BAYS ON APN E AND APN F TO USE MINIMAL THRUST
+REQUIRED AS TO AVOID ADVERSE JETBLAST EFFECTS TO GND HANDLING OPS ON
+OPPOSITE APN.</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A0416/13</number>
+		<class>International</class>
+		<issue_date>01/31/2013 1941</issue_date>
+		<effective_date>01/31/2013 1941</effective_date>
+		<expiry_date>02/01/2013 1000EST</expiry_date>
+		<notam_body>A0416/13 NOTAMR A0125/13 
+Q) FAJA/QMYXX/IV/NBO/A/000/999/2608S02815E005
+A) FAOR B) 1301311941 C) 1302011000 EST
+E) TWY CENTRELINE MARKINGS AND LGT FOR RAPID EXIT TWY RS AND RAPID
+EXIT TWY RR WERE DESIGNED FOR ACFT TYPES WITH LONG WHEEL BASES
+(A340-600). ACFT EXITING RWY 03R VIA RAPID EXIT TWY RS TURNING LEFT
+INTO TWY Y AND ACFT EXITING RWY 21L VIA RAPID EXIT TWY RR TURNING
+RIGHT INTO 
+TWY Y TO EXER CAUTION TO AVOID THE MAIN UNDERCARRIAGE RUNNING OFF THE
+TWY.</notam_body>
+	</notam>
+	<notam>
+		<location>GBYD</location>
+		<number>A0580/15</number>
+		<class>International</class>
+		<issue_date>03/17/2015 1554</issue_date>
+		<effective_date>03/17/2015 1400</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0580/15 NOTAMN
+Q) GOOO/QNBAS/IV/BO/AE/000/999
+A) GBYD B) 1503171400 C) PERM
+E) NDB 'NB'256.00KHZ CORD N13 20' 44.94''/W016 39'27.21''COMPLETLY
+WITHDRAWN.</notam_body>
+	</notam>
+	<notam>
+		<location>FNLU</location>
+		<number>A0376/15</number>
+		<class>International</class>
+		<issue_date>03/23/2016 2132</issue_date>
+		<effective_date>10/31/2015 0000</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0376/15 NOTAMN
+Q) FNAN/QOBCE/IV/M  /AE/000/010/0849S01315E005
+A) FNLU B) 1510310000 C) PERM
+E) TWO BUILDINGS ERECTED 1.987NM FM THR RWY 23 
+LAT 08492920S LONG 01315144E ALT 904FT ACFT CTN)
+
+CNN001I ADMIN MESSAGE</notam_body>
+	</notam>
+	<notam>
+		<location>FNLU</location>
+		<number>A0378/15</number>
+		<class>International</class>
+		<issue_date>03/23/2016 2132</issue_date>
+		<effective_date>10/31/2015 0000</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0378/15 NOTAMN
+Q) FNAN/QOBCE/IV/M  /AE/000/001/0851S01314E005
+A) FNLU B) 1510310000 C) PERM
+E) ERECTED HIGH VOLTAGE POST WITH CABLES AS FLW
+J17 S08502155E013155364 ALT 13FT FM 2190M THR RWY 25 
+J26 S08502058E013151176 ALT 40FT FM 1161M THR RWY 25
+J27 S08502183E013150770 ALT 38FT FM 1047M THR RWY 25
+J31 S08502224E013145212 ALT 64FT FM 846M THR RWY 25)
+
+CNN001I ADMIN MESSAGE</notam_body>
+	</notam>
+	<notam>
+		<location>FNLU</location>
+		<number>A0055/18</number>
+		<class>International</class>
+		<issue_date>10/11/2018 0640</issue_date>
+		<effective_date>05/09/2018 1048</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0055/18 NOTAMR A0014/18
+Q) FNAN/QMPCS/IV/M  /A /000/999/0851S01314E005
+A) FNLU B) 1805091048 C) PERM
+E) ACFT STANDS INSTALLED
+C1-08510181641S013140431677E
+C2-08510271296S013140212199E
+C3-08510361103S013135992506E
+FOR A/C TYPE B777-300ER A340-600 INST</notam_body>
+	</notam>
+	<notam>
+		<location>GBYD</location>
+		<number>A1472/20</number>
+		<class>International</class>
+		<issue_date>09/10/2020 1735</issue_date>
+		<effective_date>09/10/2020 1200</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A1472/20 NOTAMN 
+Q) GOOO/QFACH/IV/NBO/A/000/999/1321N01639W005
+A) GBYD B) 2009101200 C) PERM
+E)
+BANJUL INTERNATIONAL AIRPORT AERODROMW REFERENCE POINT(ARP)ORIGINAL
+POINT CHANGED DUE TO NOT BEING THE HIGHER POINT ON THE AD.THE
+NEW ARP IS ON THE RWY C/L AND ITS ELEVATION IS 92.887FT.CORDINATES
+13 20 16.59210 N163908.47209W.PILOTS ARE ADVICE TO TAKE NOTE.(REF
+GAMBIA AIP-AD2.GBYD-19 NOV 09 WILL BE UPDATER LATER</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A0549/21</number>
+		<class>International</class>
+		<issue_date>03/02/2021 1117</issue_date>
+		<effective_date>03/02/2021 1116</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0549/21 NOTAMR A0545/21 
+Q) FAJA/QOLAS/IV/M/AE/000/056/2614S02816E001
+A) FAOR B) 2103021116 C) PERM
+E) BOKSBURG SOUTH, BOKSBURG (261356.6S 0281609.5E): TOWER (249FT AGL)
+OBST LGT U/S.</notam_body>
+	</notam>
+	<notam>
+		<location>GBYD</location>
+		<number>A1211/16</number>
+		<class>International</class>
+		<issue_date>04/01/2021 1039</issue_date>
+		<effective_date>07/25/2016 2059</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A1211/16 NOTAMN
+Q) GOOO/QMNXX/IV/NBO/A /000/999/1321N01639W005
+A) GBYD B) 1607252059 C) PERM
+E) SOUTH APRON EXPANSION WORKS COMPLETED WITH TEN AIRCRAFT    
+STANDS.PILOTS ARE ADVISED TO TAKE NOTE AND FOLLOW TOWER 
+INSTRUCTIONS.</notam_body>
+	</notam>
+	<notam>
+		<location>GOBD</location>
+		<number>A1362/21</number>
+		<class>International</class>
+		<issue_date>10/14/2021 0655</issue_date>
+		<effective_date>10/14/2021 0800</effective_date>
+		<expiry_date>01/14/2022 1600EST</expiry_date>
+		<notam_body>A1362/21 NOTAMN 
+Q) GOOO/QMAHG/IV/B/A/000/999/1440N01704W005
+A) GOBD B) 2110140800 C) 2201141600 EST
+D) DLY 0800/1600
+E) GRASS CUTTING ON THE MVT AREA. PRESENCE OF WORKERS AND EQUIPEMENT.
+CAUTION ADVISED</notam_body>
+	</notam>
+	<notam>
+		<location>GBYD</location>
+		<number>A1653/21</number>
+		<class>International</class>
+		<issue_date>01/01/2022 2329</issue_date>
+		<effective_date>12/15/2021 2319</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A1653/21 NOTAMN
+Q) GOOO/QRPCA/IV/NBO/AW/000/055/1327N01634W002
+A) GBYD B) 2112152319 C) PERM
+E) GBP 1 BANJUL CIRCLE WITH A RADIUS OF 1.5NM CENTERED ON N13 27
+20 W016 34 35 UPPER LIMIT/LOWER LIMIT FROM SFC TO FL55 IS PROHIBITED
+TO FLIGHT OF AIRCRAFT (REF AIP GAMBIA ENR. 5.1-1
+F) SFC G) FL055</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A0538/22</number>
+		<class>International</class>
+		<issue_date>02/25/2022 0910</issue_date>
+		<effective_date>02/25/2022 0909</effective_date>
+		<expiry_date>06/25/2022 2359EST</expiry_date>
+		<notam_body>A0538/22 NOTAMR A4592/21
+Q) EPWW/QLXAS/IV/M  /A /000/999/5005N01947E005
+A) EPKK B) 2202250909 C) 2206252359 EST
+E) TWY B5, B6, J, T, Z1, Z2, Z3 CENTRELINE AND APRON ACFT STANDS 
+LIGHTS U/S.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0512/22</number>
+		<class>International</class>
+		<issue_date>03/10/2022 1318</issue_date>
+		<effective_date>03/27/2022 0000</effective_date>
+		<expiry_date>06/24/2022 1500EST</expiry_date>
+		<notam_body>A0512/22 NOTAMN
+Q) LOVV/QFAXX/IV/NBO/A /000/999/4807N01634E005
+A) LOWW B) 2203270000 C) 2206241500 EST
+E) REF AIP AUSTRIA LOWW AD 2-47 ITEM 2.2
+THE FOLLOWING TIMES ARE CURRENTLY CONSIDERED IN LOWW AS RUSH HOURS:
+0600-0800
+0900-1030
+1400-1500
+1600-1800
+1900-2100</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A0658/22</number>
+		<class>International</class>
+		<issue_date>03/11/2022 0827</issue_date>
+		<effective_date>03/11/2022 0826</effective_date>
+		<expiry_date>06/11/2022 2359EST</expiry_date>
+		<notam_body>A0658/22 NOTAMR A0592/22
+Q) EPWW/QOLAS/IV/M  /AE/000/016/5003N02000E005
+A) EPKK B) 2203110826 C) 2206112359 EST
+E) OBST LGT ON CHIMNEY AT PSN: 500314.5N 0200024.5E - KRAKOW/LEG U/S.
+ID OF OBST: 00999-2009-01, HGT 854FT AGL/1511FT AMSL.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A0666/22</number>
+		<class>International</class>
+		<issue_date>03/11/2022 1556</issue_date>
+		<effective_date>03/11/2022 1555</effective_date>
+		<expiry_date>06/13/2022 2359EST</expiry_date>
+		<notam_body>A0666/22 NOTAMR A4820/21
+Q) EPWW/QMRLT/IV/NBO/A /000/999/5210N02058E005
+A) EPWA B) 2203111555 C) 2206132359 EST
+E) RWY 29 NOT AVBL VIA TWY R FOR ACFT WITH WINGSPAN ABOVE 36M.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A0693/22</number>
+		<class>International</class>
+		<issue_date>03/14/2022 1201</issue_date>
+		<effective_date>03/14/2022 1201</effective_date>
+		<expiry_date>06/14/2022 2359EST</expiry_date>
+		<notam_body>A0693/22 NOTAMR A0692/22
+Q) EPWW/QOBCE/IV/M  /AE/000/999/5210N02058E005
+A) EPWA B) 2203141201 C) 2206142359 EST
+E) MOBILE CONSTRUCTION EQUIPMENT AT PSN: 521058.16N 0205714.04E 481M 
+BEFORE THR 15 ALONG RCL AND 102M LEFT FM RCL WHEN APPROACHING RWY 15.
+HGT 32FT AGL/390FT AMSL. DAY MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>GBYD</location>
+		<number>A0416/22</number>
+		<class>International</class>
+		<issue_date>03/14/2022 1511</issue_date>
+		<effective_date>03/14/2022 1505</effective_date>
+		<expiry_date>06/14/2022 2359EST</expiry_date>
+		<notam_body>A0416/22 NOTAMR A1648/21 
+Q) GOOO/QNVAS/IV/BO/AE/000/999/1321N01639W025
+A) GBYD B) 2203141505 C) 2206142359 EST
+E) BANJUL INTERNATIONAL AIRPORT D-VOR FRE:1129MHZ U/S</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A0759/22</number>
+		<class>International</class>
+		<issue_date>03/21/2022 0902</issue_date>
+		<effective_date>03/21/2022 0901</effective_date>
+		<expiry_date>06/21/2022 2359EST</expiry_date>
+		<notam_body>A0759/22 NOTAMR A4924/21
+Q) EPWW/QMPLC/IV/BO /A /000/999/5005N01947E005
+A) EPKK B) 2203210901 C) 2206212359 EST
+E) ACFT STAND NR 12 CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>LOAN</location>
+		<number>A0665/22</number>
+		<class>International</class>
+		<issue_date>03/25/2022 1343</issue_date>
+		<effective_date>03/25/2022 1342</effective_date>
+		<expiry_date>06/17/2022 1000EST</expiry_date>
+		<notam_body>A0665/22 NOTAMN
+Q) LOVV/QOBCE/IV/B  /AE/000/020/4752N01615E001
+A) LOAN B) 2203251342 C) 2206171000 EST
+E) THERESIENFELD - ANTENNA ERECTED - OBST NOT MARKED.
+PSN:  47 51 51.2N 016 14 52.8E - ELEV: 318.1M/1044FT AMSL -
+HGT ABV GND: 36.1M/118FT AGL</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0668/22</number>
+		<class>International</class>
+		<issue_date>03/28/2022 0736</issue_date>
+		<effective_date>04/05/2022 0900</effective_date>
+		<expiry_date>06/24/2022 1000EST</expiry_date>
+		<notam_body>A0668/22 NOTAMN
+Q) LOVV/QPFCH/IV/NBO/AE/000/999/4807N01634E005
+A) LOWW B) 2204050900 C) 2206241000 EST
+E) VIENNA SCHWECHAT AIRPORT WILL GO INTO PERMANENT A-CDM OPERATIONS 
+TRANSMITTING DEPARTURE PLANNING INFORMATION (DPI) MESSAGES FOR ALL 
+DEPARTING IFR TRAFFIC TO NETWORK MANAGEMENT OPERATIONS CENTRE 
+(NMOC). NMOC WILL TAKE LOCAL TARGET TAKE-OFF TIMES INTO ACCOUNT FOR 
+FLOW MANAGEMENT PURPOSES. THIS WILL ALLOW FOR MORE ACCURATE AND 
+EFFICIENT CALCULATION OF THE CTOT (WHEN APPLICABLE) DUE TO THE USE 
+OF LOCAL TARGET TAKE-OFF TIMES.
+THE BASIC NMOC PROCEDURES CONTINUE TO APPLY. ALL IFR FLIGHTS 
+DEPARTING LOWW WILL BE AFFECTED AND SHALL ADHERE CLOSELY TO LOCAL 
+AIRPORT COLLABORATIVE DECISION MAKING (A-CDM) PRODEDURES.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0675/22</number>
+		<class>International</class>
+		<issue_date>03/28/2022 1137</issue_date>
+		<effective_date>03/28/2022 1137</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0675/22 NOTAMR A0673/22
+Q) LOVV/QFGXX/IV/NBO/AE/000/999/4807N01634E005
+A) LOWW B) 2203281137 C) PERM
+E) TO AVOID DELAYS, DEPARTING AIRBUS A220 / BOMBARDIER C-SERIES
+OPERATORS ARE OBLIGED TO INFORM ATC ON INITIAL CONTACT IF CURRENT
+WIND SITUATION PROHIBITS ENGINE STARTUP DURING OR AFTER PUSHBACK.
+ENGINE STARTUP AT THE GATE HAS TO BE CONSIDERED AND COORDINATED PRIOR
+INITIATING PUSHBACK.</notam_body>
+	</notam>
+	<notam>
+		<location>GOBD</location>
+		<number>A0448/22</number>
+		<class>International</class>
+		<issue_date>04/01/2022 0752</issue_date>
+		<effective_date>03/21/2022 0900</effective_date>
+		<expiry_date>06/30/2022 1500EST</expiry_date>
+		<notam_body>A0448/22 NOTAMR A1476/21
+Q) GOOO/QMAHW/IV/B  /A /000/999/1440N01704W005
+A) GOBD B) 2203210900 C) 2206301500 EST
+D) MON TUE WED THU FRI SAT 0900-1500
+E) DAY MARKING WIP ON THE MVT AREA.PRESENCE OF WORKERS AND EQUIPMENT.
+CAUTION ADVISED.</notam_body>
+	</notam>
+	<notam>
+		<location>LOAN</location>
+		<number>A0788/22</number>
+		<class>International</class>
+		<issue_date>04/08/2022 0855</issue_date>
+		<effective_date>04/08/2022 0855</effective_date>
+		<expiry_date>07/07/2022 1000EST</expiry_date>
+		<notam_body>A0788/22 NOTAMR A0019/22
+Q) LOVV/QOBCE/IV/B  /AE/000/020/4751N01616E001
+A) LOAN B) 2204080855 C) 2207071000 EST
+E) 4 MASTS ERECTED 300M SOUTHEAST THR RWY 09. ANTENNA ERECTED ON TOP 
+OF THE MAST SITUATED IN THE FURTHEST SOUTHEASTERN PART. 
+ANTENNA DAY AND NIGHT MARKED, MASTS NIGHT MARKED.
+ANTENNA HEIGHT: 158FT/48M AGL</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0361/22</number>
+		<class>International</class>
+		<issue_date>04/08/2022 1636</issue_date>
+		<effective_date>04/08/2022 1633</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>K0361/22 NOTAMN
+Q) SBCW/QPDAW/I/NBO/A/000/999/2326S04628W040
+A) SBGR
+B) 2204081633 C) PERM
+E) SID RNAV AMVUL 1A RWY 09R/09L AND RNAV VUNVU 2A - RWY 27R/27L: TRNS MOLDU WITHDRAWN.
+REF.: AIP AD 2.24</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1045/22</number>
+		<class>International</class>
+		<issue_date>04/11/2022 1024</issue_date>
+		<effective_date>04/12/2022 0400</effective_date>
+		<expiry_date>07/12/2022 2359EST</expiry_date>
+		<notam_body>A1045/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /A /000/999/5211N02102E005
+A) EPWA B) 2204120400 C) 2207122359 EST
+E) CRANE ERECTED AT PSN: 521052.2N 0210131.3E, 2144M BEFORE THR 29 
+ALONG RCL AND 3215M RIGHT FM RCL WHEN APPROACHING RWY 29.
+HGT OF OBST 160FT AGL/500FT AMSL. DAY AND NIGHT MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0801/22</number>
+		<class>International</class>
+		<issue_date>04/12/2022 0616</issue_date>
+		<effective_date>04/12/2022 0615</effective_date>
+		<expiry_date>07/11/2022 0800EST</expiry_date>
+		<notam_body>A0801/22 NOTAMN
+Q) LOVV/QOBCE/IV/M  /AE/000/011/4811N01625E001
+A) LOWW B) 2204120615 C) 2207110800 EST
+E) 2 CRANES ERECTED AREA WIEN 3 MODECENTERSTRASSE 20
+CRANE 1
+PSN: 481105N 0162450E
+ELEV: 306M/1004FT AMSL
+HEIGHT ABOVE GND   : 144M/473FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES
+CRANE 2
+PSN: 481105N 0162448E
+ELEV: 290M/952FT AMSL
+HEIGHT ABOVE GND   : 138M/453FT AGL
+OBST DAY MARKED    : YES
+OBST NIGHT MARKED  : YES</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1112/22</number>
+		<class>International</class>
+		<issue_date>04/15/2022 1318</issue_date>
+		<effective_date>04/15/2022 1315</effective_date>
+		<expiry_date>07/15/2022 2359EST</expiry_date>
+		<notam_body>A1112/22 NOTAMN
+Q) EPWW/QFALT/IV/NBO/A /000/999/5210N02058E005
+A) EPWA B) 2204151315 C) 2207152359 EST
+E) AD NOT AVBL FOR ACFT OF CODE LETTER F.</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1129/22</number>
+		<class>International</class>
+		<issue_date>04/19/2022 0510</issue_date>
+		<effective_date>04/19/2022 0509</effective_date>
+		<expiry_date>07/18/2022 2359EST</expiry_date>
+		<notam_body>A1129/22 NOTAMR A0724/22
+Q) EPWW/QFAHW/IV/NBO/A /000/999/5005N01947E005
+A) EPKK B) 2204190509 C) 2207182359 EST
+E) REF SUP 32/22 (AD2 EPKK) TASK 1 - CONSTRUCTION WORKS ON AD START 
+ON SEP 07 0300.</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1130/22</number>
+		<class>International</class>
+		<issue_date>04/19/2022 0511</issue_date>
+		<effective_date>04/19/2022 0510</effective_date>
+		<expiry_date>07/18/2022 2359EST</expiry_date>
+		<notam_body>A1130/22 NOTAMR A0725/22
+Q) EPWW/QFAHW/IV/NBO/A /000/999/5005N01947E005
+A) EPKK B) 2204190510 C) 2207182359 EST
+E) REF SUP 32/22 (AD2 EPKK) WIP ON NORTH SIDE OF TWYS B4, B5, B6 
+ARE CARRIED OUT WITHIN A SAFE DISTANCE FOR CODE E ACFT AND WITH ATC 
+ASSISTANCE.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0885/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 0729</issue_date>
+		<effective_date>04/22/2022 0729</effective_date>
+		<expiry_date>07/15/2022 1000EST</expiry_date>
+		<notam_body>A0885/22 NOTAMR A0209/22
+Q) LOVV/QFAXX/IV/NBO/A /000/999/4807N01634E005
+A) LOWW B) 2204220729 C) 2207151000 EST
+E) &amp;apos;AIRPORT SLOT ID&amp;apos; FOR GENERAL/BUSINESS AVIATION FLIGHTS TO/FROM
+COORDINATED AIRPORTS IN AUSTRIA - SEE AIP SUP 001/22.</notam_body>
+	</notam>
+	<notam>
+		<location>GLRB</location>
+		<number>A0039/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 1921</issue_date>
+		<effective_date>04/22/2022 2020</effective_date>
+		<expiry_date>PERM</expiry_date>
+		<notam_body>A0039/22 NOTAMN
+Q) GLRB/QMXXX/IV/M/A/000/999/0614N01021W
+A) GLRB B) 2204222020 C) PERM
+E) FILLETS TO CATER TO B773 ARE NOW AVBL AT THE TURN PAD OF TWY ALPHA
+ AND BRAVO</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1315/22</number>
+		<class>International</class>
+		<issue_date>04/28/2022 1214</issue_date>
+		<effective_date>04/28/2022 1215</effective_date>
+		<expiry_date>07/28/2022 2159EST</expiry_date>
+		<notam_body>A1315/22 NOTAMN
+Q) EPWW/QMPLC/IV/BO /A /000/999/5210N02058E005
+A) EPWA B) 2204281215 C) 2207282159 EST
+E) ACFT STAND 53A NOT AVBL..</notam_body>
+	</notam>
+	<notam>
+		<location>GLRB</location>
+		<number>A0042/22</number>
+		<class>International</class>
+		<issue_date>04/29/2022 1049</issue_date>
+		<effective_date>04/29/2022 1100</effective_date>
+		<expiry_date>06/29/2022 2359EST</expiry_date>
+		<notam_body>A0042/22 NOTAMN
+Q) GLRB/QFFCG/IV/NBO/A/000/999/0614N01021W
+A) GLRB B) 2204291100 C) 2206292359 EST
+E) FIRE AND RESCUE DOWNGRADED TO CAT 6 DUE TO LIMITED FIRE VEHICLES
+ AND EQUIPMENT.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1368/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 0654</issue_date>
+		<effective_date>05/04/2022 0600</effective_date>
+		<expiry_date>08/04/2022 2359EST</expiry_date>
+		<notam_body>A1368/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /AE/000/999/5210N02100E001
+A) EPWA B) 2205040600 C) 2208042359 EST
+E) CRANE, PSN: 521010.80N 0205943.30E, 810M BEFORE THR 29            
+ ALONG RCL AND 1198M RIGHT FM RCL WHEN APPROACHING RWY 29.
+HGT 176FT AGL/516FT AMSL.
+DAY AND NIGHT MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1369/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 0657</issue_date>
+		<effective_date>05/04/2022 0600</effective_date>
+		<expiry_date>08/04/2022 2359EST</expiry_date>
+		<notam_body>A1369/22 NOTAMN
+Q) EPWW/QPOCH/I /NBO/A /000/999/5210N02058E005
+A) EPWA B) 2205040600 C) 2208042359 EST
+E) DUE TO ERECTION OF CRANE (SEE NTM: A 1368/22)
+CHANGE OF OCA/H VALUES IN PROCEDURE 
+EPWA VOR RWY 29 FM 750 (404) TO 770 (424) WHEN STEPDOWN FIX RECEIVED.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0975/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 0711</issue_date>
+		<effective_date>05/03/2022 0711</effective_date>
+		<expiry_date>07/29/2022 0900EST</expiry_date>
+		<notam_body>A0975/22 NOTAMR A0589/22
+Q) LOVV/QFALT/IV/NBO/A /000/999/4807N01634E005
+A) LOWW B) 2205030711 C) 2207290900 EST
+E) AIRCRAFT PERFORMING FUEL STOP AT LOWW ARE REQUIRED TO REMAIN
+PASSENGERS ON BORD DURING GROUNDTIME.
+REFUELLING WITH PASSENGERS ON BORD MUST BE PERFORMED ACCORDING TO 
+CIVIL AVIATION AUTHORITY APPROVED REGULATION.</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1589/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 1025</issue_date>
+		<effective_date>05/12/2022 1025</effective_date>
+		<expiry_date>08/09/2022 1200EST</expiry_date>
+		<notam_body>A1589/22 NOTAMR A1588/22 
+Q) FAJA/QPIAU/I/NBO/A/000/999/2608S02815E005
+A) FAOR B) 2205121025 C) 2208091200 EST
+E) SID OVALA1A RWY 03L/R (DEP-05 DATED 18 AUG 2016) SUSPENDED.</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1590/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 1027</issue_date>
+		<effective_date>05/12/2022 1027</effective_date>
+		<expiry_date>08/09/2022 1200EST</expiry_date>
+		<notam_body>A1590/22 NOTAMN 
+Q) FAJA/QPIAU/I/NBO/A/000/999/2608S02815E005
+A) FAOR B) 2205121027 C) 2208091200 EST
+E) SID NORVA2A RWY 03L/R (DEP-09 DATED 18 AUG 2016) SUSPENDED.</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1591/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 1031</issue_date>
+		<effective_date>05/12/2022 1031</effective_date>
+		<expiry_date>08/09/2022 1200EST</expiry_date>
+		<notam_body>A1591/22 NOTAMN 
+Q) FAJA/QPIAU/I/NBO/A/000/999/2608S02815E005
+A) FAOR B) 2205121031 C) 2208091200 EST
+E) INSTR APCH ILS X RWY 21L (ILS-09 DATED 18 AUG 2016) SUSPENDED.</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1636/22</number>
+		<class>International</class>
+		<issue_date>05/16/2022 1316</issue_date>
+		<effective_date>05/16/2022 1316</effective_date>
+		<expiry_date>06/30/2022 1800EST</expiry_date>
+		<notam_body>A1636/22 NOTAMR A1486/22 
+Q) FAJA/QFULT/IV/NBO/A/000/999/2608S02815E005
+A) FAOR B) 2205161316 C) 2206301800 EST
+E) LOW FUEL AVBL. OPR TO CTC FUEL SUPPLIER TO CFM RQMNTS.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1629/22</number>
+		<class>International</class>
+		<issue_date>05/24/2022 1800</issue_date>
+		<effective_date>05/24/2022 1758</effective_date>
+		<expiry_date>08/24/2022 2359EST</expiry_date>
+		<notam_body>A1629/22 NOTAMR A0526/22
+Q) EPWW/QMXLT/IV/M  /A /000/999/5210N02058E005
+A) EPWA B) 2205241758 C) 2208242359 EST
+E) TOWING OF ACFT ON TWY D5 WHEN RVR IS LESS THAN 550M IS PROHIBITED.</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1651/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0741</issue_date>
+		<effective_date>05/27/2022 0740</effective_date>
+		<expiry_date>08/27/2022 2359EST</expiry_date>
+		<notam_body>A1651/22 NOTAMR A0557/22
+Q) EPWW/QFALT/IV/NBO/A /000/999/5005N01947E005
+A) EPKK B) 2205270740 C) 2208272359 EST
+E) GENERAL AVIATION ACFT PARKING ON CIVIL APRON - AVBL BTN 0700-1000 
+AND 1400-2000. MAX TIME OF PARKING - 1HR. SLOT OBLIGATORY.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1695/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0929</issue_date>
+		<effective_date>05/30/2022 0928</effective_date>
+		<expiry_date>08/31/2022 2359EST</expiry_date>
+		<notam_body>A1695/22 NOTAMR A0558/22
+Q) EPWW/QMXLC/IV/M  /A /000/999/5210N02058E005
+A) EPWA B) 2205300928 C) 2208312359 EST
+E) TWY B6, B7, B8 AND H1 CLSD.</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1790/22</number>
+		<class>International</class>
+		<issue_date>05/31/2022 1226</issue_date>
+		<effective_date>05/31/2022 0300</effective_date>
+		<expiry_date>07/29/2022 2000EST</expiry_date>
+		<notam_body>A1790/22 NOTAMR A1193/22 
+Q) FAJA/QFGAH/IV/M/A/000/999/2608S02815E005
+A) FAOR B) 2205310300 C) 2207292000 EST
+E) COVID-19:
+CLR DELIVERY 121.7 MHZ OPS HR CHG TO: 
+MON-FRI 0330-2000
+SAT-SUN 0500-2000. 
+OUTSIDE CLR HR OF DUTY, SER WILL BE AVBL ON SMC 121.9 MHZ.</notam_body>
+	</notam>
+	<notam>
+		<location>GLRB</location>
+		<number>A0067/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 0042</issue_date>
+		<effective_date>06/02/2022 0045</effective_date>
+		<expiry_date>06/30/2022 2359EST</expiry_date>
+		<notam_body>A0067/22 NOTAMN
+Q) GLRB/QILAS/I/NBO/A/000/999/0614N01021W
+A) GLRB B) 2206020045 C) 2206302359 EST
+E) ILS /LLZ FREQ 110.3 MHZ RWY22 U/S DUE MAINT.</notam_body>
+	</notam>
+	<notam>
+		<location>GLRB</location>
+		<number>A0071/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 2220</issue_date>
+		<effective_date>06/02/2022 2359</effective_date>
+		<expiry_date>06/18/2022 0001EST</expiry_date>
+		<notam_body>A0071/22 NOTAMR A0021/22
+Q) GLRB/QCALS/IV/B/AE/000/999
+A) GLRB B) 2206022359 C) 2206180001 EST
+E) A/G FAC FREQ 128.1 MHZ SUBJ INTRP DUE TO UPGRADE OF THE ATM SYSTEM</notam_body>
+	</notam>
+	<notam>
+		<location>GLRB</location>
+		<number>B0025/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 2305</issue_date>
+		<effective_date>06/02/2022 1125</effective_date>
+		<expiry_date>06/30/2022 2359EST</expiry_date>
+		<notam_body>B0025/22 NOTAMR B0024/22
+Q) GLRB/QKKKK/K/K/K/000/999
+A) GLRB B) 2206021125 C) 2206302359 EST
+E) CHECKLIST
+SERIES B
+YEAR 2022: B0010
+LATEST AIP AMENDMENTS:
+AIRAC AIP AMENDMENT: NR  012 DATED 17 OCT 2013
+AIP SUPPLEMENTS:
+2008: S40
+2009: S47? S50
+2010: S58? S60? S64? S67? S68
+2011? S77
+2012: S84
+2013: S93? S94
+2014: S98? S100
+2015: S102
+2018: S01? S03
+2019: S01
+2020: S02? S03? S04? S06? S07? S08? S09? S10? S11? S12? S13? S14?
+ S15? S16? S17? S18? S19? S20? S20? S22? S23? S24? S27? S31? S32?
+ S34? S35? S36? S37? S38? S39? S40? S41? S42? S43? S45? S51? S52?
+ S54? S55? S56? S57? S58? S59? S60 S61? S62? S63? S64? S65? S66? S67?
+ S68? S69? S71? S72? S73? S74? S76? S77? S78? S79? S80? S81? S82?
+ S83? S84? S85? S86? S87? S88? S89? S90? S91? S92? S93? S94? S95? S96
+2021: S01? S02? S03? S04? S05? S07? S08? S09? S10? S11? S12? S13
+2022: S01? S02? S03? S04? S05? S06? S07? S08
+AERONAUTICAL INFORMATION CIRCULAR (AIC) IN FORCE:
+NR 1? 2005
+NR 1? OF 2006
+NR 1? 3? 4? 2007
+NR 7? 8? 10? 12? 13? OF 2008
+NR 5? OF 2009
+NR 1? 2? OF 2012
+NR 2 OF 2013
+NR 1? 2? 3? 4? 2015
+NR 1? 2? OF 2019
+NR 1? 3? 4? OF 2019
+NR 5? OF 2021
+NR 1? 2? OF 2022</notam_body>
+	</notam>
+	<notam>
+		<location>GLRB</location>
+		<number>A0076/22</number>
+		<class>International</class>
+		<issue_date>06/03/2022 1333</issue_date>
+		<effective_date>06/03/2022 0700</effective_date>
+		<expiry_date>06/30/2022 2359EST</expiry_date>
+		<notam_body>A0076/22 NOTAMR A0072/22
+Q) GLRB/QKKKK/K/K/K/000/999
+A) GLRB B) 2206030700 C) 2206302359 EST
+E) CHECKLIST
+SERIES A
+YEAR 2022: A0026, A0036, A0039, A0042, A0054, A0058, A0063, A0066,
+ A0067, A0071
+LATEST AIP AMENDMENTS: 
+AIRAC AIP AMENDMENT: NR012 DATED 17 OCT 2013
+AIP SUPPLEMENTS:
+2008: S40
+2009: S47? S50
+2010: S58? S60? S64? S67? S68
+2011? S77
+2012: S84
+2013: S93? S94
+2014: S98? S100
+2015: S102
+2018: S01? S03
+2019: S01
+2020: S02? S03? S04? S06? S07? S08? S09? S10? S11? S12? S13? S14?
+ S15? S16? S17? S18? S19? S20? S20? S22? S23? S24? S27? S31? S32?
+ S34? S35? S36? S37? S38? S39? S40? S41? S42? S43? S45? S51? S52?
+ S54? S55? S56? S57? S58? S59? S60 S61? S62? S63? S64? S65? S66? S67?
+ S68? S69? S71? S72? S73? S74? S76? S77? S78? S79? S80? S81? S82?
+ S83? S84? S85? S86? S87? S88? S89? S90? S91? S92? S93? S94? S95? S96
+2021: S01? S02? S03? S04? S05? S07? S08? S09? S10? S11? S12? S13
+2022: S01? S02? S03, S04? S05? S06? S07? S08
+AERONAUTICAL INFORMATION CIRCULAR (AIC) IN FORCE:
+NR 1? 2005
+NR 1? OF 2006
+NR 1? 3? 4? 2007
+NR 7? 8? 10? 12? 13? OF 2008
+NR 5? OF 2009
+NR 1? 2? OF 2012
+NR 2 OF 2013
+NR 1? 2? 3? 4? 2015
+NR 1? 2? OF 2019
+NR 1? 3? OF 2020
+NR 5? OF 2021
+NR 1? 2? OF 2022</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1770/22</number>
+		<class>International</class>
+		<issue_date>06/04/2022 0705</issue_date>
+		<effective_date>06/04/2022 0700</effective_date>
+		<expiry_date>07/04/2022 0700EST</expiry_date>
+		<notam_body>A1770/22 NOTAMN
+Q) EPWW/QFBAS/IV/M  /A /000/999/5005N01947E005
+A) EPKK B) 2206040700 C) 2207040700 EST
+E) FRICTION MEASUREMENT DEVICE (SFH) U/S.</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/011</number>
+		<class>Obstruction</class>
+		<issue_date>06/01/2022 1859</issue_date>
+		<effective_date>06/01/2022 1900</effective_date>
+		<expiry_date>06/04/2024 0700</expiry_date>
+		<notam_body>!LAX 06/011 LAX OBST CRANE (ASN 2022-AWP-1087-NRA) 335659N1182325W (1.0NM ENE LAX) 216FT (120FT AGL) FLAGGED AND LGTD 2206011900-2406040700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/012</number>
+		<class>Obstruction</class>
+		<issue_date>06/01/2022 1924</issue_date>
+		<effective_date>06/01/2022 1926</effective_date>
+		<expiry_date>06/04/2024 0700</expiry_date>
+		<notam_body>!LAX 06/012 LAX OBST CRANE (ASN 2022-AWP-1088-NRA) 335656N1182325W (1.0NM ENE LAX) 217FT (120FT AGL) FLAGGED AND LGTD 2206011926-2406040700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/013</number>
+		<class>Obstruction</class>
+		<issue_date>06/01/2022 1925</issue_date>
+		<effective_date>06/01/2022 1927</effective_date>
+		<expiry_date>06/04/2024 0700</expiry_date>
+		<notam_body>!LAX 06/013 LAX OBST CRANE (ASN 2022-AWP-1089-NRA) 335656N1182319W (1.0NM ENE LAX) 219FT (120FT AGL) FLAGGED AND LGTD 2206011927-2406040700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/014</number>
+		<class>Obstruction</class>
+		<issue_date>06/01/2022 1926</issue_date>
+		<effective_date>06/01/2022 1928</effective_date>
+		<expiry_date>06/04/2024 0700</expiry_date>
+		<notam_body>!LAX 06/014 LAX OBST CRANE (ASN 2022-AWP-1090-NRA) 335659N1182319W (1.0NM ENE LAX) 219FT (120FT AGL) FLAGGED AND LGTD 2206011928-2406040700</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/5380</number>
+		<class>Procedure</class>
+		<issue_date>05/17/2022 1826</issue_date>
+		<effective_date>05/17/2022 1825</effective_date>
+		<expiry_date>05/17/2024 1825EST</expiry_date>
+		<notam_body>!FDC 2/5380 JFK SPECIAL JOHN F KENNEDY INTL, NEW YORK, NY.
+RNAV (RNP) RWY 13R, AMDT 3A...
+RNP 0.30 DA 525/HAT 512 ALL CATS. VISIBILITY 1 1/2 ALL CATS.
+2205171825-2405171825EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/3724</number>
+		<class>Procedure</class>
+		<issue_date>04/05/2022 1857</issue_date>
+		<effective_date>04/05/2022 1857</effective_date>
+		<expiry_date>04/05/2024 1856EST</expiry_date>
+		<notam_body>!FDC 2/3724 JFK ODP JOHN F KENNEDY INTL, NEW YORK, NY.
+TAKEOFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES AMDT 9...
+ADD TAKEOFF OBSTACLE NOTE: RWY 31R, TEMPORARY ACFT TAILS 1878FT FROM DER, 476FT LEFT OF CENTERLINE, 64FT AGL/ 74FT MSL (2020-AEA-1302-NRA, LONG TERM CONDITION).
+ALL OTHER DATA REMAINS AS PUBLISHED. 2204051857-2404051856EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/3766</number>
+		<class>Procedure</class>
+		<issue_date>01/13/2022 0506</issue_date>
+		<effective_date>01/19/2022 0500</effective_date>
+		<expiry_date>01/19/2024 0506EST</expiry_date>
+		<notam_body>!FDC 2/3766 JFK SPECIAL JOHN F KENNEDY INTL, NEW YORK, NY.
+RNAV (RNP) RWY 13L, AMDT 3A...
+RNAV (RNP) RWY 13R, AMDT 3A...
+PROCEDURE NA EXC FOR ACFT USING APPROVED ALTERNATIVE METHODS OF COMPLIANCE DUE TO 5G C-BAND INTERFERENCE PLUS SEE AIRWORTHINESS DIRECTIVES 2021-23-12, 2021-23-13.
+2201190500-2401190506EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/3730</number>
+		<class>Procedure</class>
+		<issue_date>01/13/2022 0503</issue_date>
+		<effective_date>01/19/2022 0500</effective_date>
+		<expiry_date>01/19/2024 0503EST</expiry_date>
+		<notam_body>!FDC 2/3730 JFK IAP JOHN F KENNEDY INTL, NEW YORK, NY.
+ILS RWY 13L (CAT II), AMDT 18C ...
+ILS RWY 04R (CAT II - III), AMDT 30B ...
+ILS RWY 22L (CAT II - III), AMDT 26 ...
+PROCEDURE NA EXC FOR ACFT USING APPROVED ALTERNATIVE METHODS OF COMPLIANCE DUE TO 5G C-BAND INTERFERENCE PLUS SEE AIRWORTHINESS DIRECTIVES 2021-23-12, 2021-23-13 2201190500-2401190503EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/3731</number>
+		<class>Procedure</class>
+		<issue_date>01/13/2022 0503</issue_date>
+		<effective_date>01/19/2022 0500</effective_date>
+		<expiry_date>01/19/2024 0503EST</expiry_date>
+		<notam_body>!FDC 2/3731 LAX IAP LOS ANGELES INTL, LOS ANGELES, CA.
+ILS RWY 24R (CAT II - III), AMDT 26B ...
+ILS RWY 25L (CAT II - III), AMDT 14D ...
+PROCEDURE NA EXC FOR ACFT USING APPROVED ALTERNATIVE METHODS OF COMPLIANCE DUE TO 5G C-BAND INTERFERENCE PLUS SEE AIRWORTHINESS DIRECTIVES 2021-23-12, 2021-23-13 2201190500-2401190503EST</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>01/011</number>
+		<class>Aerodrome</class>
+		<issue_date>01/13/2022 0615</issue_date>
+		<effective_date>01/19/2022 0501</effective_date>
+		<expiry_date>01/19/2024 0501</expiry_date>
+		<notam_body>!GYR 01/011 GYR AD AP RDO ALTIMETER UNREL. AUTOLAND, HUD TO TOUCHDOWN, ENHANCED FLT VISION SYSTEMS TO TOUCHDOWN, HEL OPS REQUIRING RDO ALTIMETER DATA TO INCLUDE HOVER AUTOPILOT MODES AND CAT A/B/PERFORMANCE CLASS TKOF AND LDG NOT AUTHORIZED EXC FOR ACFT USING APPROVED ALTERNATIVE METHODS OF COMPLIANCE DUE TO 5G C-BAND INTERFERENCE PLUS SEE AIRWORTHINESS DIRECTIVES 2021-23-12, 2021-23-13 2201190501-2401190501</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>01/049</number>
+		<class>Aerodrome</class>
+		<issue_date>01/13/2022 0740</issue_date>
+		<effective_date>01/19/2022 0501</effective_date>
+		<expiry_date>01/19/2024 0501</expiry_date>
+		<notam_body>!LAX 01/049 LAX AD AP RDO ALTIMETER UNREL. AUTOLAND, HUD TO TOUCHDOWN, ENHANCED FLT VISION SYSTEMS TO TOUCHDOWN, HEL OPS REQUIRING RDO ALTIMETER DATA TO INCLUDE HOVER AUTOPILOT MODES AND CAT A/B/PERFORMANCE CLASS TKOF AND LDG NOT AUTHORIZED EXC FOR ACFT USING APPROVED ALTERNATIVE METHODS OF COMPLIANCE DUE TO 5G C-BAND INTERFERENCE PLUS SEE AIRWORTHINESS DIRECTIVES 2021-23-12, 2021-23-13 2201190501-2401190501</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>01/330</number>
+		<class>Aerodrome</class>
+		<issue_date>01/13/2022 1303</issue_date>
+		<effective_date>01/19/2022 0501</effective_date>
+		<expiry_date>01/19/2024 0501</expiry_date>
+		<notam_body>!JFK 01/330 JFK AD AP RDO ALTIMETER UNREL. AUTOLAND, HUD TO TOUCHDOWN, ENHANCED FLT VISION SYSTEMS TO TOUCHDOWN, HEL OPS REQUIRING RDO ALTIMETER DATA TO INCLUDE HOVER AUTOPILOT MODES AND CAT A/B/PERFORMANCE CLASS TKOF AND LDG NOT AUTHORIZED EXC FOR ACFT USING APPROVED ALTERNATIVE METHODS OF COMPLIANCE DUE TO 5G C-BAND INTERFERENCE PLUS SEE AIRWORTHINESS DIRECTIVES 2021-23-12, 2021-23-13 2201190501-2401190501</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/107</number>
+		<class>Obstruction</class>
+		<issue_date>04/07/2022 2032</issue_date>
+		<effective_date>04/14/2022 0701</effective_date>
+		<expiry_date>10/10/2023 0659</expiry_date>
+		<notam_body>!LAX 04/107 LAX OBST CRANE (ASN 2022-AWP-299-NRA) 335704N1182237W (1.6NM ENE LAX) 249FT (150FT AGL) FLAGGED AND LGTD 2204140701-2310100659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/108</number>
+		<class>Obstruction</class>
+		<issue_date>04/07/2022 2034</issue_date>
+		<effective_date>04/14/2022 0701</effective_date>
+		<expiry_date>10/10/2023 0659</expiry_date>
+		<notam_body>!LAX 04/108 LAX OBST CRANE (ASN 2022-AWP-300-NRA) 335706N1182237W (1.6NM ENE LAX) 250FT (150FT AGL) FLAGGED AND LGTD 2204140701-2310100659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/109</number>
+		<class>Obstruction</class>
+		<issue_date>04/07/2022 2040</issue_date>
+		<effective_date>04/14/2022 0701</effective_date>
+		<expiry_date>10/10/2023 0659</expiry_date>
+		<notam_body>!LAX 04/109 LAX OBST CRANE (ASN 2022-AWP-301-NRA) 335706N1182227W (1.8NM ENE LAX) 248FT (150FT AGL) FLAGGED AND LGTD 2204140701-2310100659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/103</number>
+		<class>Obstruction</class>
+		<issue_date>04/07/2022 2016</issue_date>
+		<effective_date>04/14/2022 0701</effective_date>
+		<expiry_date>09/12/2023 0659</expiry_date>
+		<notam_body>!LAX 04/103 LAX OBST CRANE (ASN 2022-AWP-278-NRA) 335654N1182329W (0.9NM ENE LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2204140701-2309120659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/104</number>
+		<class>Obstruction</class>
+		<issue_date>04/07/2022 2017</issue_date>
+		<effective_date>04/14/2022 0701</effective_date>
+		<expiry_date>09/12/2023 0659</expiry_date>
+		<notam_body>!LAX 04/104 LAX OBST CRANE (ASN 2022-AWP-277-NRA) 335654N1182332W (0.9NM ENE LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2204140701-2309120659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>05/179</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 1911</issue_date>
+		<effective_date>05/23/2022 0701</effective_date>
+		<expiry_date>09/10/2023 0700</expiry_date>
+		<notam_body>!LAX 05/179 LAX OBST CRANE (ASN 2022-AWP-258-NRA) 335643N1182335W (0.8NM ENE LAX) 252FT (150FT AGL) FLAGGED AND LGTD 2205230701-2309100700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>05/180</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 1916</issue_date>
+		<effective_date>05/23/2022 0701</effective_date>
+		<expiry_date>09/10/2023 0700</expiry_date>
+		<notam_body>!LAX 05/180 LAX OBST CRANE (ASN 2022-AWP-262-NRA) 335646N1182333W (0.8NM ENE LAX) 253FT (150FT AGL) FLAGGED AND LGTD 2205230701-2309100700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>05/181</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 1922</issue_date>
+		<effective_date>05/23/2022 0701</effective_date>
+		<expiry_date>09/10/2023 0700</expiry_date>
+		<notam_body>!LAX 05/181 LAX OBST CRANE (ASN 2022-AWP-265-NRA) 335645N1182324W (0.9NM ENE LAX) 251FT (150FT AGL) FLAGGED AND LGTD 2205230701-2309100700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>05/182</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 1925</issue_date>
+		<effective_date>05/23/2022 0701</effective_date>
+		<expiry_date>09/10/2023 0700</expiry_date>
+		<notam_body>!LAX 05/182 LAX OBST CRANE (ASN 2022-AWP-268-NRA) 335642N1182325W (0.9NM E LAX) 251FT (150FT AGL) FLAGGED AND LGTD 2205230701-2309100700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/036</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1610</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/036 LAX OBST CRANE (ASN 2022-AWP-237-NRA) 335641N1182418W (0.2NM NE LAX) 255FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/037</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1611</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/037 LAX OBST CRANE (ASN 2022-AWP-238-NRA) 335638N1182417W (0.2NM ENE LAX) 256FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/038</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1612</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/038 LAX OBST CRANE (ASN 2022-AWP-239-NRA) 335643N1182404W (0.4NM ENE LAX) 253FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/039</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1613</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/039 LAX OBST CRANE (ASN 2022-AWP-240-NRA) 335638N1182403W (0.4NM ENE LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/041</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1618</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/041 LAX OBST CRANE (ASN 2022-AWP-241-NRA) 335643N1182404W (0.4NM ENE LAX) 253FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/042</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1620</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/042 LAX OBST CRANE (ASN 2022-AWP-242-NRA) 335638N1182403W (0.4NM ENE LAX) 255FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/043</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1621</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/043 LAX OBST CRANE (ASN 2022-AWP-243-NRA) 335643N1182353W (0.5NM ENE LAX) 255FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/044</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1622</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/044 LAX OBST CRANE (ASN 2022-AWP-244-NRA) 335639N1182355W (0.5NM E LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/046</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1626</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/046 LAX OBST CRANE (ASN 2022-AWP-245-NRA) 335640N1182354W (0.5NM ENE LAX) 255FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/047</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1627</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/047 LAX OBST CRANE (ASN 2022-AWP-250-NRA) 335643N1182335W (0.8NM ENE LAX) 252FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/048</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1628</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/048 LAX OBST CRANE (ASN 2022-AWP-251-NRA) 335639N1182333W (0.8NM E LAX) 251FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/049</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1629</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>09/05/2023 0659</expiry_date>
+		<notam_body>!LAX 04/049 LAX OBST CRANE (ASN 2022-AWP-253-NRA) 335637N1182347W (0.6NM E LAX) 274FT (150FT AGL) FLAGGED AND LGTD 2204080701-2309050659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/030</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1930</issue_date>
+		<effective_date>06/02/2022 1930</effective_date>
+		<expiry_date>08/30/2023 0700</expiry_date>
+		<notam_body>!LAX 06/030 LAX OBST CRANE (ASN 2022-AWP-294-NRA) 335659N1182304W (1.2NM ENE LAX) 250FT (150FT AGL) FLAGGED AND LGTD 2206021930-2308300700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/031</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1931</issue_date>
+		<effective_date>06/02/2022 1931</effective_date>
+		<expiry_date>08/30/2023 0700</expiry_date>
+		<notam_body>!LAX 06/031 LAX OBST CRANE (ASN 2022-AWP-295-NRA) 335659N1182260W (1.3NM ENE LAX) 249FT (150FT AGL) FLAGGED AND LGTD 2206021931-2308300700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/032</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1932</issue_date>
+		<effective_date>06/02/2022 1932</effective_date>
+		<expiry_date>08/30/2023 0700</expiry_date>
+		<notam_body>!LAX 06/032 LAX OBST CRANE (ASN 2022-AWP-296-NRA) 335658N1182304W (1.2NM ENE LAX) 250FT (150FT AGL) FLAGGED AND LGTD 2206021932-2308300700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/033</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1935</issue_date>
+		<effective_date>06/02/2022 1935</effective_date>
+		<expiry_date>08/30/2023 0700</expiry_date>
+		<notam_body>!LAX 06/033 LAX OBST CRANE (ASN 2022-AWP-297-NRA) 335657N1182260W (1.3NM ENE LAX) 248FT (150FT AGL) FLAGGED AND LGTD 2206021935-2308300700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/051</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1630</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>08/06/2023 0659</expiry_date>
+		<notam_body>!LAX 04/051 LAX OBST CRANE (ASN 2022-AWP-67-NRA) 335700N1182248W (1.5NM ENE LAX) 249FT (150FT AGL) FLAGGED AND LGTD 2204080701-2308060659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/052</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1631</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>08/06/2023 0659</expiry_date>
+		<notam_body>!LAX 04/052 LAX OBST CRANE (ASN 2022-AWP-68-NRA) 335656N1182247W (1.5NM ENE LAX) 247FT (150FT AGL) FLAGGED AND LGTD 2204080701-2308060659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/053</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1632</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>08/06/2023 0659</expiry_date>
+		<notam_body>!LAX 04/053 LAX OBST CRANE (ASN 2022-AWP-69-NRA) 335656N1182237W (1.6NM ENE LAX) 247FT (150FT AGL) FLAGGED AND LGTD 2204080701-2308060659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/054</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1632</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>08/06/2023 0659</expiry_date>
+		<notam_body>!LAX 04/054 LAX OBST CRANE (ASN 2022-AWP-70-NRA) 335704N1182237W (1.6NM ENE LAX) 249FT (150FT AGL) FLAGGED AND LGTD 2204080701-2308060659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/001</number>
+		<class>Obstruction</class>
+		<issue_date>06/01/2022 0143</issue_date>
+		<effective_date>06/01/2022 1300</effective_date>
+		<expiry_date>08/05/2023 0130</expiry_date>
+		<notam_body>!LAX 06/001 LAX OBST CRANE (ASN 2022-AWP-2052-NRA) 335704N1182615W (1.6NM WNW LAX) 198FT (103FT AGL) FLAGGED AND LGTD WED THU FRI MON TUE 1300-0130 2206011300-2308050130</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/002</number>
+		<class>Obstruction</class>
+		<issue_date>06/01/2022 0147</issue_date>
+		<effective_date>06/01/2022 1300</effective_date>
+		<expiry_date>08/05/2023 0130</expiry_date>
+		<notam_body>!LAX 06/002 LAX OBST CRANE (ASN 2022-AWP-2053-NRA) 335704N1182618W (1.6NM WNW LAX) 198FT (103FT AGL) FLAGGED AND LGTD WED THU FRI MON TUE 1300-0130 2206011300-2308050130</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/003</number>
+		<class>Obstruction</class>
+		<issue_date>06/01/2022 0154</issue_date>
+		<effective_date>06/01/2022 1300</effective_date>
+		<expiry_date>08/05/2023 0130</expiry_date>
+		<notam_body>!LAX 06/003 LAX OBST CRANE (ASN 2021-AWP-3221-NRA) 335704N1182614W (1.6NM WNW LAX) 208FT (103FT AGL) FLAGGED AND LGTD WED THU FRI MON TUE 1300-0130 2206011300-2308050130</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/031</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1604</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>07/29/2023 0659</expiry_date>
+		<notam_body>!LAX 04/031 LAX OBST CRANE (ASN 2022-AWP-233-NRA) 335640N1182429W (0.1NM NE LAX) 255FT (150FT AGL) FLAGGED AND LGTD 2204080701-2307290659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/032</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1605</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>07/29/2023 0659</expiry_date>
+		<notam_body>!LAX 04/032 LAX OBST CRANE (ASN 2022-AWP-234-NRA) 335642N1182418W (0.2NM NE LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2204080701-2307290659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/033</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1606</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>07/29/2023 0659</expiry_date>
+		<notam_body>!LAX 04/033 LAX OBST CRANE (ASN 2022-AWP-235-NRA) 335634N1182416W (0.2NM E LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2204080701-2307290659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/034</number>
+		<class>Obstruction</class>
+		<issue_date>04/04/2022 1607</issue_date>
+		<effective_date>04/08/2022 0701</effective_date>
+		<expiry_date>07/29/2023 0659</expiry_date>
+		<notam_body>!LAX 04/034 LAX OBST CRANE (ASN 2022-AWP-236-NRA) 335633N1182428W (0.0NM ENE LAX) 255FT (150FT AGL) FLAGGED AND LGTD 2204080701-2307290659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>02/045</number>
+		<class>Aerodrome</class>
+		<issue_date>02/04/2022 1533</issue_date>
+		<effective_date>02/04/2022 1533</effective_date>
+		<expiry_date>07/10/2023 2300</expiry_date>
+		<notam_body>!LAX 02/045 LAX RWY 24L PAPI U/S 2202041533-2307102300</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>02/040</number>
+		<class>Obstruction</class>
+		<issue_date>02/04/2022 0234</issue_date>
+		<effective_date>02/04/2022 0234</effective_date>
+		<expiry_date>07/01/2023 0659</expiry_date>
+		<notam_body>!LAX 02/040 LAX OBST CRANE (ASN 2021-AWP-4540-NRA) 335659N1182327W (0.9NM ENE LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2202040234-2307010659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/111</number>
+		<class>Obstruction</class>
+		<issue_date>04/07/2022 2104</issue_date>
+		<effective_date>04/07/2022 2105</effective_date>
+		<expiry_date>07/01/2023 0659</expiry_date>
+		<notam_body>!LAX 04/111 LAX OBST CRANE (ASN 2021-AWP-4539-NRA) 335658N1182327W (0.9NM ENE LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2204072105-2307010659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/112</number>
+		<class>Obstruction</class>
+		<issue_date>04/07/2022 2104</issue_date>
+		<effective_date>04/07/2022 2104</effective_date>
+		<expiry_date>07/01/2023 0659</expiry_date>
+		<notam_body>!LAX 04/112 LAX OBST CRANE (ASN 2021-AWP-4524-NRA) 335658N1182325W (1.0NM ENE LAX) 249FT (150FT AGL) FLAGGED AND LGTD 2204072104-2307010659</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/113</number>
+		<class>Obstruction</class>
+		<issue_date>04/07/2022 2105</issue_date>
+		<effective_date>04/07/2022 2105</effective_date>
+		<expiry_date>07/01/2023 0659</expiry_date>
+		<notam_body>!LAX 04/113 LAX OBST CRANE (ASN 2021-AWP-4538-NRA) 335658N1182329W (0.9NM ENE LAX) 254FT (150FT AGL) FLAGGED AND LGTD 2204072105-2307010659</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/0694</number>
+		<class>Procedure</class>
+		<issue_date>05/08/2022 0452</issue_date>
+		<effective_date>05/08/2022 1100</effective_date>
+		<expiry_date>05/22/2023 1100EST</expiry_date>
+		<notam_body>!FDC 2/0694 JFK IAP JOHN F KENNEDY INTL, NEW YORK, NY.
+ILS OR LOC RWY 31R, AMDT 16B...
+S-LOC 31R MDA 580/HAT 567 ALL CATS, VISIBILITY CATS C/D RVR 5000. VDP AT I-RTH 1.25 DME; DISTANCE VDP TO THLD 1.62NM. FOR INOPERATIVE ALS, INCREASE S-LOC 31R CAT A/B VISIBILITY TO RVR 5500, CATS C/D TO 1 3/8SM. TEMPORARY CRANE 270 MSL 6.10NM SE RWY 31R (2021-AEA-13250-OE).
+2205081100-2305221100EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/021</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1809</issue_date>
+		<effective_date>06/02/2022 1809</effective_date>
+		<expiry_date>04/20/2023 0700</expiry_date>
+		<notam_body>!LAX 06/021 LAX OBST CRANE (ASN 2022-AWP-290-NRA) 335709N1182306W (1.3NM ENE LAX) 253FT (150FT AGL) FLAGGED AND LGTD 2206021809-2304200700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/022</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1810</issue_date>
+		<effective_date>06/02/2022 1810</effective_date>
+		<expiry_date>04/20/2023 0700</expiry_date>
+		<notam_body>!LAX 06/022 LAX OBST CRANE (ASN 2022-AWP-291-NRA) 335709N1182300W (1.4NM ENE LAX) 252FT (150FT AGL) FLAGGED AND LGTD 2206021810-2304200700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/023</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1810</issue_date>
+		<effective_date>06/02/2022 1810</effective_date>
+		<expiry_date>04/20/2023 0700</expiry_date>
+		<notam_body>!LAX 06/023 LAX OBST CRANE (ASN 2022-AWP-292-NRA) 335659N1182306W (1.2NM ENE LAX) 252FT (150FT AGL) FLAGGED AND LGTD 2206021810-2304200700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/024</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1811</issue_date>
+		<effective_date>06/02/2022 1811</effective_date>
+		<expiry_date>04/20/2023 0700</expiry_date>
+		<notam_body>!LAX 06/024 LAX OBST CRANE (ASN 2022-AWP-293-NRA) 335659N1182301W (1.3NM ENE LAX) 249FT (150FT AGL) FLAGGED AND LGTD 2206021811-2304200700</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>1/2206</number>
+		<class>Procedure</class>
+		<issue_date>03/30/2021 1359</issue_date>
+		<effective_date>03/30/2021 1358</effective_date>
+		<expiry_date>03/30/2023 1358EST</expiry_date>
+		<notam_body>!FDC 1/2206 JFK IAP JOHN F KENNEDY INTL, NEW YORK, NY.
+ILS OR LOC RWY 13L, AMDT 18C...
+CIRCLING MDA CATS C/D 700/HAA 687. VISIBILITY CAT C 2, CAT D 2 1/4.
+UXHUB FIX MINIMUMS: CIRCLING MDA CATS C/D 700/HAA 687. VISIBILITY CAT C 2, CAT D 2 1/4.
+2103301358-2303301358EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>1/9904</number>
+		<class>Procedure</class>
+		<issue_date>07/15/2021 1059</issue_date>
+		<effective_date>07/15/2021 1059</effective_date>
+		<expiry_date>03/30/2023 1059EST</expiry_date>
+		<notam_body>!FDC 1/9904 JFK IAP JOHN F KENNEDY INTL, NEW YORK, NY.
+ILS OR LOC RWY 22L, AMDT 26...
+ILS OR LOC RWY 22R, AMDT 4...
+ILS OR LOC RWY 31L, AMDT 11B...
+ILS OR LOC RWY 31R, AMDT 16B...
+ILS OR LOC RWY 4L, AMDT 11D...
+ILS OR LOC RWY 4R, AMDT 30B...
+RNAV (GPS) RWY 22R, AMDT 1G...
+RNAV (GPS) X RWY 22L, ORIG- A...
+RNAV (GPS) Y RWY 22L, AMDT 1F...
+RNAV (GPS) Y RWY 31L, AMDT 2B...
+RNAV (GPS) Y RWY 31R, AMDT 2C...
+RNAV (GPS) Y RWY 4L, AMDT 3B...
+RNAV (GPS) Y RWY 4R, AMDT 2B...
+VOR RWY 22L, AMDT 4F...
+VOR RWY 31L, ORIG-B...
+VOR RWY 4L, AMDT 1B...
+VOR RWY 4R, ORIG-B...
+CIRCLING MDA CATS C/D 700/HAA 687. VISIBILITY CAT C 2, CAT D 2 1/4.
+2107151059-2303301059EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>1/9068</number>
+		<class>Procedure</class>
+		<issue_date>03/24/2021 1341</issue_date>
+		<effective_date>03/24/2021 1340</effective_date>
+		<expiry_date>03/24/2023 1340EST</expiry_date>
+		<notam_body>!FDC 1/9068 JFK IAP JOHN F KENNEDY INTL, NEW YORK, NY.
+ILS OR LOC RWY 4L, AMDT 11D...
+AUTOPILOT COUPLED APPROACHES NA BELOW 200FT MSL.
+2103241340-2303241340EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/4078</number>
+		<class>Procedure</class>
+		<issue_date>02/14/2022 1404</issue_date>
+		<effective_date>02/14/2022 1404</effective_date>
+		<expiry_date>02/04/2023 1404EST</expiry_date>
+		<notam_body>!FDC 2/4078 LAX IAP LOS ANGELES INTL, LOS ANGELES, CA.
+RNAV (RNP) Z RWY 7L, AMDT 1...
+RNP 0.30 DA 490/HAT 362 ALL CATS. TEMPORARY CRANE 245 MSL 3954FT S OF RWY 7L (2021-AWP-10744-OE).
+2202141404-2302041404EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>05/301</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 1831</issue_date>
+		<effective_date>05/20/2022 1831</effective_date>
+		<expiry_date>01/30/2023 2300</expiry_date>
+		<notam_body>!JFK 05/301 JFK OBST CRANE (ASN UNKNOWN) 403839N0734930W (2.1NM W JFK) 
+UNKNOWN (120FT AGL) FLAGGED AND LGTD 2205201831-2301302300</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>1/5279</number>
+		<class>Procedure</class>
+		<issue_date>01/20/2021 0002</issue_date>
+		<effective_date>01/20/2021 0001</effective_date>
+		<expiry_date>01/19/2023 0000</expiry_date>
+		<notam_body>!FDC 1/5279 LAX SID LOS ANGELES INTL, LOS ANGELES, CA.
+TUSTI TWO DEPARTURE (RNAV)...
+DEPARTURE PROCEDURE NA.
+2101200001-2301190000EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/2341</number>
+		<class>Procedure</class>
+		<issue_date>06/01/2022 1106</issue_date>
+		<effective_date>06/01/2022 1106</effective_date>
+		<expiry_date>01/15/2023 1106</expiry_date>
+		<notam_body>!FDC 2/2341 LAX PART 1 OF 2 ODP LOS ANGELES INTL, LOS ANGELES, CA.
+TAKEOFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES AMDT 14...
+TAKEOFF MINIMUMS: RWY 6L/R, 300-1 1/2 OR STANDARD WITH A MINIMUM
+CLIMB OF 283FT PER NM TO 500. ADD TAKEOFF OBSTACLE NOTES: RWY 6L,
+CRANES BEGINNING 2713FT FROM DER, 1189FT RIGHT OF CENTERLINE, UP TO
+150FT AGL/ 255FT MSL (2022-AWP-1087 THRU 1090-NRA, 2022-AWP-286
+THRU 289-NRA), CRANES BEGINNING 3212FT FROM DER, 1317FT RIGHT OF
+CENTERLINE, UP TO 150FT AGL/255 MSL (2021-AWP-4524, 4539 THRU
+4542-NRA), CRANE 4977FT FROM DER, 1467FT RIGHT OF CENTERLINE, 150FT
+AGL/ 252FT MSL (2022-AWP-292-NRA), CRANES BEGINNING 5114FT FROM
+DER, 1487FT RIGHT OF CENTERLINE, UP TO 150FT AGL/ 254FT MSL
+(2022-AWP-294/296-NRA). RWY 6R, CRANES BEGINNING 1912FT FROM DER,
+490FT RIGHT OF CENTERLINE, UP TO 150FT AGL/ 255FT MSL
+(2022-AWP-1087 THRU 1090-NRA, 2022-AWP-286 THRU 289-NRA), CRANE
+2206FT FROM DER, 1064FT RIGHT OF CENTERLINE, 150FT AGL/ 254FT MSL
+(2022-AWP-278-NRA), CRANES BEGINNING 2075FT FROM DER, 617FT RIGHT
+OF CENTERLINE, UP TO 150FT AGL/ 255FT MSL (2021-AWP-4524 THRU
+4542-NRA), CRANE 4176FT FROM DER, 767FT RIGHT OF CENTERLINE, 150FT
+AGL/ 252FT MSL (2022-AWP-292-NRA), CRANES BEGINNING 4313FT FROM
+DER, 787FT RIGHT OF CENTERLINE, UP TO 150FT AGL/ 254FT MSL
+(2022-AWP-294 THRU 297-NRA), CRANE 4638FT FROM DER, 821FT RIGHT OF
+2206011106-2301151106EST
+END PART 1 OF 2
+!FDC 2/2341 LAX PART 2 OF 2 ODP LOS ANGELES INTL, LOS ANGELES, CA.
+CENTERLINE, 150FT AGL/ 249FT MSL (2022-AWP-293-NRA), CRANE 4784FT
+FROM DER, 181FT LEFT OF CENTERLINE, 150FT AGL/ 252FT MSL
+(2022-AWP-291-NRA). RWY 24L, CONST EQUP 344FT FROM DER, 253FT LEFT
+OF CENTERLINE, 25FT AGL/122FT MSL (2021-AWP-2491-NRA), CONST EQUIP
+479FT FROM DER, 625FT LEFT OF CENTERLINE, 25FT AGL/123FT MSL
+(2021-AWP-2493-NRA). RWY 24R, CRANES BEGINNING 1342FT FROM DER,
+726FT RIGHT OF CENTERLINE, UP TO 103FT AGL/208FT MSL
+(2022-AWP-2232/2233-NRA, 2022-AWP-2052/2053-NRA,
+2021-AWP-3221-NRA). ALL OTHER DATA REMAINS AS PUBLISHED.
+2206011106-2301151106EST
+END PART 2 OF 2
+</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/2342</number>
+		<class>Procedure</class>
+		<issue_date>06/01/2022 1106</issue_date>
+		<effective_date>06/01/2022 1106</effective_date>
+		<expiry_date>01/15/2023 1106</expiry_date>
+		<notam_body>!FDC 2/2342 LAX PART 1 OF 2 SID LOS ANGELES INTL, LOS ANGELES, CA.
+CATALINA EIGHT DEPARTURE...
+CHATY FIVE DEPARTURE...
+GORMAN SEVEN DEPARTURE...
+LAXX ONE DEPARTURE...
+PERCH THREE DEPARTURE...
+SEAL BEACH EIGHT DEPARTURE...
+VENTURA EIGHT DEPARTURE...
+TAKEOFF MINIMUMS: RWY 6L/R, 300-1 1/2 OR STANDARD WITH A MINIMUM
+CLIMB OF 283FT PER NM TO 500. ADD TAKEOFF OBSTACLE NOTES: RWY 6L,
+CRANES BEGINNING 2713FT FROM DER, 1189FT RIGHT OF CENTERLINE, UP TO
+150FT AGL/ 255FT MSL (2022-AWP-1087 THRU 1090-NRA, 2022-AWP-286
+THRU 289-NRA), CRANES BEGINNING 3212FT FROM DER, 1317FT RIGHT OF
+CENTERLINE, UP TO 150FT AGL/255 MSL (2021-AWP-4524, 4539 THRU
+4542-NRA), CRANE 4977FT FROM DER, 1467FT RIGHT OF CENTERLINE, 150FT
+AGL/ 252FT MSL (2022-AWP-292-NRA), CRANES BEGINNING 5114FT FROM
+DER, 1487FT RIGHT OF CENTERLINE, UP TO 150FT AGL/ 254FT MSL
+(2022-AWP-294/296-NRA). RWY 6R, CRANES BEGINNING 1912FT FROM DER,
+490FT RIGHT OF CENTERLINE, UP TO 150FT AGL/ 255FT MSL
+(2022-AWP-1087 THRU 1090-NRA, 2022-AWP-286 THRU 289-NRA), CRANE
+2206FT FROM DER, 1064FT RIGHT OF CENTERLINE, 150FT AGL/ 254FT MSL
+2206011106-2301151106EST
+END PART 1 OF 2
+!FDC 2/2342 LAX PART 2 OF 2 SID LOS ANGELES INTL, LOS ANGELES, CA.
+(2022-AWP-278-NRA), CRANES BEGINNING 2075FT FROM DER, 617FT RIGHT
+OF CENTERLINE, UP TO 150FT AGL/ 255FT MSL (2021-AWP-4524 THRU
+4542-NRA), CRANE 4176FT FROM DER, 767FT RIGHT OF CENTERLINE, 150FT
+AGL/ 252FT MSL (2022-AWP-292-NRA), CRANES BEGINNING 4313FT FROM
+DER, 787FT RIGHT OF CENTERLINE, UP TO 150FT AGL/ 254FT MSL
+(2022-AWP-294 THRU 297-NRA), CRANE 4638FT FROM DER, 821FT RIGHT OF
+CENTERLINE, 150FT AGL/ 249FT MSL (2022-AWP-293-NRA), CRANE 4784FT
+FROM DER, 181FT LEFT OF CENTERLINE, 150FT AGL/ 252FT MSL
+(2022-AWP-291-NRA). RWY 24L, CONST EQUP 344FT FROM DER, 253FT LEFT
+OF CENTERLINE, 25FT AGL/122FT MSL (2021-AWP-2491-NRA), CONST EQUIP
+479FT FROM DER, 625FT LEFT OF CENTERLINE, 25FT AGL/123FT MSL
+(2021-AWP-2493-NRA). RWY 24R, CRANES BEGINNING 1342FT FROM DER,
+726FT RIGHT OF CENTERLINE, UP TO 103FT AGL/208FT MSL
+(2022-AWP-2232/2233-NRA, 2022-AWP-2052/2053-NRA,
+2021-AWP-3221-NRA). ALL OTHER DATA REMAINS AS PUBLISHED.
+2206011106-2301151106EST
+END PART 2 OF 2
+</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/2337</number>
+		<class>Procedure</class>
+		<issue_date>06/01/2022 1105</issue_date>
+		<effective_date>06/01/2022 1105</effective_date>
+		<expiry_date>01/15/2023 1105EST</expiry_date>
+		<notam_body>!FDC 2/2337 LAX IAP LOS ANGELES INTL, LOS ANGELES, CA.
+RNAV (GPS) Y RWY 24L, AMDT 5C...
+LPV# DA 383/HAT 260 ALL CATS, VISIBILITY ALL CATS RVR 3200. DISREGARD NOTE: #RVR 1800 AUTHORIZED WITH USE OF FD OR AP OR HUD TO DA. TEMPORARY CRANE 249 MSL 3849FT E OF RWY 24L (2022-AWP-286-NRA), TEMPORARY CRANES UP TO 250 MSL BEGINNING 1.10NM E OF RWY 24L (2022-AWP-299/300/301-NRA), TEMPORARY CRANE 264 MSL 2824FT E OF RWY 24L (2020-AWP-3753-NRA).
+2206011105-2301151105EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/3968</number>
+		<class>Procedure</class>
+		<issue_date>06/04/2022 0721</issue_date>
+		<effective_date>06/04/2022 0719</effective_date>
+		<expiry_date>01/15/2023 0719EST</expiry_date>
+		<notam_body>!FDC 2/3968 LAX IAP LOS ANGELES INTL, LOS ANGELES, CA.
+ILS OR LOC RWY 24L, AMDT 27D...
+S-ILS 24L DA 428/HAT 305 ALL CATS, VISIBILITY ALL CATS RVR 3200. S-LOC 24L, MDA 600/HAT 477. SIDESTEP 24R MDA 600/HAT 478 ALL CATS. VDP NA. DISREGARD NOTE: #RVR 1800 AUTHORIZED WITH USE OF FD OR AP OR HUD TO DA. TEMPORARY CRANE 249 MSL 3849FT E OF RWY 24L (2022-AWP-286-NRA), TEMPORARY CRANES UP TO 250 MSL BEGINNING 1.10NM E OF RWY 24L (2022-AWP-299/300/301-NRA), TEMPORARY CRANE 264 MSL 2824FT E OF RWY 24L (2020-AWP-3753-NRA), TEMPORARY CRANE 391 MSL 2943FT SE RWY 24L (2021-AWP-1534-NRA).
+2206040719-2301150719EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>1/2497</number>
+		<class>Procedure</class>
+		<issue_date>01/09/2021 0401</issue_date>
+		<effective_date>01/09/2021 0401</effective_date>
+		<expiry_date>01/09/2023 0400EST</expiry_date>
+		<notam_body>!FDC 1/2497 JFK VFP JOHN F KENNEDY INTL, NEW YORK, NY.
+BELMONT VISUAL RWY 22L, ORIG...
+PROCEDURE NA EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS, CRI R-068 UNUSABLE.
+2101090401-2301090400EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/1216</number>
+		<class>Procedure</class>
+		<issue_date>01/05/2022 1518</issue_date>
+		<effective_date>01/06/2022 0000</effective_date>
+		<expiry_date>01/05/2023 2359</expiry_date>
+		<notam_body>!FDC 2/1216 JFK STAR KENNEDY INTERNATIONAL, JAMAICA, NY
+LENDY ARRIVAL...
+UNUSABLE BLW 4000FT 
+
+2201060000-2301052359</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>01/048</number>
+		<class>Aerodrome</class>
+		<issue_date>01/04/2022 0359</issue_date>
+		<effective_date>01/04/2022 0359</effective_date>
+		<expiry_date>01/01/2023 2300</expiry_date>
+		<notam_body>!JFK 01/048 JFK APRON BLDG 73 RAMP CLSD TO ACFT WINGSPAN MORE THAN 171FT EXC UNDER TOW 2201040359-2301012300</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>11/043</number>
+		<class>Aerodrome</class>
+		<issue_date>11/06/2021 0019</issue_date>
+		<effective_date>11/06/2021 0018</effective_date>
+		<expiry_date>01/01/2023 0759EST</expiry_date>
+		<notam_body>!LAX 11/043 LAX APRON TXL C6 WIP STEEL PLATES 2111060018-2301010759EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/067</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1650</issue_date>
+		<effective_date>09/08/2021 1650</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/067 LAX OBST CRANE (ASN 2020-AWP-1876-NRA) 335637N1182427W (0.1NM NNE LAX) 284FT (178FT AGL) FLAGGED AND LGTD 2109081650-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/069</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1651</issue_date>
+		<effective_date>09/08/2021 1651</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/069 LAX OBST CRANE (ASN 2020-AWP-1877-NRA) 335637N1182429W (0.1NM NE LAX) 284FT (178FT AGL) FLAGGED AND LGTD 2109081651-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/070</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1652</issue_date>
+		<effective_date>09/08/2021 1652</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/070 LAX OBST CRANE (ASN 2020-AWP-1878-NRA) 335639N1182427W (0.1NM NNE LAX) 284FT (178FT AGL) FLAGGED AND LGTD 2109081652-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/071</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1652</issue_date>
+		<effective_date>09/08/2021 1652</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/071 LAX OBST CRANE (ASN 2020-AWP-1879-NRA) 335635N1182427W (0.0NM NE LAX) 284FT (178FT AGL) FLAGGED AND LGTD 2109081652-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/072</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1653</issue_date>
+		<effective_date>09/08/2021 1653</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/072 LAX OBST CRANE (ASN 2020-AWP-1880-NRA) 335637N1182424W (0.1NM NE LAX) 333FT (227FT AGL) FLAGGED AND LGTD 2109081653-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/073</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1653</issue_date>
+		<effective_date>09/08/2021 1653</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/073 LAX OBST CRANE (ASN 2020-AWP-1881-NRA) 335635N1182424W (0.1NM ENE LAX) 333FT (227FT AGL) FLAGGED AND LGTD 2109081653-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/075</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1654</issue_date>
+		<effective_date>09/08/2021 1654</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/075 LAX OBST CRANE (ASN 2020-AWP-1882-NRA) 335637N1182422W (0.1NM NE LAX) 333FT (227FT AGL) FLAGGED AND LGTD 2109081654-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/076</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1654</issue_date>
+		<effective_date>09/08/2021 1654</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/076 LAX OBST CRANE (ASN 2020-AWP-1883-NRA) 335639N1182425W (0.1NM NNE LAX) 333FT (227FT AGL) FLAGGED AND LGTD 2109081654-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/086</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1720</issue_date>
+		<effective_date>09/08/2021 1720</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/086 LAX OBST CRANE (ASN 2021-AWP-500-OE) 335659N1182260W (1.3NM ENE LAX) 248FT (150FT AGL) FLAGGED AND LGTD 2109081720-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/087</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1721</issue_date>
+		<effective_date>09/08/2021 1721</effective_date>
+		<expiry_date>01/01/2023 0759</expiry_date>
+		<notam_body>!LAX 09/087 LAX OBST CRANE (ASN 2021-AWP-523-OE) 335656N1182260W (1.3NM ENE LAX) 248FT (150FT AGL) FLAGGED AND LGTD 2109081721-2301010759</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>10/246</number>
+		<class>Aerodrome</class>
+		<issue_date>10/22/2021 0151</issue_date>
+		<effective_date>10/22/2021 0151</effective_date>
+		<expiry_date>12/31/2022 2359</expiry_date>
+		<notam_body>!JFK 10/246 JFK TWY TA BTN TWY A AND TERMINAL 8 RAMP WIP CONST EAST SHOULDER LGTD AND BARRICADED 2110220151-2212312359</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/8714</number>
+		<class>Procedure</class>
+		<issue_date>03/24/2022 1340</issue_date>
+		<effective_date>03/24/2022 1300</effective_date>
+		<expiry_date>12/31/2022 2359</expiry_date>
+		<notam_body>!FDC 2/8714 JFK STAR KENNEDY INTERNATIONAL JAMAICA, NY
+LENDY SEVEN ARRIVAL...
+DISREGARD EXPECT HARTY AT FL210. SHOULD READ EXPECT JENNO AT FL230
+2203241300-2212312359</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>01/179</number>
+		<class>Aerodrome</class>
+		<issue_date>01/07/2022 1714</issue_date>
+		<effective_date>01/07/2022 1714</effective_date>
+		<expiry_date>12/31/2022 2300</expiry_date>
+		<notam_body>!JFK 01/179 JFK TWY MC HLDG PSN SIGN EAST SIDE FOR RWY 13R/31L MISSING 2201071714-2212312300</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>03/248</number>
+		<class>Aerodrome</class>
+		<issue_date>03/21/2022 2040</issue_date>
+		<effective_date>03/21/2022 2040</effective_date>
+		<expiry_date>12/31/2022 2300</expiry_date>
+		<notam_body>!JFK 03/248 JFK TWY H CL MARKINGS BTN TWY Y AND TWY Z NOT STD 2203212040-2212312300</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>04/023</number>
+		<class>Aerodrome</class>
+		<issue_date>04/02/2022 1658</issue_date>
+		<effective_date>04/02/2022 1658</effective_date>
+		<expiry_date>12/31/2022 2300</expiry_date>
+		<notam_body>!JFK 04/023 JFK TWY A CLR BAR LGT AT TWY EA NOT STD 2204021658-2212312300</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>04/054</number>
+		<class>Aerodrome</class>
+		<issue_date>04/04/2022 1713</issue_date>
+		<effective_date>04/04/2022 1714</effective_date>
+		<expiry_date>12/31/2022 2300</expiry_date>
+		<notam_body>!JFK 04/054 JFK TWY D HLDG PSN MARKINGS FOR RWY 13L/31R NORTHWEST SIDE NOT STD 2204041714-2212312300</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>05/275</number>
+		<class>Aerodrome</class>
+		<issue_date>05/18/2022 1755</issue_date>
+		<effective_date>05/18/2022 1757</effective_date>
+		<expiry_date>12/31/2022 2300</expiry_date>
+		<notam_body>!JFK 05/275 JFK TWY MA CL MARKINGS BTN TWY A AND TWY B NOT STD 2205181757-2212312300</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>01/031</number>
+		<class>Aerodrome</class>
+		<issue_date>01/03/2022 1616</issue_date>
+		<effective_date>01/03/2022 1616</effective_date>
+		<expiry_date>12/30/2022 2300</expiry_date>
+		<notam_body>!JFK 01/031 JFK TWY Y HLDG PSN SIGN FOR ILS RWY
+13L/31R NORTHEAST SIDE LGT U/S 2201031616-2212302300</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>06/053</number>
+		<class>Aerodrome</class>
+		<issue_date>06/05/2022 0639</issue_date>
+		<effective_date>06/05/2022 0639</effective_date>
+		<expiry_date>12/30/2022 2300</expiry_date>
+		<notam_body>!JFK 06/053 JFK TWY MC HLDG PSN SIGN NORTHWEST SIDE FOR RWY 13R/31L LGT U/S 2206050639-2212302300</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/2919</number>
+		<class>Procedure</class>
+		<issue_date>04/25/2022 1519</issue_date>
+		<effective_date>04/25/2022 1519</effective_date>
+		<expiry_date>12/05/2022 1519EST</expiry_date>
+		<notam_body>!FDC 2/2919 LAX IAP LOS ANGELES INTL, LOS ANGELES, CA.
+RNAV (RNP) Z RWY 7R, AMDT 1 ...
+RNP 0.11 DA 433/ HAT 305 ALL CATS, VISIBILITY ALL CATS RVR 3000. TEMPORARY CRANES UP TO 333 MSL BEGINNING 5092FT NE OF RWY 7R (2020-AWP-1880/1881/1882/1883-NRA). 2204251519-2212051519EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/2049</number>
+		<class>Procedure</class>
+		<issue_date>04/22/2022 1859</issue_date>
+		<effective_date>04/22/2022 1859</effective_date>
+		<expiry_date>12/02/2022 1859EST</expiry_date>
+		<notam_body>!FDC 2/2049 JFK SID JOHN F KENNEDY INTL, New York, NY.
+KENNEDY FIVE DEPARTURE...
+NOTE: COATE DEPARTURES NA EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+SAX VOR OUT OF SERVICE. 2204221859-2212021859EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>03/235</number>
+		<class>Obstruction</class>
+		<issue_date>03/21/2022 1810</issue_date>
+		<effective_date>03/21/2022 1810</effective_date>
+		<expiry_date>11/30/2022 2200</expiry_date>
+		<notam_body>!JFK 03/235 JFK OBST CRANE (ASN 2022-AEA-10-NRA) 403833N0734645W (0.2NM N JFK) 202FT (190FT AGL) FLAGGED AND LGTD 2203211810-2211302200</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/059</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2212</issue_date>
+		<effective_date>06/14/2022 0730</effective_date>
+		<expiry_date>11/15/2022 1400EST</expiry_date>
+		<notam_body>!LAX 06/059 LAX TWY C9 BTN TWY B AND TWY C CLSD 2206140730-2211151400EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>12/087</number>
+		<class>Aerodrome</class>
+		<issue_date>12/08/2021 1303</issue_date>
+		<effective_date>12/08/2021 1303</effective_date>
+		<expiry_date>11/08/2022 2111EST</expiry_date>
+		<notam_body>!JFK 12/087 JFK RWY 04L RWY END ID LGT U/S 2112081303-2211082111EST</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>10/014</number>
+		<class>Aerodrome</class>
+		<issue_date>10/28/2021 1632</issue_date>
+		<effective_date>10/28/2021 1632</effective_date>
+		<expiry_date>10/29/2022 1900</expiry_date>
+		<notam_body>!GYR 10/014 GYR TWY R1 CLSD TO ACFT WINGSPAN MORE THAN 105FT 2110281632-2210291900</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>10/015</number>
+		<class>Aerodrome</class>
+		<issue_date>10/28/2021 1632</issue_date>
+		<effective_date>10/28/2021 1632</effective_date>
+		<expiry_date>10/29/2022 1900</expiry_date>
+		<notam_body>!GYR 10/015 GYR TWY R2 CLSD TO ACFT WINGSPAN MORE THAN 105FT 2110281632-2210291900</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/8449</number>
+		<class>Procedure</class>
+		<issue_date>04/15/2022 0241</issue_date>
+		<effective_date>04/15/2022 0241</effective_date>
+		<expiry_date>10/27/2022 0241EST</expiry_date>
+		<notam_body>!FDC 2/8449 LAX IAP LOS ANGELES INTL, LOS ANGELES, CA.
+ILS OR LOC RWY 24R, AMDT 26B...
+S-LOC 24R MDA 500/ HAT 378 ALL CATS, VISIBILITY CAT C/D RVR 4000. VDP AT I-OSS 2.92 DME; DISTANCE VDP TO THLD 0.96NM. TEMPORARY CRANES UP TO 250 MSL BEGINNING 1.24NM E OF RWY 24R (2022-AWP-299/300/301-NRA).
+2204150241-2210270241EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/8450</number>
+		<class>Procedure</class>
+		<issue_date>04/15/2022 0241</issue_date>
+		<effective_date>04/15/2022 0241</effective_date>
+		<expiry_date>10/27/2022 0241EST</expiry_date>
+		<notam_body>!FDC 2/8450 LAX IAP LOS ANGELES INTL, LOS ANGELES, CA.
+RNAV (RNP) Z RWY 24L, AMDT 2B...
+RNP 0.30 DA 620/ HAT 497 ALL CATS. TEMPORARY CRANES UP TO 250 MSL BEGINNING 1.10NM E OF RWY 24L (2022-AWP-299/300/301-NRA).
+2204150241-2210270241EST</notam_body>
+	</notam>
+	<notam>
+		<location>LOAN</location>
+		<number>A0535/22</number>
+		<class>International</class>
+		<issue_date>03/14/2022 0649</issue_date>
+		<effective_date>03/14/2022 0648</effective_date>
+		<expiry_date>09/30/2022 2359</expiry_date>
+		<notam_body>A0535/22 NOTAMR A3411/21
+Q) LOVV/QOBCE/IV/M  /A /000/999/4751N01616E005
+A) LOAN B) 2203140648 C) 2209302359
+E) OBST ERECTED 550M S OF THR RWY09 (475023N 0161519E).
+MAX HEIGHT ABOVE GND: 40M/132FT AGL
+OBST MARKED</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>01/113</number>
+		<class>Aerodrome</class>
+		<issue_date>01/08/2021 1328</issue_date>
+		<effective_date>01/08/2021 1328</effective_date>
+		<expiry_date>09/30/2022 1100</expiry_date>
+		<notam_body>!JFK 01/113 JFK TWY TB BTN TERMINAL 8 RAMP AND TWY A CLSD 2101081328-2209301100</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/028</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1855</issue_date>
+		<effective_date>06/02/2022 1855</effective_date>
+		<expiry_date>09/30/2022 0700</expiry_date>
+		<notam_body>!LAX 06/028 LAX OBST CRANE (ASN 2022-AWP-286-NRA) 335659N1182319W (1.0NM ENE LAX) 249FT (150FT AGL) FLAGGED AND LGTD 2206021855-2209300700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/025</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1842</issue_date>
+		<effective_date>06/02/2022 1842</effective_date>
+		<expiry_date>09/30/2022 0700</expiry_date>
+		<notam_body>!LAX 06/025 LAX OBST CRANE (ASN 2022-AWP-287-NRA) 335656N1182319W (1.0NM ENE LAX) 251FT (150FT AGL) FLAGGED AND LGTD 2206021842-2209300700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/026</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1843</issue_date>
+		<effective_date>06/02/2022 1842</effective_date>
+		<expiry_date>09/30/2022 0700</expiry_date>
+		<notam_body>!LAX 06/026 LAX OBST CRANE (ASN 2022-AWP-288-NRA) 335659N1182304W (1.2NM ENE LAX) 252FT (150FT AGL) FLAGGED AND LGTD 2206021842-2209300700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/027</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1843</issue_date>
+		<effective_date>06/02/2022 1843</effective_date>
+		<expiry_date>09/30/2022 0700</expiry_date>
+		<notam_body>!LAX 06/027 LAX OBST CRANE (ASN 2022-AWP-289-NRA) 335656N1182305W (1.2NM ENE LAX) 250FT (150FT AGL) FLAGGED AND LGTD 2206021843-2209300700</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1596/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 1251</issue_date>
+		<effective_date>08/28/2022 0001</effective_date>
+		<expiry_date>09/30/2022 0000</expiry_date>
+		<notam_body>A1596/22 NOTAMN 
+Q) FAJA/QWULW/IV/BO/AW/000/057/2609S02807E002
+A) FAOR B) 2208280001 C) 2209300000
+E) SENDERWOOD, LINKSFIELD RIDGE, GAUTENG (261001S 0280601E, 260955S
+0280629E, 260818S 0280701E, 260906S 0280735E, 260948S 0280740E,
+261016S 0280601E, 260935S 0280548E): REMOTELY PILOTED AIRCRAFT
+SYSTEMS (RPAS) OPS (270FT AGL) TAKING PLACE.
+F) GND G) 5612FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>09/074</number>
+		<class>Obstruction</class>
+		<issue_date>09/08/2021 1654</issue_date>
+		<effective_date>09/08/2021 1654</effective_date>
+		<expiry_date>09/22/2022 0659</expiry_date>
+		<notam_body>!LAX 09/074 LAX OBST CRANE (ASN 2020-AWP-3634-NRA) 335639N1182401W (0.4NM ENE LAX) 244FT (139FT AGL) FLAGGED AND LGTD 2109081654-2209220659</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>12/289</number>
+		<class>Aerodrome</class>
+		<issue_date>12/29/2021 2126</issue_date>
+		<effective_date>12/29/2021 2126</effective_date>
+		<expiry_date>09/01/2022 0400</expiry_date>
+		<notam_body>!JFK 12/289 JFK TWY Z BTN RWY 04L/22R AND TWY Y CLSD 2112292126-2209010400</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/082</number>
+		<class>Aerodrome</class>
+		<issue_date>04/06/2022 2346</issue_date>
+		<effective_date>04/11/2022 0730</effective_date>
+		<expiry_date>08/28/2022 2359</expiry_date>
+		<notam_body>!LAX 04/082 LAX TWY B13 BTN TWY B AND TWY C CLSD 2204110730-2208282359</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1594/22</number>
+		<class>International</class>
+		<issue_date>05/12/2022 1250</issue_date>
+		<effective_date>06/01/2022 0001</effective_date>
+		<expiry_date>08/28/2022 0000</expiry_date>
+		<notam_body>A1594/22 NOTAMN 
+Q) FAJA/QWULW/IV/BO/AW/000/057/2609S02807E002
+A) FAOR B) 2206010001 C) 2208280000
+E) SENDERWOOD, LINKSFIELD RIDGE, GAUTENG (261001S 0280601E, 260955S
+0280629E, 260818S 0280701E, 260906S 0280735E, 260948S 0280740E,
+261016S 0280601E, 260935S 0280548E): REMOTELY PILOTED AIRCRAFT
+SYSTEMS (RPAS) OPS (270FT AGL) TAKING PLACE.
+F) GND G) 5612FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/062</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2220</issue_date>
+		<effective_date>06/14/2022 1231</effective_date>
+		<expiry_date>08/22/2022 1300</expiry_date>
+		<notam_body>!LAX 06/062 LAX TWY C BTN TXL C9 AND GATE 59 CLSD
+2206141231-2208221300EST</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0580/22</number>
+		<class>International</class>
+		<issue_date>05/23/2022 2004</issue_date>
+		<effective_date>05/23/2022 2002</effective_date>
+		<expiry_date>08/21/2022 2100</expiry_date>
+		<notam_body>K0580/22 NOTAMR K0328/22
+Q) SBCW/QILAS/I/NBO/A/000/999/2326S04628W005
+A) SBGR
+B) 2205232002 C) 2208212100
+E) ILS LOC IGS RWY 27R U/S</notam_body>
+	</notam>
+	<notam>
+		<location>GBYD</location>
+		<number>A0777/22</number>
+		<class>International</class>
+		<issue_date>05/18/2022 1406</issue_date>
+		<effective_date>05/18/2022 1230</effective_date>
+		<expiry_date>08/18/2022 2359</expiry_date>
+		<notam_body>A0777/22 NOTAMN 
+Q) GOOO/QILAS/I/NBO/A/000/999/1321N01639W005
+A) GBYD B) 2205181230 C) 2208182359
+E) BANJUL INTERNATIONAL AIRPORT ILS LOCALIZER RWY32 UNSERVICIABLE.
+PILOTS ARE ADVISED TO TAKE NOTE.</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0364/22</number>
+		<class>International</class>
+		<issue_date>05/19/2022 0909</issue_date>
+		<effective_date>05/20/2022 1500</effective_date>
+		<expiry_date>08/18/2022 1459</expiry_date>
+		<notam_body>A0364/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2205201500 C) 2208181459
+E) REF AIP SUP 199/21 ITEM TWY:A,B,C,D,E,F,G,H,I
+TWY B4-CLSD
+TWY B5-CLSD
+TWY B(BTN B3 AND S-HOLD) -CLSD
+TWY C(BTN S-HOLD AND E1)-CLSD
+TWY K(BTN S-HOLD AND E1)-CLSD
+TWY F1-CLSD
+TWY F2-CLSD
+TWY F3-CLSD
+TWY F(BTN F1 AND F3)-CLSD
+RMK/THE EXACT TIME OF NEXT PERIOD WILL BE NOTIFIED BY FURTHER NOTAM</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0363/22</number>
+		<class>International</class>
+		<issue_date>05/19/2022 0909</issue_date>
+		<effective_date>05/20/2022 2100</effective_date>
+		<expiry_date>08/18/2022 1400</expiry_date>
+		<notam_body>A0363/22 NOTAMN
+Q) RJJJ/QMRLT/IV/NBO/A/000/999/3546N14023E005
+A) RJAA B) 2205202100 C) 2208181400
+D) 2100/1400
+E) REF AIP SUP 199/21 ITEM RWY:1
+RWY 16L/34R-RESTRICTED
+RMK/THE EXACT TIME OF NEXT PERIOD WILL BE NOTIFIED BY FURTHER NOTAM</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1735/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 1122</issue_date>
+		<effective_date>08/08/2022 0000</effective_date>
+		<expiry_date>08/15/2022 2359</expiry_date>
+		<notam_body>A1735/22 NOTAMN
+Q) EPWW/QRATT/IV/BO /AW/000/095/5211N02128E025
+A) EPWA B) 2208080000 C) 2208152359
+E) TRIGGER NOTAM - AIRAC SUP 100/22 (ENR 5) WEF 08 AUG 2022 TILL 15 
+AUG 2022.
+- TRAININGS AND AIR SHOWS - WARSZAWA
+F) GND G) FL095</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1638/22</number>
+		<class>International</class>
+		<issue_date>05/17/2022 0236</issue_date>
+		<effective_date>05/18/2022 0400</effective_date>
+		<expiry_date>08/15/2022 1700</expiry_date>
+		<notam_body>A1638/22 NOTAMN 
+Q) FAJA/QWULW/IV/BO/AW/000/056/2617S02810E001
+A) FAOR B) 2205180400 C) 2208151700
+D) DLY 0400-1700
+E) JUNCTION HILL, GERMISTON (261707S 0280948E): REMOTELY PILOTED
+AIRCRAFT SYSTEMS (RPAS) OPS WI VISUAL LINE OF SIGHT (VLOS) TAKING
+PLACE (400FT AGL).
+F) GND G) 5504FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1472/22</number>
+		<class>International</class>
+		<issue_date>05/11/2022 0605</issue_date>
+		<effective_date>05/12/2022 0000</effective_date>
+		<expiry_date>08/12/2022 0000</expiry_date>
+		<notam_body>A1472/22 NOTAMN
+Q) EPWW/QMNLT/IV/NBO/A /000/999/5210N02058E005
+A) EPWA B) 2205120000 C) 2208120000
+E) ALL FOREIGN ACFT WILLING TO USE MILITARY APRON ARE OBLIGATED TO 
+CONTACT 1AB JW4198.KOORDYNACJA(AT)RON.MIL.PL AT LEAST 48H BEFORE 
+ARRIVAL TO ACQUIRE PARKING PERMISSION.</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0342/22</number>
+		<class>International</class>
+		<issue_date>05/11/2022 0527</issue_date>
+		<effective_date>05/11/2022 0527</effective_date>
+		<expiry_date>08/08/2022 0800</expiry_date>
+		<notam_body>A0342/22 NOTAMN
+Q) RJJJ/QOLAS/IV/M/AE/000/005/3542N14032E005
+A) RJAA B) 2205110527 C) 2208080800
+E) OBST LGT ON TOWER-U/S
+PSN : 354208.0N1403223.0E (SOSA-SHI IN CHIBA)
+F) SFC G) 476FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0416/22</number>
+		<class>International</class>
+		<issue_date>06/01/2022 0430</issue_date>
+		<effective_date>06/01/2022 0430</effective_date>
+		<expiry_date>08/05/2022 0820</expiry_date>
+		<notam_body>A0416/22 NOTAMR A0346/22
+Q) RJJJ/QOLAS/IV/M/AE/000/004/3552N14025E005
+A) RJAA B) 2206010430 C) 2208050820
+E) OBST LGT ON POWER LINE TOWER-U/S
+PSN : 355216.7N1402512.1E (KATORI-GUN IN CHIBA)
+F) SFC G) 304FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>04/101</number>
+		<class>Aerodrome</class>
+		<issue_date>04/07/2022 1740</issue_date>
+		<effective_date>04/12/2022 1330</effective_date>
+		<expiry_date>07/30/2022 2359</expiry_date>
+		<notam_body>!LAX 04/101 LAX TWY C BTN TWY N AND TXL C12 CLSD 2204121330-2207302359</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0438/22</number>
+		<class>International</class>
+		<issue_date>04/27/2022 1622</issue_date>
+		<effective_date>05/01/2022 0300</effective_date>
+		<expiry_date>07/30/2022 2359</expiry_date>
+		<notam_body>K0438/22 NOTAMN
+Q) SBCW/QXXXX/IV/NBO/A/000/999/2326S04628W005
+A) SBGR
+B) 2205010300 C) 2207302359
+E) PRB CONTACT TWR-GR TO START UPS OUT OF THE TSAT (TARGET START UP APPROVAL TIME) APRX 3MIN WINDOW. SUBJECTS RELATED TO TSAT WILL ONLY BE SOLVED BY THE CORRESPONDING AIRLINE OR THE LOCAL AIRPORT ADMINISTRATION.</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0459/22</number>
+		<class>International</class>
+		<issue_date>04/29/2022 0031</issue_date>
+		<effective_date>05/01/2022 0300</effective_date>
+		<expiry_date>07/30/2022 2359</expiry_date>
+		<notam_body>K0459/22 NOTAMN
+Q) SBCW/QXXXX/IV/NBO/A/000/999/2326S04628W005
+A) SBGR
+B) 2205010300 C) 2207302359
+E) TSAT WINDOW (TARGET SCHEDULE TO APPROVE ENGINE RUN UP) PLANNED TO THE A-CDM AT SBGR IS NOW THEREABOUT 3 MIN FROM THE TSAT SCHEDULE OF THE FLIGHT. MNM ADVANCE FOR CHG OF TOBT FOR FLIGHTS WITH TSAT THAT TAKE PLACE BEFORE THE TSAT WINDOW WILL NOT BE MANDATORY. CHG OF TOBT FOR FLIGHTS WITH TSAT THAT TAKE PLACE BEFORE THE TSAT WINDOW SHALL HAVE MNM ADVANCE OF 10 MIN.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1552/22</number>
+		<class>International</class>
+		<issue_date>05/18/2022 0823</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>07/30/2022 2359</expiry_date>
+		<notam_body>A1552/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /A /000/999/5211N02057E005
+A) EPWA B) 2205190000 C) 2207302359
+E) GROUP OF CRANES: 521041.1N 0205706.4E, 85M BEFORE THR 15 ALONG 
+RCL AND 274M RIGHT FM RCL WHEN APPROACHING RWY 15 
+HGT 99FT AGL/458FT AMSL 
+DAY AND NIGHT MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>10/325</number>
+		<class>Aerodrome</class>
+		<issue_date>10/31/2021 0824</issue_date>
+		<effective_date>10/31/2021 0824</effective_date>
+		<expiry_date>07/30/2022 2300</expiry_date>
+		<notam_body>!JFK 10/325 JFK TWY KE SFC PAINTED HLDG PSN SIGNS FOR RWY 13R/31L NORTH SIDE FADED 2110310824-2207302300</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1557/22</number>
+		<class>International</class>
+		<issue_date>05/19/2022 0812</issue_date>
+		<effective_date>05/24/2022 0000</effective_date>
+		<expiry_date>07/29/2022 2359</expiry_date>
+		<notam_body>A1557/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /A /000/999/5004N01948E005
+A) EPKK B) 2205240000 C) 2207292359
+D) 0400-2000
+E) CRANE, CONCRETE PUMP, PILLING MACHINE:
+1.500509N 0194849E
+2.500510N 0194912E
+3.500508N 0194913E
+4.500503N 0194858E
+5.500507N 0194848E
+1285,77M NORTH EAST FM THR 25 AND 231,98M FM RCL.
+HGT 115FT AGL/838FT AMSL. 
+DAY AND NIGHT MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0472/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1600</issue_date>
+		<effective_date>05/04/2022 0330</effective_date>
+		<expiry_date>07/28/2022 0759</expiry_date>
+		<notam_body>K0472/22 NOTAMR K0398/22
+Q) SBCW/QMRLC/IV/NBO/A/000/999/2326S04628W005
+A) SBGR
+B) 2205040330 C) 2207280759
+D) WED THU 0330-0759
+E) RWY 09R/27L CLSD DUE TO MAINT SER</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1734/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 1055</issue_date>
+		<effective_date>07/14/2022 0000</effective_date>
+		<expiry_date>07/27/2022 2359</expiry_date>
+		<notam_body>A1734/22 NOTAMN
+Q) EPWW/QOBTT/IV/BO /A /000/999/5210N02058E005
+A) EPWA B) 2207140000 C) 2207272359
+E) TRIGGER NOTAM - AIRAC SUP 98/22 WEF 14 JUL 2022 TILL 11 AUG 2022 
+- TEMPORARY AERONAUTICAL OBSTACLES IN THE VICINITY OF WARSAW CHOPIN 
+AIRPORT(EPWA).</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1738/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 1146</issue_date>
+		<effective_date>07/14/2022 0000</effective_date>
+		<expiry_date>07/27/2022 2359</expiry_date>
+		<notam_body>A1738/22 NOTAMN
+Q) EPWW/QFATT/IV/BO /A /000/999/5005N01947E005
+A) EPKK B) 2207140000 C) 2207272359
+E) TRIGGER NOTAM - AIP AIRAC AMDT 253 WEF 14 JUL 2022:
+- CONTACT DETAILS OF MET UPDATED.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1740/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 1152</issue_date>
+		<effective_date>07/14/2022 0000</effective_date>
+		<expiry_date>07/27/2022 2359</expiry_date>
+		<notam_body>A1740/22 NOTAMN
+Q) EPWW/QFATT/IV/BO /A /000/999/5210N02058E005
+A) EPWA B) 2207140000 C) 2207272359
+E) TRIGGER NOTAM - AIP AIRAC AMDT 253 WEF 14 JUL 2022:
+- UPDATE INFORMATION ON SURFACE MOVEMENT GUIDANCE
+- INTERSECTION TAKE-OFF PROCEDURE FOR RWY 15 FROM TWY D3 INTRODUCED
+- AERODROME CHART - ICAO UPDATED</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0473/22</number>
+		<class>International</class>
+		<issue_date>05/02/2022 1604</issue_date>
+		<effective_date>05/03/2022 0500</effective_date>
+		<expiry_date>07/26/2022 0759</expiry_date>
+		<notam_body>K0473/22 NOTAMR K0399/22
+Q) SBCW/QMRLC/IV/NBO/A/000/999/2326S04628W005
+A) SBGR
+B) 2205030500 C) 2207260759
+D) MON TUE 0500-0759
+E) RWY 09L/27R CLSD DUE TO MAINT SER</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A0884/22</number>
+		<class>International</class>
+		<issue_date>03/28/2022 1254</issue_date>
+		<effective_date>03/28/2022 1240</effective_date>
+		<expiry_date>07/26/2022 0700</expiry_date>
+		<notam_body>A0884/22 NOTAMN
+Q) EPWW/QMPXX/IV/BO /A /000/999/5210N02058E005
+A) EPWA B) 2203281240 C) 2207260700
+E) ACFT STAND 13 - SAFE DISTANCE ON RIGHT SIDE FOR ACFT CODE E - 
+REDUCED TO 4,5 M.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1196/22</number>
+		<class>International</class>
+		<issue_date>04/22/2022 1507</issue_date>
+		<effective_date>04/22/2022 1459</effective_date>
+		<expiry_date>07/22/2022 2000</expiry_date>
+		<notam_body>A1196/22 NOTAMR A1187/22
+Q) EPWW/QXXXX/IV/NBO/AW/000/160/5215N02101E006
+A) EPWA B) 2204221459 C) 2207222000
+D) APR 22-30 1900-2100, MAY 01-03 06-07 13-14 20-21 27-28 1800-2000, 
+JUN 03-04 10-11 17-18 24-25 1800-2000, JUL 01-02 08-09 15-16 22 
+1800-2000
+E) NAVIGATION WARNING.
+LASERS: 521515N 0210041E WARSZAWA SKWER 1 DYWIZJI PANCERNEJ
+ANGLE OF BEAM: 25 DEG,
+RANGE: 5000M/FL160
+CONTACT: +48 601 970 340, +48 668 295 252.
+F) GND G) FL160</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0298/22</number>
+		<class>International</class>
+		<issue_date>04/17/2022 0441</issue_date>
+		<effective_date>04/17/2022 0441</effective_date>
+		<expiry_date>07/15/2022 0700</expiry_date>
+		<notam_body>A0298/22 NOTAMN
+Q) RJJJ/QOLAS/IV/M/AE/000/008/3553N14028E005
+A) RJAA B) 2204170441 C) 2207150700
+E) OBST LGT ON TOWER-U/S
+PSN : 355324.0N1402825.0E (KATORI-SHI IN CHIBA)
+RMK/OBST LGT IN PLACE OF OBST DAY MARKING FOR TOWER
+F) SFC G) 746FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>V0221/22</number>
+		<class>Military</class>
+		<issue_date>05/11/2022 1613</issue_date>
+		<effective_date>05/11/2022 1613</effective_date>
+		<expiry_date>07/14/2022 1500</expiry_date>
+		<notam_body>V0221/22 NOTAMN 
+Q) RJJJ/QPICH/I/BO/A/000/999/3545N14023E005 
+A) RJAA 
+B) 2205111613 
+C) 2207141500 
+E) [US DOD PROCEDURAL NOTAM] INSTRUMENT APPROACH PROCEDURE AMENDMENT ILS Y OR LOC RWY 16R: INCREASE LOC MINS TO: CAT A 520/900M 390 (400-900M); CAT BC 520/1000M 390 (400-1000M); CAT D 520/1400M 390 (400-1400M)</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0330/22</number>
+		<class>International</class>
+		<issue_date>04/28/2022 0757</issue_date>
+		<effective_date>05/04/2022 1922</effective_date>
+		<expiry_date>07/13/2022 0956</expiry_date>
+		<notam_body>A0330/22 NOTAMN
+Q) RJJJ/QWULW/IV/BO/AW/000/009/3536N14027E001
+A) RJAA B) 2205041922 C) 2207130956
+D) 1922/0956
+E) UNMANNED ACFT:
+1.FLT AREA: BOUNDED BY FLW POINTS
+            353602N1402632E 353600N1402630E 353557N1402633E
+            353556N1402634E 353557N1402635E
+            (SANMU-SHI IN CHIBA)
+            (APRX QTE/164DEG 10.2NM FM RJAA ARP)
+2.WT      : 1.5KG
+3.FLT TIME: HJ
+4.RMK     : THIS NOTAM WILL BE INCORPORATED IN SUP
+F) SFC G) 834FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>11/004</number>
+		<class>Obstruction</class>
+		<issue_date>11/08/2021 1607</issue_date>
+		<effective_date>11/09/2021 1330</effective_date>
+		<expiry_date>07/08/2022 0030</expiry_date>
+		<notam_body>!GYR 11/004 GYR OBST CRANE (ASN UNKNOWN) 332434N1122201W (.89NM ESE APCH END RWY 03) 
+UNKNOWN (154FT AGL) FLAGGED DLY 1330-0030 2111091330-2207080030</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>06/071</number>
+		<class>Obstruction</class>
+		<issue_date>06/06/2022 1616</issue_date>
+		<effective_date>06/06/2022 1616</effective_date>
+		<expiry_date>07/06/2022 2325</expiry_date>
+		<notam_body>!JFK 06/071 JFK OBST TOWER LGT (ASR 1290125) 403649.80N0734533.70W (1.8NM SSE JFK) 177.8FT (169.9FT AGL) U/S 2206061616-2207062325</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0275/22</number>
+		<class>International</class>
+		<issue_date>04/07/2022 0600</issue_date>
+		<effective_date>04/07/2022 1500</effective_date>
+		<expiry_date>07/06/2022 1459</expiry_date>
+		<notam_body>A0275/22 NOTAMN
+Q) RJJJ/QMPLC/IV/BO/A/000/999/3546N14023E005
+A) RJAA B) 2204071500 C) 2207061459
+E) SPOT 203-CLSD DUE TO CONST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/4474</number>
+		<class>Procedure</class>
+		<issue_date>04/27/2022 1239</issue_date>
+		<effective_date>04/27/2022 1239</effective_date>
+		<expiry_date>07/06/2022 1239</expiry_date>
+		<notam_body>!FDC 2/4474 JFK IAP JOHN F KENNEDY INTL, NEW YORK, NY.
+ILS OR LOC RWY 4L, AMDT 11D...
+VOR RWY 4L, AMDT 1B...
+DME REQUIRED EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+CMK VOR OUT OF SERVICE. 2204271239-2207061239EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>05/256</number>
+		<class>Aerodrome</class>
+		<issue_date>05/17/2022 2314</issue_date>
+		<effective_date>05/17/2022 2315</effective_date>
+		<expiry_date>07/05/2022 1100</expiry_date>
+		<notam_body>!JFK 05/256 JFK RWY 04L/22R EDGE MARKINGS NE SIDE REMOVED 2205172315-2207051100</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>06/048</number>
+		<class>Aerodrome</class>
+		<issue_date>06/04/2022 1828</issue_date>
+		<effective_date>06/04/2022 1828</effective_date>
+		<expiry_date>07/04/2022 2200</expiry_date>
+		<notam_body>!JFK 06/048 JFK RWY 22R HLDG PSN MARKINGS AT TWY E WEST NOT STD 2206041828-2207042200</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1819/22</number>
+		<class>International</class>
+		<issue_date>06/03/2022 1040</issue_date>
+		<effective_date>06/03/2022 1020</effective_date>
+		<expiry_date>07/03/2022 2159</expiry_date>
+		<notam_body>A1819/22 NOTAMN 
+Q) FAJA/QOBCE/IV/M/AE/000/057/2607S02815E001
+A) FAOR B) 2206031020 C) 2207032159
+E) SKY PARK OFFICE, O R TAMBO INTERNATIONAL AIRPORT (260642S
+0281505E): 1 CRANE (125FT AGL) ERECTED.</notam_body>
+	</notam>
+	<notam>
+		<location>GLRB</location>
+		<number>A0054/22</number>
+		<class>International</class>
+		<issue_date>05/17/2022 1300</issue_date>
+		<effective_date>06/22/2022 2102</effective_date>
+		<expiry_date>07/02/2022 0031</expiry_date>
+		<notam_body>A0054/22 NOTAMN
+Q) GLRB/QRDCA/IV/BO/W/000/999
+A) GLRB B) 2206222102 C) 2207020031
+D) DAILY 2102-0031
+E) DNG AREA ZC/VA257 ACTIVATED AS FLW:
+0300N01537W
+0113N00036W
+0033S00049W
+0113N01549W
+F) GND G) UNL</notam_body>
+	</notam>
+	<notam>
+		<location>HTO</location>
+		<number>06/001</number>
+		<class>Navaid</class>
+		<issue_date>06/01/2022 0957</issue_date>
+		<effective_date>06/01/2022 0958</effective_date>
+		<expiry_date>07/01/2022 2000EST</expiry_date>
+		<notam_body>!HTO 06/001 HTO NAV VORTAC 270-332 UNUSABLE 2206010958-2207012000EST</notam_body>
+	</notam>
+	<notam>
+		<location>HTO</location>
+		<number>06/002</number>
+		<class>Navaid</class>
+		<issue_date>06/01/2022 0959</issue_date>
+		<effective_date>06/01/2022 0959</effective_date>
+		<expiry_date>07/01/2022 2000EST</expiry_date>
+		<notam_body>!HTO 06/002 HTO NAV VORTAC 010-240 UNUSABLE 2206010959-2207012000EST</notam_body>
+	</notam>
+	<notam>
+		<location>GOBD</location>
+		<number>A0646/22</number>
+		<class>International</class>
+		<issue_date>04/26/2022 1316</issue_date>
+		<effective_date>06/16/2022 0001</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>A0646/22 NOTAMN 
+Q) GOOO/QPATT/I/NBO/A/000/999/1440N01704W005
+A) GOBD B) 2206160001 C) 2206302359
+E) TRIGGER NOTAM AIRAC AIP SUP NR 46/A/22GO WEF 16 JUNE 2022.
+UPDATE OF INSTRUMENT ARRIVAL CHARTS OF DAKAR-DIASS AERODROME.</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1444/22</number>
+		<class>International</class>
+		<issue_date>05/09/2022 0645</issue_date>
+		<effective_date>06/16/2022 0000</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>A1444/22 NOTAMN
+Q) EPWW/QFATT/IV/BO /A /000/999/5005N01947E005
+A) EPKK B) 2206160000 C) 2206302359
+E) TRIGGER NOTAM - AIRAC SUP 89/22 WEF 16 JUN TILL 31 DEC 2023 EST.
+- CONSTRUCTION WORKS CONDUCTED IN THE MOVEMENT AREA OF KRAKOW-BALICE 
+AERODROME (EPKK).</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>F0069/22</number>
+		<class>International</class>
+		<issue_date>05/19/2022 1048</issue_date>
+		<effective_date>06/16/2022 0001</effective_date>
+		<expiry_date>06/30/2022 2359</expiry_date>
+		<notam_body>F0069/22 NOTAMN 
+Q) FAJA/QNVTT/IV/BO/AE/000/999/2547S02834E025
+A) FAOR B) 2206160001 C) 2206302359
+E) TRIGGER NOTAM - AIRAC AIP SUPPLEMENT S067/22 DATED 16 JUN 2022 :
+NAVIGATIONAL FACILITY : WITHDRAWAL OF BRONKHORSTSPRUIT VOR/DME
+(MEV).</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>05/285</number>
+		<class>Aerodrome</class>
+		<issue_date>05/19/2022 1608</issue_date>
+		<effective_date>05/19/2022 1610</effective_date>
+		<expiry_date>06/30/2022 2200</expiry_date>
+		<notam_body>!JFK 05/285 JFK RWY 13L/31R CL MARKINGS OBSC 2205191610-2206302200</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0386/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0828</issue_date>
+		<effective_date>06/01/2022 1410</effective_date>
+		<expiry_date>06/30/2022 2030</expiry_date>
+		<notam_body>A0386/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2206011410 C) 2206302030
+D) 1410/2030
+E) TWY B(FM B1 TO B3),B1,B2,B3,B6,B7,B8,B9,F(BTN F4 AND F5),F4,F5,L-
+CLSD DUE TO MAINT</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0391/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0842</issue_date>
+		<effective_date>06/01/2022 1410</effective_date>
+		<expiry_date>06/30/2022 2030</expiry_date>
+		<notam_body>A0391/22 NOTAMN
+Q) RJJJ/QMRLC/IV/NBO/A/000/999/3546N14023E005
+A) RJAA B) 2206011410 C) 2206302030
+D) 1410/2030
+E) RWY 16L/34R-CLSD DUE TO MAINT</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1394/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 1019</issue_date>
+		<effective_date>06/16/2022 0000</effective_date>
+		<expiry_date>06/29/2022 2359</expiry_date>
+		<notam_body>A1394/22 NOTAMN
+Q) EPWW/QFATT/IV/BO /A /000/999/5210N02058E005
+A) EPWA B) 2206160000 C) 2206292359
+E) TRIGGER NOTAM - AIP AIRAC AMDT 252 WEF 16 JUN 2022:
+UPDATED INFORMATION:
+- AD OBSTACLES,
+- RADIO COMMUNICATION FAILURE FOR IFR.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1402/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 1536</issue_date>
+		<effective_date>06/16/2022 0000</effective_date>
+		<expiry_date>06/29/2022 2359</expiry_date>
+		<notam_body>A1402/22 NOTAMN
+Q) EPWW/QPITT/I /BO /A /000/999/5210N02058E005
+A) EPWA B) 2206160000 C) 2206292359
+E) TRIGGER NOTAM - AIRAC SUP 75/22 WEF 16 JUN 2022 TILL 26 JAN 2023.
+- OPERATING SUSPENSION OF IAP PROCEDURES USING DVOR/DME WAR AT 
+WARSAW CHOPIN AIRPORT (EPWA).</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1413/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 1622</issue_date>
+		<effective_date>06/16/2022 0000</effective_date>
+		<expiry_date>06/29/2022 2359</expiry_date>
+		<notam_body>A1413/22 NOTAMN
+Q) EPWW/QOBTT/IV/BO /A /000/999/5210N02058E005
+A) EPWA B) 2206160000 C) 2206292359
+E) TRIGGER NOTAM - AIRAC SUP 80/22 WEF 16 JUN 2022 TILL 14 JUL 2022 
+EST.
+- TEMPORARY AERONAUTICAL OBSTACLES IN THE VICINITY OF WARSAW CHOPIN 
+AIRPORT(EPWA).</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1414/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 1624</issue_date>
+		<effective_date>06/16/2022 0000</effective_date>
+		<expiry_date>06/29/2022 2359</expiry_date>
+		<notam_body>A1414/22 NOTAMN
+Q) EPWW/QOBTT/IV/BO /A /000/999/5210N02058E005
+A) EPWA B) 2206160000 C) 2206292359
+E) TRIGGER NOTAM - AIRAC SUP 81/22 WEF 16 JUN 2022 TILL 31 DEC 2022 
+EST.
+- NEW AERONAUTICAL OBSTACLES IN THE VICINITY OF WARSAW CHOPIN 
+AIRPORT(EPWA).</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1422/22</number>
+		<class>International</class>
+		<issue_date>05/06/2022 0523</issue_date>
+		<effective_date>06/16/2022 0000</effective_date>
+		<expiry_date>06/29/2022 2359</expiry_date>
+		<notam_body>A1422/22 NOTAMN
+Q) EPWW/QFATT/IV/BO /A /000/999/5210N02058E005
+A) EPWA B) 2206160000 C) 2206292359
+E) TRIGGER NOTAM - AIRAC SUP 82/22 WEF 16 JUN 2022 TILL 18 JUN 2023.
+APRON MAMAGEMENT AND USE AT WARSAW CHOPIN AIRPORT (EPWA).</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0316/22</number>
+		<class>International</class>
+		<issue_date>04/01/2022 1940</issue_date>
+		<effective_date>04/01/2022 1939</effective_date>
+		<expiry_date>06/29/2022 2100</expiry_date>
+		<notam_body>K0316/22 NOTAMN
+Q) SBCW/QXXAS/IV/NBO/A/000/999/2326S04628W005
+A) SBGR
+B) 2204011939 C) 2206292100
+E) RVR MID POINT 09L/27R U/S</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0384/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0826</issue_date>
+		<effective_date>05/31/2022 1510</effective_date>
+		<expiry_date>06/29/2022 2030</expiry_date>
+		<notam_body>A0384/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2205311510 C) 2206292030
+D) MAY 31-JUN 03 06-10 13-17 20-24 27-29 1510/2030
+E) TWY A,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10-CLSD DUE TO MAINT
+RMK/1.EXC ACFT IN AIC 051/19 ITEM 3
+    2.EXC EMERG ACFT WITH PRIOR PERMISSION AT LEAST 1HR BFR</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0387/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0828</issue_date>
+		<effective_date>05/31/2022 1510</effective_date>
+		<expiry_date>06/29/2022 2030</expiry_date>
+		<notam_body>A0387/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2205311510 C) 2206292030
+D) 1510/2030
+E) TWY K(BTN E1 AND K1-HOLD),E1,C(BTN E1 AND V1-HOLD)-CLSD DUE TO
+MAINT</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0390/22</number>
+		<class>International</class>
+		<issue_date>05/27/2022 0841</issue_date>
+		<effective_date>05/31/2022 1510</effective_date>
+		<expiry_date>06/29/2022 2030</expiry_date>
+		<notam_body>A0390/22 NOTAMN
+Q) RJJJ/QMRLC/IV/NBO/A/000/999/3546N14023E005
+A) RJAA B) 2205311510 C) 2206292030
+D) 1510/2030
+E) RWY 16R/34L-CLSD DUE TO MAINT
+RMK/1.EXC ACFT IN AIC 051/19 ITEM 3
+    2.EXC EMERG ACFT WITH PRIOR PERMISSION AT LEAST 1HR BFR</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/015</number>
+		<class>Navaid</class>
+		<issue_date>06/01/2022 2037</issue_date>
+		<effective_date>06/01/2022 2037</effective_date>
+		<expiry_date>06/27/2022 2359EST</expiry_date>
+		<notam_body>!LAX 06/015 LAX NAV ILS RWY 25L U/S 2206012037-2206272359EST</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1525/22</number>
+		<class>International</class>
+		<issue_date>05/15/2022 1018</issue_date>
+		<effective_date>06/26/2022 0700</effective_date>
+		<expiry_date>06/26/2022 1300</expiry_date>
+		<notam_body>A1525/22 NOTAMN
+Q) EPWW/QNMAS/IV/BO /AE/000/999/5210N02058E025
+A) EPWA B) 2206260700 C) 2206261300
+E) DVOR/DME OKC FREQ 113.450MHZ/CH81Y U/S DUE TO MAINT.</notam_body>
+	</notam>
+	<notam>
+		<location>GBYD</location>
+		<number>A0474/22</number>
+		<class>International</class>
+		<issue_date>04/01/2022 0753</issue_date>
+		<effective_date>03/24/2022 1344</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>A0474/22 NOTAMN
+Q) GOOO/QFAXX/IV/NBO/A /000/999/1321N01639W005
+A) GBYD B) 2203241344 C) 2206242359
+E) IN REGARD OF THE RESTRICTED AREA IN THE SOUTHERN REGION OF
+SENEGAL,DUE TO ONGOING MILITARY OPERATIONS, AIRCRAFT COMING FROM OR
+GOING TO BANJUL FROM THE SOUTH WILL BE DIVERTED FROM THEIR USUAL
+ROUTE . THE AIR TRAFFIC CONTROLLERS WILL GIVE THE NECESSARY CLEARNCES
+DEPENDING ON THE TRAFFIC SITUATION</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/4260</number>
+		<class>Procedure</class>
+		<issue_date>06/05/2022 1223</issue_date>
+		<effective_date>06/06/2022 1600</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>!FDC 2/4260 LAX SID LOS ANGELES INTL, LOS ANGELES, CA.
+CATALINA EIGHT DEPARTURE...
+DEPARTURE PROCEDURE NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+SXC VORTAC OUT OF SERVICE. 2206061600-2206242359EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/4266</number>
+		<class>Procedure</class>
+		<issue_date>06/05/2022 1223</issue_date>
+		<effective_date>06/06/2022 1600</effective_date>
+		<expiry_date>06/24/2022 2359</expiry_date>
+		<notam_body>!FDC 2/4266 LAX SID LOS ANGELES INTL, LOS ANGELES, CA.
+LAXX ONE DEPARTURE...
+ROSIN TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+SXC VORTAC OUT OF SERVICE. 2206061600-2206242359EST</notam_body>
+	</notam>
+	<notam>
+		<location>CCC</location>
+		<number>06/053</number>
+		<class>Navaid</class>
+		<issue_date>06/06/2022 1401</issue_date>
+		<effective_date>06/06/2022 1400</effective_date>
+		<expiry_date>06/24/2022 2000EST</expiry_date>
+		<notam_body>!ISP 06/053 CCC NAV VOR U/S 2206061400-2206242000EST</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A1106/22</number>
+		<class>International</class>
+		<issue_date>05/18/2022 0615</issue_date>
+		<effective_date>06/24/2022 0700</effective_date>
+		<expiry_date>06/24/2022 0900</expiry_date>
+		<notam_body>A1106/22 NOTAMN
+Q) LOVV/QCMAS/IV/M  /A /000/999/4807N01634E005
+A) LOWW B) 2206240700 C) 2206240900
+E) SURFACE MOVEMENT RADAR WEST OUT OF SERVICE.</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>2/5169</number>
+		<class>Procedure</class>
+		<issue_date>06/07/2022 1123</issue_date>
+		<effective_date>06/07/2022 1200</effective_date>
+		<expiry_date>06/23/2022 1200EST</expiry_date>
+		<notam_body>!FDC 2/5169 GYR ODP PHOENIX GOODYEAR, GOODYEAR, AZ.
+TAKEOFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES AMDT 2...
+ADD TAKEOFF OBSTACLE NOTE: RWY 3, TEMPORARY CRANE 2881FT FROM DER, 687FT LEFT OF CENTERLINE, 250FT AGL/1219FT MSL (2022-AWP-9667-OE). ALL OTHER DATA REMAINS AS PUBLISHED. 2206071200-2206231200EST</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>2/5170</number>
+		<class>Procedure</class>
+		<issue_date>06/07/2022 1123</issue_date>
+		<effective_date>06/07/2022 1200</effective_date>
+		<expiry_date>06/23/2022 1200EST</expiry_date>
+		<notam_body>!FDC 2/5170 GYR ODP PHOENIX GOODYEAR, GOODYEAR, AZ.
+POTER THREE DEPARTURE (RNAV) ...
+TAKEOFF MINIMUMS: RWY 3, 300-1 WITH A MINIMUM CLIMB OF 500FT PER NM TO 1480 THEN MINIMUM CLIMB OF 431FT PER NM TO 4600. ADD TAKEOFF OBSTACLE NOTE: RWY 3, TEMPORARY CRANE 2881FT FROM DER, 687FT LEFT OF CENTERLINE, 250FT AGL/1219FT MSL (2022-AWP-9667-OE). ALL OTHER DATA REMAINS AS PUBLISHED. 2206071200-2206231200EST</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>2/5171</number>
+		<class>Procedure</class>
+		<issue_date>06/07/2022 1123</issue_date>
+		<effective_date>06/07/2022 1200</effective_date>
+		<expiry_date>06/23/2022 1200EST</expiry_date>
+		<notam_body>!FDC 2/5171 GYR ODP PHOENIX GOODYEAR, GOODYEAR, AZ.
+DIVERSE VECTOR AREA (RADAR VECTORS), AMDT 1 ...
+RWY 3, NA-OBSTACLE. RWY 3, TEMPORARY CRANE 2881FT FROM DER, 687FT LEFT OF CENTERLINE, 250FT AGL/1219FT MSL (2022-AWP-9667-OE). 2206071200-2206231200EST</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>2/5172</number>
+		<class>Procedure</class>
+		<issue_date>06/07/2022 1123</issue_date>
+		<effective_date>06/07/2022 1200</effective_date>
+		<expiry_date>06/23/2022 1200EST</expiry_date>
+		<notam_body>!FDC 2/5172 GYR SID PHOENIX GOODYEAR, GOODYEAR, AZ.
+BNYRD SIX DEPARTURE (RNAV)...
+FTHLS SIX DEPARTURE (RNAV)...
+GOODYEAR TWO DEPARTURE...
+IZZZO SEVEN DEPARTURE (RNAV)...
+JUDTH SEVEN DEPARTURE (RNAV)...
+KATMN SIX DEPARTURE (RNAV)...
+LALUZ SIX DEPARTURE (RNAV)...
+MAYSA SEVEN DEPARTURE (RNAV)...
+SNOBL SIX DEPARTURE (RNAV)...
+YOTES SIX DEPARTURE (RNAV)...
+TAKEOFF MINIMUMS: RWY 3, 300-1. ADD TAKEOFF OBSTACLE NOTE: RWY 3, TEMPORARY CRANE 2881FT FROM DER, 687FT LEFT OF CENTERLINE, 250FT AGL/1219FT MSL (2022-AWP-9667-OE). ALL OTHER DATA REMAINS AS PUBLISHED. 2206071200-2206231200EST</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0427/22</number>
+		<class>International</class>
+		<issue_date>06/06/2022 0142</issue_date>
+		<effective_date>06/22/2022 0000</effective_date>
+		<expiry_date>06/22/2022 1100</expiry_date>
+		<notam_body>A0427/22 NOTAMN
+Q) RJJJ/QNDAS/IV/BO/A/000/999/3546N14023E005
+A) RJAA B) 2206220000 C) 2206221100
+E) MORIYA DME/SND-U/S DUE TO CONST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/039</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 2121</issue_date>
+		<effective_date>06/06/2022 1200</effective_date>
+		<expiry_date>06/20/2022 2359</expiry_date>
+		<notam_body>!LAX 06/039 LAX OBST CRANE (ASN 2021-AWP-1530-NRA) 335642N1182420W (0.2NM NE LAX) 320FT (215FT AGL) FLAGGED AND LGTD DLY 1200-2359 2206061200-2206202359</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1522/22</number>
+		<class>International</class>
+		<issue_date>05/15/2022 1008</issue_date>
+		<effective_date>06/20/2022 0600</effective_date>
+		<expiry_date>06/20/2022 1300</expiry_date>
+		<notam_body>A1522/22 NOTAMN
+Q) EPWW/QNMAS/IV/BO /AE/000/999/5005N01947E025
+A) EPKK B) 2206200600 C) 2206201300
+E) DVOR/DME KAK FREQ 112.8MHZ/CH75X U/S DUE TO MAINT.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1518/22</number>
+		<class>International</class>
+		<issue_date>05/15/2022 0806</issue_date>
+		<effective_date>06/19/2022 0700</effective_date>
+		<expiry_date>06/19/2022 1500</expiry_date>
+		<notam_body>A1518/22 NOTAMN
+Q) EPWW/QICCT/I /NBO/A /000/999/5210N02057E005
+A) EPWA B) 2206190700 C) 2206191500
+E) ILS AND DME WAS RWY 11 OPERATING ON TEST DUE TO MAINT. DO NOT USE.</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>06/049</number>
+		<class>Aerodrome</class>
+		<issue_date>06/04/2022 1901</issue_date>
+		<effective_date>06/04/2022 1901</effective_date>
+		<expiry_date>06/18/2022 2300</expiry_date>
+		<notam_body>!JFK 06/049 JFK TWY E HLDG PSN MARKINGS FOR APCH END RWY 22R WEST SIDE NOT STD 2206041901-2206182300</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1517/22</number>
+		<class>International</class>
+		<issue_date>05/15/2022 0805</issue_date>
+		<effective_date>06/18/2022 0700</effective_date>
+		<expiry_date>06/18/2022 1500</expiry_date>
+		<notam_body>A1517/22 NOTAMN
+Q) EPWW/QICCT/I /NBO/A /000/999/5209N02058E005
+A) EPWA B) 2206180700 C) 2206181500
+E) ILS AND DME WA RWY 33 OPERATING ON TEST DUE TO MAINT. DO NOT USE.</notam_body>
+	</notam>
+	<notam>
+		<location>GBYD</location>
+		<number>A0432/22</number>
+		<class>International</class>
+		<issue_date>03/17/2022 1025</issue_date>
+		<effective_date>03/17/2022 1022</effective_date>
+		<expiry_date>06/17/2022 2359</expiry_date>
+		<notam_body>A0432/22 NOTAMN 
+Q) GOOO/QXXXX/IV/NBO/AE/000/999/1321N01639W005
+A) GBYD B) 2203171022 C) 2206172359
+E) THE ISSUANCE OF OVER FLIGHT AND LANDING PERMIT AT BANJUL
+INTERNATIONAL AIRPORT IS DELEGATED TO THE DEPARTMENT OF FLIGHT SAFETY
+STANDARDS ON AN AD-HOC BASES BY THE DIRECTOR GENERAL. ALL AIRLINES
+AND OPERATORS ARE ADVISED TO TAKE NOTE</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0546/22</number>
+		<class>International</class>
+		<issue_date>05/18/2022 2325</issue_date>
+		<effective_date>05/18/2022 2324</effective_date>
+		<expiry_date>06/17/2022 2359</expiry_date>
+		<notam_body>K0546/22 NOTAMN
+Q) SBCW/QIUAS/I/NBO/A/000/999/2326S04628W005
+A) SBGR
+B) 2205182324 C) 2206172359
+E) ILS CAT III RWY 09R U/S</notam_body>
+	</notam>
+	<notam>
+		<location>SBGR</location>
+		<number>K0552/22</number>
+		<class>International</class>
+		<issue_date>05/19/2022 2036</issue_date>
+		<effective_date>05/19/2022 2036</effective_date>
+		<expiry_date>06/17/2022 2359</expiry_date>
+		<notam_body>K0552/22 NOTAMN
+Q) SBCW/QFAXX/IV/NBO/A/000/999/2326S04628W005
+A) SBGR
+B) 2205192036 C) 2206172359
+E) AD SUSPENDED OPS LDG VIS BELOW 350M RVR</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/056</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2207</issue_date>
+		<effective_date>06/14/2022 0730</effective_date>
+		<expiry_date>06/17/2022 1330</expiry_date>
+		<notam_body>!LAX 06/056 LAX TWY P BTN TWY C AND TWY N2 CLSD DLY 0730-1330 2206140730-2206171330</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0406/22</number>
+		<class>International</class>
+		<issue_date>05/30/2022 0946</issue_date>
+		<effective_date>05/30/2022 1530</effective_date>
+		<expiry_date>06/16/2022 2020</expiry_date>
+		<notam_body>A0406/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2205301530 C) 2206162020
+D) MAY 30-JUN 03 06 15 16 1530/2020
+E) TWY D3(FM SPOT 600T TO SPOT 600M)-CLSD DUE TO CONST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/055</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2203</issue_date>
+		<effective_date>06/13/2022 0730</effective_date>
+		<expiry_date>06/16/2022 1330</expiry_date>
+		<notam_body>!LAX 06/055 LAX RWY 06L/24R CLSD DLY 0730-1330 2206130730-2206161330</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/5631</number>
+		<class>Procedure</class>
+		<issue_date>06/08/2022 0714</issue_date>
+		<effective_date>06/09/2022 0200</effective_date>
+		<expiry_date>06/16/2022 0713</expiry_date>
+		<notam_body>!FDC 2/5631 JFK IAP JOHN F KENNEDY INTL, NEW YORK, NY.
+ILS OR LOC RWY 13L, AMDT 18C...
+ILS RWY 13L (CAT II), AMDT 18B....
+DME REQUIRED EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+LGA VOR/DME OUT OF SERVICE. 2206090200-2206160713EST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/5644</number>
+		<class>Procedure</class>
+		<issue_date>06/08/2022 0714</issue_date>
+		<effective_date>06/09/2022 0200</effective_date>
+		<expiry_date>06/16/2022 0713</expiry_date>
+		<notam_body>!FDC 2/5644 JFK IAP JOHN F KENNEDY INTL, NEW YORK, NY.
+ILS OR LOC RWY 31R, AMDT 16B...
+MISSED APPROACH: CLIMB TO 1000 THEN CLIMBING LEFT TURN TO 4000 DIRECT CAGAG AND HOLD. (RNAV 1-GPS REQUIRED),
+LGA VOR/DME OUT OF SERVICE. 2206090200-2206160713EST</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A0900/22</number>
+		<class>International</class>
+		<issue_date>03/30/2022 0728</issue_date>
+		<effective_date>03/31/2022 0500</effective_date>
+		<expiry_date>06/15/2022 2359</expiry_date>
+		<notam_body>A0900/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /A /000/999/5211N02101E005
+A) EPWA B) 2203310500 C) 2206152359
+E) GROUP OF CRANES: 521048.89N 0210052.46E, 1516M BEFORE THR 29 
+ALONG RCL AND 2815M RIGHT FM RCL WHEN APPROACHING RWY 29. 
+HGT 220FT AGL/570FT AMSL. 
+DAY AND NIGHT MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1381/22</number>
+		<class>International</class>
+		<issue_date>05/04/2022 0710</issue_date>
+		<effective_date>05/05/2022 0500</effective_date>
+		<expiry_date>06/15/2022 2359</expiry_date>
+		<notam_body>A1381/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /A /000/999/5212N02058E005
+A) EPWA B) 2205050500 C) 2206152359
+E) GROUP OF CRANES: 521147,4N 0205745,8E, 1535M BEFORE THR 15 ALONG 
+RCL 
+AND 1354M LEFT FM RCL WHEN APPROACHING RWY 15. HGT 184FT AGL/525FT 
+AMSL. DAY AND NIGHT MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1408/22</number>
+		<class>International</class>
+		<issue_date>05/05/2022 1556</issue_date>
+		<effective_date>05/19/2022 0000</effective_date>
+		<expiry_date>06/15/2022 2359</expiry_date>
+		<notam_body>A1408/22 NOTAMN
+Q) EPWW/QPIAU/I /NBO/A /000/999/5210N02058E005
+A) EPWA B) 2205190000 C) 2206152359
+E) THE FOLLOWING INSTRUMENT APPROACH PROCEDURES NOT AVAILABLE:
+1. ILS Z CAT II AND CAT III OR LOC Z RWY 33 CAT A/B/C/D
+2. VOR Y RWY 11 CAT A/B/C/D
+3. VOR RWY 33 CAT A/B/C/D.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1464/22</number>
+		<class>International</class>
+		<issue_date>05/10/2022 0838</issue_date>
+		<effective_date>05/11/2022 0500</effective_date>
+		<expiry_date>06/15/2022 2359</expiry_date>
+		<notam_body>A1464/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /A /000/999/5210N02100E005
+A) EPWA B) 2205110500 C) 2206152359
+E) GROUP OF CRANES PSN: 520930.4N 0205938.5E.
+LOCATED 1246M BEFORE THR 29 ALONG RCL AND 26M RIGHT FM RCL
+WHEN APPROACHING RWY 29.
+HGT 140FT AGL/473FT AMSL.
+DAY AND NIGHT MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>V0232/22</number>
+		<class>Military</class>
+		<issue_date>05/17/2022 1038</issue_date>
+		<effective_date>05/18/2022 2259</effective_date>
+		<expiry_date>06/15/2022 2301</expiry_date>
+		<notam_body>V0232/22 NOTAMN 
+Q) EPWW/QPICH/I/BO/A/000/999/5209N02058E005 
+A) EPWA 
+B) 2205182259 
+C) 2206152301 
+E) [US DOD PROCEDURAL NOTAM] STANDARD INSTRUMENT ARRIVAL (STAR) CHANGED RNAV1 STAR RWY 11 (AGAVA 5N, LOGDA 5N); RNAV1 STAR RWY 11 (BIMPA 6N, LIMVI 5N, NEPOX 5N, SORIX 6N); RNAV1 STAR RWY 15 (AGAVA 4P, LIMVI 4P, LOGDA 4P, NEPOX 4P); RNAV1 STAR RWY 15 (BIMPA 4P, SORIX 4P); RNAV1 STAR RWY 29 (AGAVA 5V, LOGDA 5V); RNAV1 STAR RWY 29 (BIMPA 5V, LIMVI 5V, NEPOX 5V, SORIX 5V); RNAV1 STAR RWY 33 (AGAVA 5U, LOGDA 5U); RNAV1 STAR RWY 33 (BIMPA 5U, LIMVI 5U, NEPOX 5U, SORIX 5U); CHANGE RNAV1 NOT APPROVED ACFT NOTE TO READ: "SET TRANSPONDER TO 7600. MAINTAIN LAST ASSIGNED AND ACKNOWLEDGED ALTITUDE/FLIGHT LEVEL. PROCEED TO MULZA (N52 15'33.3" DEG, E020 39'25.8" DEG). OVER MULZA DESCEND TO 4000. THEN PROCEED TO FAP ILS Z RWY 11 OR FAF VOR Z RWY 11, EXECUTE APPROACH AND LAND. IF LANDING IS NOT POSSIBLE, EXECUTE MISSED APPROACH AND PROCEED TO FAP/FAF OF MOST CONVENIENT RWY, EXECUTE APPROACH AND LAND"</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>V0233/22</number>
+		<class>Military</class>
+		<issue_date>05/17/2022 1040</issue_date>
+		<effective_date>05/18/2022 2259</effective_date>
+		<expiry_date>06/15/2022 2301</expiry_date>
+		<notam_body>V0233/22 NOTAMN 
+Q) EPWW/QPILT/I/BO/A/000/999/5209N02058E005 
+A) EPWA 
+B) 2205182259 
+C) 2206152301 
+E) [US DOD PROCEDURAL NOTAM] STANDARD INSTRUMENT DEPARTURE (SID) LIMITED RNAV1 SID RWY 11; BAMSO 5A TRANSITION NOT AUTHORIZED</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>V0234/22</number>
+		<class>Military</class>
+		<issue_date>05/17/2022 1041</issue_date>
+		<effective_date>05/18/2022 2259</effective_date>
+		<expiry_date>06/15/2022 2301</expiry_date>
+		<notam_body>V0234/22 NOTAMN 
+Q) EPWW/QPILT/I/BO/A/000/999/5209N02058E005 
+A) EPWA 
+B) 2205182259 
+C) 2206152301 
+E) [US DOD PROCEDURAL NOTAM] STANDARD INSTRUMENT DEPARTURE (SID) LIMITED RNAV1 SID RWY 15; BAMSO 5D TRANSITION NOT AUTHORIZED</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>V0235/22</number>
+		<class>Military</class>
+		<issue_date>05/17/2022 1042</issue_date>
+		<effective_date>05/18/2022 2259</effective_date>
+		<expiry_date>06/15/2022 2301</expiry_date>
+		<notam_body>V0235/22 NOTAMN 
+Q) EPWW/QPIAU/I/BO/A/000/999/5209N02058E005 
+A) EPWA 
+B) 2205182259 
+C) 2206152301 
+E) [US DOD PROCEDURAL NOTAM] INSTRUMENT APPROACH PROCEDURE NOT AUTHORIZED ILS Z OR LOC Z RWY 33; ILS Z RWY 33 (CAT II); DO NOT USE</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>2/5503</number>
+		<class>Procedure</class>
+		<issue_date>06/07/2022 2253</issue_date>
+		<effective_date>06/08/2022 1200</effective_date>
+		<expiry_date>06/15/2022 2253</expiry_date>
+		<notam_body>!FDC 2/5503 JFK SID JOHN F KENNEDY INTL, New York, NY.
+KENNEDY FIVE DEPARTURE...
+NOTE: COATE DEPARTURES NA EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+SAX VORTAC OUT OF SERVICE. 2206081200-2206152253EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/5585</number>
+		<class>Procedure</class>
+		<issue_date>06/08/2022 0144</issue_date>
+		<effective_date>06/08/2022 1300</effective_date>
+		<expiry_date>06/15/2022 0143</expiry_date>
+		<notam_body>!FDC 2/5585 LAX SID LOS ANGELES INTL, LOS ANGELES, CA.
+LAXX ONE DEPARTURE...
+THERMAL TRANSITION NA EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+POM VORTAC OUT OF SERVICE. 2206081300-2206150143EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/061</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2217</issue_date>
+		<effective_date>06/14/2022 0901</effective_date>
+		<expiry_date>06/14/2022 1230</expiry_date>
+		<notam_body>!LAX 06/061 LAX TWY C BTN TWY C10 AND GATE 58 CLSD 2206140901-2206141230</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/060</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2215</issue_date>
+		<effective_date>06/14/2022 0901</effective_date>
+		<expiry_date>06/14/2022 1230</expiry_date>
+		<notam_body>!LAX 06/060 LAX APRON TXL C9 CLSD 2206140901-2206141230</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0982/22</number>
+		<class>International</class>
+		<issue_date>05/03/2022 1549</issue_date>
+		<effective_date>06/14/2022 0600</effective_date>
+		<expiry_date>06/14/2022 1000</expiry_date>
+		<notam_body>A0982/22 NOTAMN
+Q) LOVV/QFGAS/IV/M  /A /000/999/4807N01634E005
+A) LOWW B) 2206140600 C) 2206141000
+E) A-SMGCS (ADVANCED SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM)  
+ASTOS UNSERVICEABLE. EXPECT LIMITED CAPACITY ON GROUND.</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/057</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2208</issue_date>
+		<effective_date>06/14/2022 0730</effective_date>
+		<expiry_date>06/14/2022 0900</expiry_date>
+		<notam_body>!LAX 06/057 LAX TWY B BTN TWY C8 AND TWY C10 CLSD 2206140730-2206140900</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/058</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2209</issue_date>
+		<effective_date>06/14/2022 0730</effective_date>
+		<expiry_date>06/14/2022 0900</expiry_date>
+		<notam_body>!LAX 06/058 LAX TWY B7 BTN RWY 07L/25R AND TWY B CLSD 2206140730-2206140900</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/4394</number>
+		<class>Procedure</class>
+		<issue_date>06/06/2022 0856</issue_date>
+		<effective_date>06/07/2022 1500</effective_date>
+		<expiry_date>06/14/2022 0854</expiry_date>
+		<notam_body>!FDC 2/4394 LAX SID LOS ANGELES INTL, LOS ANGELES, CA.
+GORMAN SEVEN DEPARTURE...
+DEPARTURE PROCEDURE NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+GMN VORTAC OUT OF SERVICE. 2206071500-2206140854EST</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>2/4397</number>
+		<class>Procedure</class>
+		<issue_date>06/06/2022 0856</issue_date>
+		<effective_date>06/07/2022 1500</effective_date>
+		<expiry_date>06/14/2022 0854</expiry_date>
+		<notam_body>!FDC 2/4397 LAX SID LOS ANGELES INTL, LOS ANGELES, CA.
+CHATY FIVE DEPARTURE...
+GORMAN TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+GMN VORTAC OUT OF SERVICE. 2206071500-2206140854EST</notam_body>
+	</notam>
+	<notam>
+		<location>DPK</location>
+		<number>06/062</number>
+		<class>Navaid</class>
+		<issue_date>06/07/2022 1221</issue_date>
+		<effective_date>06/13/2022 1200</effective_date>
+		<expiry_date>06/13/2022 1600</expiry_date>
+		<notam_body>!ISP 06/062 DPK NAV DME U/S 2206131200-2206131600</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/054</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 2202</issue_date>
+		<effective_date>06/11/2022 0800</effective_date>
+		<expiry_date>06/12/2022 1300</expiry_date>
+		<notam_body>!LAX 06/054 LAX RWY 07L/25R CLSD DLY 0800-1300 2206110800-2206121300</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1816/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 1154</issue_date>
+		<effective_date>06/09/2022 2330</effective_date>
+		<expiry_date>06/12/2022 0330</expiry_date>
+		<notam_body>A1816/22 NOTAMN
+Q) EPWW/QMRLC/IV/NBO/A /000/999/5005N01947E005
+A) EPKK B) 2206092330 C) 2206120330
+D) 2330-0330
+E) RWY 07/25 CLSD DUE TO WIP.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1702/22</number>
+		<class>International</class>
+		<issue_date>06/01/2022 0950</issue_date>
+		<effective_date>06/11/2022 2130</effective_date>
+		<expiry_date>06/11/2022 2200</expiry_date>
+		<notam_body>A1702/22 NOTAMN
+Q) EPWW/QXXXX/IV/NBO/AW/000/020/5213N02047E001
+A) EPWA B) 2206112130 C) 2206112200
+E) NAVIGATION WARNING.
+LASERS (4 MULTICOLOUR): 521258.952N 0204646.987E OLTARZEW 
+ANGLE OF BEAM: 30 DEG,
+RANGE: 1500M/2000FT AMSL
+CONTACT: +48 535 016 925
+F) GND G) 2000FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/048</number>
+		<class>Airspace</class>
+		<issue_date>06/06/2022 2345</issue_date>
+		<effective_date>06/11/2022 0300</effective_date>
+		<expiry_date>06/11/2022 1800</expiry_date>
+		<notam_body>!LAX 06/048 LAX AIRSPACE SEE FDC 2/5019 ZLA 91.141 VIP TFR 2206110300-2206111800</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1824/22</number>
+		<class>International</class>
+		<issue_date>06/04/2022 1011</issue_date>
+		<effective_date>06/11/2022 0600</effective_date>
+		<expiry_date>06/11/2022 1400</expiry_date>
+		<notam_body>A1824/22 NOTAMN 
+Q) FAJA/QWALW/IV/M/AW/000/060/2641S02818E005
+A) FAOR B) 2206110600 C) 2206111400
+E) BRAKPAN-BENONI: FLY-IN TAKING PLACE
+F) GND G) 6000 FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/016</number>
+		<class>Airspace</class>
+		<issue_date>06/01/2022 2106</issue_date>
+		<effective_date>06/01/2022 2107</effective_date>
+		<expiry_date>06/11/2022 0700</expiry_date>
+		<notam_body>!LAX 06/016 LAX AIRSPACE SEE CALIFORNIA SUMMIT OF THE AMERICAS DOMESTIC NOTICE 2206012107-2206110700</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/053</number>
+		<class>Airspace</class>
+		<issue_date>06/07/2022 1459</issue_date>
+		<effective_date>06/10/2022 0500</effective_date>
+		<expiry_date>06/11/2022 0330</expiry_date>
+		<notam_body>!LAX 06/053 LAX AIRSPACE SEE FDC 2/5016 ZLA 91.141 VIP TFR 2206100500-2206110330</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>05/184</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 2349</issue_date>
+		<effective_date>05/21/2022 0700</effective_date>
+		<expiry_date>06/10/2022 2330</expiry_date>
+		<notam_body>!LAX 05/184 LAX OBST CRANE (ASN 2021-AWP-3206-NRA) 335640N1182419W (0.2NM NE LAX) 335FT (230FT AGL) FLAGGED AND LGTD DLY 0700-2330 2205210700-2206102330</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>05/185</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 2349</issue_date>
+		<effective_date>05/21/2022 0700</effective_date>
+		<expiry_date>06/10/2022 2330</expiry_date>
+		<notam_body>!LAX 05/185 LAX OBST CRANE (ASN 2021-AWP-3207-NRA) 335641N1182410W (0.3NM ENE LAX) 335FT (230FT AGL) FLAGGED AND LGTD DLY 0700-2330 2205210700-2206102330</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>05/186</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 2350</issue_date>
+		<effective_date>05/21/2022 0700</effective_date>
+		<expiry_date>06/10/2022 2330</expiry_date>
+		<notam_body>!LAX 05/186 LAX OBST CRANE (ASN 2021-AWP-3209-NRA) 335639N1182410W (0.3NM ENE LAX) 335FT (230FT AGL) FLAGGED AND LGTD DLY 0700-2330 2205210700-2206102330</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>05/187</number>
+		<class>Obstruction</class>
+		<issue_date>05/20/2022 2352</issue_date>
+		<effective_date>05/21/2022 0700</effective_date>
+		<expiry_date>06/10/2022 2330</expiry_date>
+		<notam_body>!LAX 05/187 LAX OBST CRANE (ASN 2021-AWP-3216-NRA) 335638N1182419W (0.2NM ENE LAX) 335FT (230FT AGL) FLAGGED AND LGTD DLY 0700-2330 2205210700-2206102330</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>06/070</number>
+		<class>Obstruction</class>
+		<issue_date>06/06/2022 1517</issue_date>
+		<effective_date>06/06/2022 1517</effective_date>
+		<expiry_date>06/10/2022 2200</expiry_date>
+		<notam_body>!JFK 06/070 JFK OBST CRANE (ASN 2021-AEA-1084-NRA) 403853N0734746W (0.9NM WNW JFK) 143FT (130FT AGL) FLAGGED AND LGTD 2206061517-2206102200</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0434/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 0316</issue_date>
+		<effective_date>06/10/2022 1530</effective_date>
+		<expiry_date>06/10/2022 2020</expiry_date>
+		<notam_body>A0434/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2206101530 C) 2206102020
+E) TWY C(BTN P AND E6) E5(BTN K AND E5-GWY) E4-GWY E5-GWY
+-CLSD DUE TO CONST</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1728/22</number>
+		<class>International</class>
+		<issue_date>06/02/2022 0646</issue_date>
+		<effective_date>06/02/2022 0645</effective_date>
+		<expiry_date>06/10/2022 2000</expiry_date>
+		<notam_body>A1728/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /A /000/999/5005N01948E005
+A) EPKK B) 2206020645 C) 2206102000
+D) 0400-2000
+E) CONCRETE PUMP OPERATING ON POSITION:
+500433.7789N 0194821.537E
+615M SOUTH EAST FM THR 25 AND 503M FM RCL.
+HGT 98FT AGL/862FT AMSL. 
+DAY AND NIGHT MARKINGS PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>LOWW</location>
+		<number>A0962/22</number>
+		<class>International</class>
+		<issue_date>05/01/2022 1459</issue_date>
+		<effective_date>05/02/2022 0500</effective_date>
+		<expiry_date>06/10/2022 1600</expiry_date>
+		<notam_body>A0962/22 NOTAMN
+Q) LOVV/QMXLT/IV/M  /A /000/999/4807N01634E005
+A) LOWW B) 2205020500 C) 2206101600
+E) TAXILANE 38 WEST OF PARKING STAND F51 RESTRICTED TO MAX WINGSPAN 
+36 M</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1809/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 0852</issue_date>
+		<effective_date>06/09/2022 0530</effective_date>
+		<expiry_date>06/10/2022 1600</expiry_date>
+		<notam_body>A1809/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /AE/000/999/5210N02058E005
+A) EPWA B) 2206090530 C) 2206101600
+D) 0530-1600
+E) MOBILE CRANE PSN: 521013.28N 0205923.71E, 440M BEFORE THR 29
+ALONG RCL AND 1114M RIGHT FM RCL WHEN APPROACHING RWY 29.
+HGT 196FT AGL/541FT AMSL.
+DAY MARKING PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1810/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 0901</issue_date>
+		<effective_date>06/09/2022 0530</effective_date>
+		<expiry_date>06/10/2022 1600</expiry_date>
+		<notam_body>A1810/22 NOTAMN
+Q) EPWW/QPOCH/I /NBO/A /000/999/5210N02058E005
+A) EPWA B) 2206090530 C) 2206101600
+D) 0530-1600
+E) DUE TO OBSTACLE (SEE NTM A1809/22) CHANGE OF OCA/OCH VALUES IN
+PROCEDURE:
+- VOR RWY 29 FM 750(404) TO 790(444) WHEN SDF RECEIVED,
+- RNP RWY 29 FOR LNAV/VNAV MINIMA:
+CAT A FM 640 (294) TO 680 (334)
+CAT B FM 660 (314) TO 690 (344)
+CAT C FM 670 (324) TO 700 (354)
+CAT D FM 680 (334) TO 710 (364).</notam_body>
+	</notam>
+	<notam>
+		<location>FAOR</location>
+		<number>A1845/22</number>
+		<class>International</class>
+		<issue_date>06/06/2022 1348</issue_date>
+		<effective_date>06/07/2022 0600</effective_date>
+		<expiry_date>06/10/2022 1500</expiry_date>
+		<notam_body>A1845/22 NOTAMN 
+Q) FAJA/QMXHW/IV/M/A/000/999/2608S02815E005
+A) FAOR B) 2206070600 C) 2206101500
+D) DLY 0600-1500
+E) WIP ALONG TWY C.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1811/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 0902</issue_date>
+		<effective_date>06/10/2022 0500</effective_date>
+		<expiry_date>06/10/2022 1500</expiry_date>
+		<notam_body>A1811/22 NOTAMN
+Q) EPWW/QOBCE/IV/M  /AE/000/999/5212N02058E005
+A) EPWA B) 2206100500 C) 2206101500
+E) MOBILE CRANE PSN: 521147.40N 0205745.80E, 1535M BEFORE THR 15
+ALONG RCL AND 1354M LEFT FM RCL WHEN APPROACHING RWY 15.
+HGT 250FT AGL/612FT AMSL.
+DAY MARKING PROVIDED.</notam_body>
+	</notam>
+	<notam>
+		<location>EPWA</location>
+		<number>A1812/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 0907</issue_date>
+		<effective_date>06/10/2022 0500</effective_date>
+		<expiry_date>06/10/2022 1500</expiry_date>
+		<notam_body>A1812/22 NOTAMN
+Q) EPWW/QPOCH/I /NBO/A /000/999/5210N02058E005
+A) EPWA B) 2206100500 C) 2206101500
+E) DUE TO OBSTACLE (SEE NTM A1811/22) CHANGE OF OCA/OCH VALUES IN 
+PROCEDURE:
+RNP RWY 15 FOR LNAV/VNAV MINIMA:
+- CAT A FM 640(288) TO 690(338)
+- CAT B FM 650(298) TO 700(348)
+- CAT C FM 660(308) TO 710(358)
+- CAT D FM 680(328) TO 710(358)
+VOR Y RWY 11 FM 770(408) TO 800(438).</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/041</number>
+		<class>Aerodrome</class>
+		<issue_date>06/03/2022 1652</issue_date>
+		<effective_date>06/07/2022 0730</effective_date>
+		<expiry_date>06/10/2022 1330</expiry_date>
+		<notam_body>!LAX 06/041 LAX TWY P BTN TWY C AND TWY N2 CLSD DLY 0730-1330 2206070730-2206101330</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/044</number>
+		<class>Aerodrome</class>
+		<issue_date>06/03/2022 1709</issue_date>
+		<effective_date>06/10/2022 0800</effective_date>
+		<expiry_date>06/10/2022 1200</expiry_date>
+		<notam_body>!LAX 06/044 LAX TWY C BTN TWY C10 AND GATE 59 CLSD 2206100800-2206101200</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/042</number>
+		<class>Aerodrome</class>
+		<issue_date>06/03/2022 1655</issue_date>
+		<effective_date>06/10/2022 0800</effective_date>
+		<expiry_date>06/10/2022 1200</expiry_date>
+		<notam_body>!LAX 06/042 LAX TWY C9 BTN TWY B AND TWY C CLSD 2206100800-2206101200</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/043</number>
+		<class>Aerodrome</class>
+		<issue_date>06/03/2022 1656</issue_date>
+		<effective_date>06/10/2022 0800</effective_date>
+		<expiry_date>06/10/2022 1200</expiry_date>
+		<notam_body>!LAX 06/043 LAX APRON TXL C9 CLSD 2206100800-2206101200</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/049</number>
+		<class>Airspace</class>
+		<issue_date>06/06/2022 2351</issue_date>
+		<effective_date>06/08/2022 2000</effective_date>
+		<expiry_date>06/10/2022 0600</expiry_date>
+		<notam_body>!LAX 06/049 LAX AIRSPACE SEE FDC 2/5015 ZLA 91.141 VIP TFR 2206082000-2206100600</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0347/22</number>
+		<class>International</class>
+		<issue_date>05/11/2022 1741</issue_date>
+		<effective_date>05/11/2022 1741</effective_date>
+		<expiry_date>06/10/2022 0000</expiry_date>
+		<notam_body>A0347/22 NOTAMN
+Q) RJJJ/QOLAS/IV/M/AE/000/004/3552N14012E005
+A) RJAA B) 2205111741 C) 2206100000
+E) OBST LGT ON POWER LINE TOWER-U/S
+PSN : 355137.6N1401144.2E (KITASOMA-GUN IN IBARAKI)
+F) SFC G) 313FT AMSL</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0426/22</number>
+		<class>International</class>
+		<issue_date>06/06/2022 0142</issue_date>
+		<effective_date>06/09/2022 1330</effective_date>
+		<expiry_date>06/09/2022 2030</expiry_date>
+		<notam_body>A0426/22 NOTAMN
+Q) RJJJ/QNDAS/IV/BO/A/000/999/3546N14023E005
+A) RJAA B) 2206091330 C) 2206092030
+E) MORIYA DME/SND-U/S DUE TO MAINT</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0433/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 0311</issue_date>
+		<effective_date>06/09/2022 1530</effective_date>
+		<expiry_date>06/09/2022 2020</expiry_date>
+		<notam_body>A0433/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2206091530 C) 2206092020
+E) TWY Q(FM SPOT 205 TO Q7) Q5(FM SPOT 16 TO INT OF Q) Q7(INT OF Q)
+-CLSD DUE TO CONST</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1501/22</number>
+		<class>International</class>
+		<issue_date>05/14/2022 1146</issue_date>
+		<effective_date>06/09/2022 0600</effective_date>
+		<expiry_date>06/09/2022 1400</expiry_date>
+		<notam_body>A1501/22 NOTAMN
+Q) EPWW/QICCT/I /NBO/A /000/999/5005N01948E005
+A) EPKK B) 2206090600 C) 2206091400
+E) ILS AND DME KRW RWY 25 OPERATING ON TEST DUE TO MAINT. DO NOT USE.</notam_body>
+	</notam>
+	<notam>
+		<location>EPKK</location>
+		<number>A1801/22</number>
+		<class>International</class>
+		<issue_date>06/07/2022 0539</issue_date>
+		<effective_date>06/09/2022 0600</effective_date>
+		<expiry_date>06/09/2022 1400</expiry_date>
+		<notam_body>A1801/22 NOTAMN
+Q) EPWW/QPIAU/I /NBO/A /000/999/5005N01947E005
+A) EPKK B) 2206090600 C) 2206091400
+E) DUE TO UNSERVICEABILITY OF LOC AND DME KRW THE FOLLOWING 
+INSTRUMENT 
+APPROACH PROCEDURES NOT AVAILABLE:
+ILS OR LOC RWY 25.</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/009</number>
+		<class>Aerodrome</class>
+		<issue_date>06/01/2022 1535</issue_date>
+		<effective_date>06/06/2022 0730</effective_date>
+		<expiry_date>06/09/2022 1330</expiry_date>
+		<notam_body>!LAX 06/009 LAX RWY 07R/25L CLSD DLY 0730-1330 2206060730-2206091330</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/038</number>
+		<class>Obstruction</class>
+		<issue_date>06/02/2022 1952</issue_date>
+		<effective_date>06/08/2022 1300</effective_date>
+		<expiry_date>06/09/2022 0100</expiry_date>
+		<notam_body>!LAX 06/038 LAX OBST CRANE (ASN 2021-AWP-3315-NRA) 335623N1182425W (0.2NM SSE LAX) 210FT (90FT AGL) FLAGGED AND LGTD 2206081300-2206090100</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>06/085</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 1829</issue_date>
+		<effective_date>06/07/2022 1829</effective_date>
+		<expiry_date>06/08/2022 2200</expiry_date>
+		<notam_body>!JFK 06/085 JFK TWY B BTN TWY TB AND TWY U CLSD 2206071829-2206082200</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0425/22</number>
+		<class>International</class>
+		<issue_date>06/03/2022 1100</issue_date>
+		<effective_date>06/07/2022 1530</effective_date>
+		<expiry_date>06/08/2022 2020</expiry_date>
+		<notam_body>A0425/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2206071530 C) 2206082020
+D) 1530/2020
+E) TWY K(BTN E7 AND E8),U8,E8,U8-GWY,S(BTN T4 AND T3),
+T3(BTN T AND S3-GWY),S3-GWY,W11-CLSD DUE TO CONST</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>06/088</number>
+		<class>Aerodrome</class>
+		<issue_date>06/07/2022 1835</issue_date>
+		<effective_date>06/08/2022 1200</effective_date>
+		<expiry_date>06/08/2022 2000</expiry_date>
+		<notam_body>!JFK 06/088 JFK TWY B BTN TWY KE AND TWY KG, TWY KF BTN TWY A AND TWY B CLSD 2206081200-2206082000</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0432/22</number>
+		<class>International</class>
+		<issue_date>06/08/2022 0307</issue_date>
+		<effective_date>06/08/2022 1530</effective_date>
+		<expiry_date>06/08/2022 2000</expiry_date>
+		<notam_body>A0432/22 NOTAMN
+Q) RJJJ/QMXLC/IV/M/A/000/999/3546N14023E005
+A) RJAA B) 2206081530 C) 2206082000
+E) TWY Q6(FM W6-GWY TO BEHIND SPOT 23),R(BTN Q5 AND Q6) R(FM Q6 TO
+BEHIND SPOT 24) W6-GWY-CLSD DUE TO CONST
+RMK/EXC EMERG ACFT WITH PRIOR PERMISSION AT LEAST 1HR BFR</notam_body>
+	</notam>
+	<notam>
+		<location>RJAA</location>
+		<number>A0409/22</number>
+		<class>International</class>
+		<issue_date>05/31/2022 0604</issue_date>
+		<effective_date>06/08/2022 1445</effective_date>
+		<expiry_date>06/08/2022 1730</expiry_date>
+		<notam_body>A0409/22 NOTAMN
+Q) RJJJ/QFMAU/IV/BO/A/000/999/3546N14023E005
+A) RJAA B) 2206081445 C) 2206081730
+E) LOW LVL WIND SHEAR ADVS NOT PROVIDED DUE TO MAINT</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>06/063</number>
+		<class>Obstruction</class>
+		<issue_date>06/07/2022 2316</issue_date>
+		<effective_date>06/08/2022 0600</effective_date>
+		<expiry_date>06/08/2022 1300</expiry_date>
+		<notam_body>!LAX 06/063 LAX OBST CRANE (ASN 2021-AWP-1534-NRA) 335644N1182425W (0.2NM NNE LAX) 391FT (270FT AGL) FLAGGED AND LGTD 2206080600-2206081300</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>LTA-SCT-35</number>
+		<class>LTA</class>
+		<issue_date>11/16/2020 2115</issue_date>
+		<effective_date>11/26/2020 1200</effective_date>
+		<expiry_date>11/26/2022 1200</expiry_date>
+		<notam_body>SCT Practice Instrument Approaches</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>LTA-LAX-16</number>
+		<class>LTA</class>
+		<issue_date>02/25/2021 1616</issue_date>
+		<effective_date>02/25/2021 2000</effective_date>
+		<expiry_date>02/24/2023 0900</expiry_date>
+		<notam_body>Preferred Taxi Routes</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>LTA-OSGW-104</number>
+		<class>LTA</class>
+		<issue_date>09/03/2021 1748</issue_date>
+		<effective_date>09/04/2021 1200</effective_date>
+		<expiry_date>09/03/2023 1200</expiry_date>
+		<notam_body>Beacon Codes for Helicopter Operations within the Los Angeles Region</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>LTA-SCT-46</number>
+		<class>LTA</class>
+		<issue_date>12/21/2021 1651</issue_date>
+		<effective_date>12/23/2021 1200</effective_date>
+		<expiry_date>12/23/2023 1200</expiry_date>
+		<notam_body>Hawthorne Municipal Airport (HHR) IFR Departures and Los Angeles Airport (LAX) IFR Arrivals</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>LTA-N90-91</number>
+		<class>LTA</class>
+		<issue_date>01/03/2022 1229</issue_date>
+		<effective_date>01/12/2022 0000</effective_date>
+		<expiry_date>01/12/2024 0000</expiry_date>
+		<notam_body>Climb and Descent Performance, Transponder Usage and Speed Adjustments</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>LTA-N90-97</number>
+		<class>LTA</class>
+		<issue_date>01/03/2022 1236</issue_date>
+		<effective_date>01/12/2022 0000</effective_date>
+		<expiry_date>01/12/2024 0000</expiry_date>
+		<notam_body>Arrival Aircraft Operating Outside New York Class B Airspace</notam_body>
+	</notam>
+	<notam>
+		<location>JFK</location>
+		<number>LTA-N90-98</number>
+		<class>LTA</class>
+		<issue_date>01/03/2022 1237</issue_date>
+		<effective_date>01/12/2022 0000</effective_date>
+		<expiry_date>01/12/2024 0000</expiry_date>
+		<notam_body>Availability of RNAV Approaches at John F. Kennedy International Airport (JFK)</notam_body>
+	</notam>
+	<notam>
+		<location>GYR</location>
+		<number>LTA-P50-54</number>
+		<class>LTA</class>
+		<issue_date>04/01/2022 1731</issue_date>
+		<effective_date>04/06/2022 1200</effective_date>
+		<expiry_date>04/05/2024 1200</expiry_date>
+		<notam_body>FAA Aircraft Wake Turbulence Re-Categorization (RECAT) Consolidated Wake Turbulence Radar Separation Standards (CWT) Implementation within Phoenix Terminal Radar Approach Control (TRACON) and Luke Air Force Base (AFB) Radar Approach Control (RAPCON) Airspace</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>LTA-SCT-48</number>
+		<class>LTA</class>
+		<issue_date>05/26/2022 2022</issue_date>
+		<effective_date>05/27/2022 1200</effective_date>
+		<expiry_date>05/26/2024 1200</expiry_date>
+		<notam_body>Los Angeles International Airport (LAX) ZILLI Departure Procedure</notam_body>
+	</notam>
+	<notam>
+		<location>LAX</location>
+		<number>LTA-SCT-52</number>
+		<class>LTA</class>
+		<issue_date>05/31/2022 1902</issue_date>
+		<effective_date>06/05/2022 1200</effective_date>
+		<expiry_date>06/12/2022 1200</expiry_date>
+		<notam_body>VIP Temporary Flight Restrictions (TFR)</notam_body>
+	</notam>
+</notam_list>
