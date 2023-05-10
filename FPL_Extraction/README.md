@@ -25,3 +25,13 @@ The objective is to extract:
 - Destination alternate
 - Enroute alternates
 - FIRs crossed
+
+The output is a Python dictionary with the following structure:
+```python
+{'adep': 'SBFZ',
+ 'ades': 'LPPT',
+ 'dalts': ['LPFR'],
+ 'firs': ['SBAO', 'GOOO', 'BUXO', 'NELT', 'GVSC', 'AMDO', 'IRED', 'TENP', 'GCCC', 'GMMM', 'LPPC'],
+ 'ralts': ['SBFZ', 'GVAC'],
+ 'talt': 'SBSG'}
+```
