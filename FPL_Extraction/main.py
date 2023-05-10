@@ -12,11 +12,24 @@ def validate_fpl(path):
         fpl = file.read()
         fpl = re.search(findFplMessage, fpl)
         if fpl:
-            return fpl.group()
+            message = fpl.group()
         else:
             return 'Invalid FPL message'
+
+        # remove all `\n` characters
+        message = message.replace('\n', '')
+
+        return message
+
+
+# Extract the fields from the FPL message
+def extract_fpl_fields(fpl):
+    fpl_fields = re.findall(findFplFields, fpl)
+    return fpl_fields
 
 
 # if the script is running from the main directory, execute the extract function
 if __name__ == "__main__":
-    print(validate_fpl('Sample_Data/5.txt'))
+    fpl = validate_fpl('Sample_Data/5.txt')
+    print(fpl)
+    print(extract_fpl_fields(fpl))
