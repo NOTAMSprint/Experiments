@@ -2,9 +2,9 @@ import re
 
 
 # Regular expressions used to extract the data
-findFplMessage = '\(FPL[A-Za-z0-9\-\s\/]*\)'
-findFplFields = '\-[A-Za-z0-9\/\s]*'
-findIcaoCode = '[A-Za-z]{4}'
+findFplMessage = r'\(FPL[A-Za-z0-9\-\s\/]*\)'
+findFplFields = r'\-[A-Za-z0-9\/\s]*'
+findIcaoCode = r'[A-Za-z]{4}'
 
 
 # Isolate and broadly validate the input FPL message
@@ -36,7 +36,7 @@ def extract_fpl_fields(fpl):
     # extract field 16
     field_16 = fpl_fields[6]
     # extract the destination airport from field 16
-    flightplan['ades'] = re.search('([A-Za-z]{4})[0-9]{4}', field_16).group(1)
+    flightplan['ades'] = re.search(r'([A-Za-z]{4})[0-9]{4}', field_16).group(1)
     # extract all alternate airports from field 16
     flightplan['dalts'] = re.findall(findIcaoCode, field_16)[1:]
 
@@ -44,14 +44,14 @@ def extract_fpl_fields(fpl):
     field_18 = fpl_fields[7]
 
     # find the EET section in field 18
-    eet = re.search('EET\/([A-Za-z0-9\s]*)\s{1}[A-Za-z]+\/', field_18).group(1)
+    eet = re.search(r'EET\/([A-Za-z0-9\s]*)\s{1}[A-Za-z]+\/', field_18).group(1)
     # extract all FIR codes
-    firs = re.findall(findIcaoCode, eet)
+    firs = re.findall(r'\b([A-Za-z]{4})[0-9]{4}', eet)
     # remove duplicates and assign to flightplan
     flightplan['firs'] = list(dict.fromkeys(firs))
 
     # find the RALT section in field 18
-    ralt = re.search('RALT\/([A-Za-z0-9\s]*)\s{1}[A-Za-z]+\/', field_18)
+    ralt = re.search(r'RALT\/([A-Za-z0-9\s]*)\s{1}[A-Za-z]+\/', field_18)
     if ralt:
         ralt = ralt.group(1)
         # extract all enroute alternates
@@ -60,7 +60,7 @@ def extract_fpl_fields(fpl):
         flightplan['ralts'] = []
 
     #find the TALT section in field 18
-    talt = re.search('TALT\/([A-Za-z0-9\s]*)\s{1}[A-Za-z]+\/', field_18)
+    talt = re.search(r'TALT\/([A-Za-z0-9\s]*)\s{1}[A-Za-z]+\/', field_18)
     if talt:
         talt = talt.group(1)
         # extract the takeoff alternate
