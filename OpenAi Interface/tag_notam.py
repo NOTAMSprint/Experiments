@@ -5,9 +5,10 @@ To send the notam to openai GPT-4 endpoint and get tags
 import requests
 import json
 import os
-import backoff
+# import backoff
 import openai
 import re
+from pprint import pprint
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -31,11 +32,11 @@ def get_notam_from_icao(station):
     parameters = {
         'api_key': key,
         'format': 'json',
-        'criticality': '1',
         'locations': station,
     }
 
     response = requests.get(url, params=parameters)
+    # pprint(response.json())
     return response.json()
 
 
@@ -68,11 +69,14 @@ def parse_response(response_json):
         else:
             body = parse_american_notams(notam['all'])
 
+        raw_text = notam['all']
+
 
         notam_data = {
             'airport_code' : airport_code,
             'notam_id': notam_id,
-            'body': body
+            'body': body,
+            'raw_text': raw_text
         }
         notams_li.append(notam_data)
 
@@ -85,9 +89,7 @@ def create_message(tags_li: list, notam: dict):
 
     # Make call to openai to summarise the notam
     content_string = f"""
-    You are a tagging system that applies tags to NOTAMs. You only choose from the following tgas:
-    {tags_li}. Only choose the closest tag.
-    Return a json string with the following keys: NOTAM_ID, Tags, seven_word_summary
+    You are a tagging system that applies tags to NOTAMs. You only choose from the following tags: {tags_li}. Only choose one tag. Return a json string with the following keys: NOTAM_ID, Tags, seven_word_summary
     """
     station = notam['airport_code']
     notam_id = notam['notam_id']
@@ -106,7 +108,7 @@ def create_message(tags_li: list, notam: dict):
     return messages
 
 
-@backoff.on_exception(backoff.expo, Exception, max_tries=20)
+# @backoff.on_exception(backoff.expo, Exception, max_tries=20)
 def ask_openai(messages, model="gpt-3.5-turbo", temperature=0.0):
     """ Sends call to OpenAI API to summarise and translate into plain English the notam."""
 
@@ -122,7 +124,7 @@ def ask_openai(messages, model="gpt-3.5-turbo", temperature=0.0):
 
     return response['choices'][0]['message']['content']
 
-def tag_one_station(station):
+def process_one_station(station, tags_li):
     """
     Tags all the notams for a station
     :param station:
@@ -132,6 +134,7 @@ def tag_one_station(station):
 
     response_json = get_notam_from_icao(station)
     notams_li = parse_response(response_json)
+    # pprint(notams_li)
     tagged_notams_li = []
     num_notams = len(notams_li)
     print(f'Number of notams: {num_notams}')
@@ -141,15 +144,19 @@ def tag_one_station(station):
         print(f'Tagging notam {i} of {num_notams}')
         messages = create_message(tags_li=tags_li, notam=notam)
         tagged_notam = ask_openai(messages, model="gpt-3.5-turbo", temperature=0.0)
+
+        raw_text = notam['raw_text']
+        # Add a new key to the respon
+
         tagged_notams_li.append(tagged_notam)
         i += 1
 
     print(f'Tagging complete for {station}')
 
-    print(tagged_notams_li)
+    return tagged_notams_li
 
 
 
 
-tag_one_station('YBAS')
+process_one_station('YBAS', tags_li)
 
