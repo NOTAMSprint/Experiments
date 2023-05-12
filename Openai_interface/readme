@@ -3,12 +3,11 @@ Two scripts available
 classifier.py - tags and summarises in two steps. Retrieves notams from the DINS endpoint by station ID and notam ID
 
 tag_notam.py - tags and summarises in one step. Retrieves notams from the ICAO endpoint (which is a wrapper for DINS anyway). Retrieves notams based on station ID only.
+  - Saves a json file (a list of dicts) with each notam having one dictionary with the keys: notam_id, tags, 7_word_summary, body, raw_text, station
 
 Neither file has any saving to database logic
 
 Next steps:
-  - Will need to also store the raw notam after it is retrieved from the notam source
-  - Then marry the tag and summary with the raw notam text
   - Then save to a database
   
 Next next steps:
