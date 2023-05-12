@@ -1,0 +1,29 @@
+[
+    {
+        "NOTAM_ID": "F1104/23",
+        "Tags": [
+            "Fire & Rescue"
+        ],
+        "seven_word_summary": "Fire and Rescue CAT 7 OPR HR",
+        "raw_text": "F1104/23 NOTAMN\nQ) YMMM/QFFAH/IV/BO/A/000/999/2349S13354E005\nA) YBAS\nB) 2304012345 C) PERM\nE) FIRE AND RESCUE CAT 7 OPR HR\nMON-FRI 2220-0915\n    SAT 2220-0830\n    SUN 2345-0915\nCREATED: 27 Mar 2023 23:56:00 \nSOURCE: YBBBZEZX",
+        "station": "YBAS"
+    },
+    {
+        "NOTAM_ID": "H2898/23",
+        "Tags": [
+            "Runway length"
+        ],
+        "seven_word_summary": "Changes to declared distances and runway slopes.",
+        "raw_text": "H2898/23 NOTAMN\nQ) YMMM/QMDCH/IV/NBO/A/000/999/2349S13354E005\nA) YBAS\nB) 2305100104 C) PERM\nE) DECLARED DISTANCE AND GRADIENT CHANGES\nRWY TORA       TODA             ASDA       LDA\n17  1133(3717) 1193(3914)(1.2)  1133(3717) 1133(3717)\n35  1133(3717) 1193(3914)(3.72) 1133(3717) 1133(3717)\nSLOPE 0.2(PERCENT) DOWN TO S. RWY WID 18 RWS WID 90.\nSUPPLEMENTARY TKOF DISTANCES\nRWY30- 842(2762)(1.6) 2627(8619)(1.9)\nRWY35- 851(2792)(1.9)  956(3136)(2.2) 1032(3386)(2.5) 1153(3783)(3.3)\nAMD ENR SUP AUSTRALIA (ERSA\nCREATED: 10 May 2023 01:05:00 \nSOURCE: YBBBZEZX",
+        "station": "YBAS"
+    },
+    {
+        "NOTAM_ID": "H2661/23",
+        "Tags": [
+            "Obstacle - Light out"
+        ],
+        "seven_word_summary": "Obstacle light out near YBAS airport",
+        "raw_text": "H2661/23 NOTAMR H2226/23\nQ) YMMM/QOLAS/IV/M/AE/000/999/2349S13354E001\nA) YBAS\nB) 2304280015 C) 2305290600 EST\nE) OBST LGT 2730FT AMSL U/S\nBRG 329 MAG 5.67NM FM ARP (WEST GAP\nCREATED: 28 Apr 2023 00:15:00 \nSOURCE: YBBBZEZX",
+        "station": "YBAS"
+    }
+]

@@ -21,7 +21,7 @@ openai.api_key = OPENAI_KEY
 
 
 
-tags_li = ['ATC status/hours', 'ATC procedure', 'ATC flow and delay', 'Radio', 'Radar & ADS', 'Met', 'Airport status/hours', 'Airport restriction', 'Fire & Rescue', 'Fuel', 'Apron & Parking', 'Airport Facilities', 'Airport Procedure', 'WIP & Construction', 'Approach not available', 'Approach degraded', 'Approach change', 'Runway closed', 'Runway length', 'Runway strength', 'Runway lights', 'Runway condition', 'Runway note', 'Taxiway closed', 'Taxiway restriction', 'Taxiway lights', 'Taxiway condition', 'Taxiway note', 'Navaid status', 'Arrival', 'Departure', 'GPS', 'Route closed', 'Route restriction', 'Route changed', 'Special Use Airspace', 'Special Routes', 'Airspace structure', 'Aircraft activity', 'Explosives', 'Missile, Gun or Rocket Firing', 'Obstacle - New', 'Obstacle - Light out', 'Wildlife', 'Trigger Notam', 'Checklist NOTAM', 'AIP Change', 'AIP Chart Change', 'Flight Planning', 'State Rule', 'Security warnings']
+tags_li = ['atc_status_hours', 'atc_procedure', 'atc_flow_and_delay', 'radio', 'radar_and_ads', 'met', 'airport_status_hours', 'airport_restriction', 'fire_and_rescue', 'fuel', 'apron_and_parking', 'airport_facilities', 'airport_procedure', 'wip_and_construction', 'approach_not_available', 'approach_degraded', 'approach_change', 'runway_closed', 'runway_length', 'runway_strength', 'runway_lights', 'runway_condition', 'runway_note', 'taxiway_closed', 'taxiway_restriction', 'taxiway_lights', 'taxiway_condition', 'taxiway_note', 'navaid_status', 'arrival', 'departure', 'gps', 'route_closed', 'route_restriction', 'route_changed', 'special_use_airspace', 'special_routes', 'airspace_structure', 'aircraft_activity', 'explosives', 'missile_gun_or_rocket_firing', 'obstacle_new', 'obstacle_light_out', 'wildlife', 'trigger_notam', 'checklist_notam', 'aip_change', 'aip_chart_change', 'flight_planning', 'state_rule', 'security_warnings']
 
 
 def get_notam_from_icao(station):
@@ -89,7 +89,7 @@ def create_message(tags_li: list, notam: dict):
 
     # Make call to openai to summarise the notam
     content_string = f"""
-    You are a tagging system that applies tags to NOTAMs. You only choose from the following tags: {tags_li}. Only choose one tag. Return a json string with the following keys: NOTAM_ID, Tags, seven_word_summary
+    You are a tagging system that applies tags to NOTAMs. You only choose from the following tags: {tags_li}. Only choose one tag. Return a json string with the following keys: NOTAM_ID, Tag, seven_word_summary
     """
     station = notam['airport_code']
     notam_id = notam['notam_id']
@@ -125,10 +125,13 @@ def ask_openai(messages, model="gpt-3.5-turbo", temperature=0.0):
     return response['choices'][0]['message']['content']
 
 def save_station(station, tagged_notams_li):
-    """Saves the tagged notams for one station to a json file"""
+    """Saves the tagged notams for one station to a json file in a sub directory of the parent directory called 'json_files_for_airports'"""
 
-    with open(f'{station}_tagged_notams.json', 'w') as f:
+
+    # Save the json file
+    with open(f'json_files_for_airports/{station}.json', 'w') as f:
         json.dump(tagged_notams_li, f, indent=4)
+
 
 def process_one_station(station, tags_li):
     """
@@ -165,7 +168,5 @@ def process_one_station(station, tags_li):
 
 if __name__== '__main__':
     process_one_station('YBAS', tags_li=tags_li)
-
-
 
 
