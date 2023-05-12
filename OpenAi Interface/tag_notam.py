@@ -5,7 +5,7 @@ To send the notam to openai GPT-4 endpoint and get tags
 import requests
 import json
 import os
-# import backoff
+import backoff
 import openai
 import re
 from pprint import pprint
@@ -108,7 +108,7 @@ def create_message(tags_li: list, notam: dict):
     return messages
 
 
-# @backoff.on_exception(backoff.expo, Exception, max_tries=20)
+@backoff.on_exception(backoff.expo, Exception, max_tries=20)
 def ask_openai(messages, model="gpt-3.5-turbo", temperature=0.0):
     """ Sends call to OpenAI API to summarise and translate into plain English the notam."""
 
@@ -124,6 +124,12 @@ def ask_openai(messages, model="gpt-3.5-turbo", temperature=0.0):
 
     return response['choices'][0]['message']['content']
 
+def save_station(station, tagged_notams_li):
+    """Saves the tagged notams for one station to a json file"""
+
+    with open(f'{station}_tagged_notams.json', 'w') as f:
+        json.dump(tagged_notams_li, f, indent=4)
+
 def process_one_station(station, tags_li):
     """
     Tags all the notams for a station
@@ -137,26 +143,29 @@ def process_one_station(station, tags_li):
     # pprint(notams_li)
     tagged_notams_li = []
     num_notams = len(notams_li)
-    print(f'Number of notams: {num_notams}')
+    print(f'Procesing {station}. Number of notams: {num_notams}')
     print('Tagging notams...')
     i = 1
     for notam in notams_li:
-        print(f'Tagging notam {i} of {num_notams}')
+        print(f'\nTagging notam {i} of {num_notams}')
         messages = create_message(tags_li=tags_li, notam=notam)
         tagged_notam = ask_openai(messages, model="gpt-3.5-turbo", temperature=0.0)
+        tagged_notam = json.loads(tagged_notam)
 
         raw_text = notam['raw_text']
-        # Add a new key to the respon
+        # Add a new key to the response from openai
+        tagged_notam['raw_text'] = raw_text
+        tagged_notam['station'] = station
 
         tagged_notams_li.append(tagged_notam)
         i += 1
 
     print(f'Tagging complete for {station}')
+    save_station(station, tagged_notams_li)
 
-    return tagged_notams_li
+if __name__== '__main__':
+    process_one_station('YBAS', tags_li=tags_li)
 
 
 
-
-process_one_station('YBAS', tags_li)
 
