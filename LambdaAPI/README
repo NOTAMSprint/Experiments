@@ -1,0 +1,7 @@
+The lambda_handler.py file is meant to be executed by AWS Lambda.
+It can be connected to an API.
+The function can be tested standalone using the test code provided at the end.
+Of course you need to install openai and requests as libraries.
+
+The notamsprint player is a simple website which can be used to call the API and play with it.
+You need to put the endpoint in the index.js file.

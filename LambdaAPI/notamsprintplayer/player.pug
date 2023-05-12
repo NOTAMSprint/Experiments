@@ -1,0 +1,14 @@
+.container(style="width:900px")
+    h2.text-center NOTAMSPRINT AI Player
+    .mb-3
+        label.form-label OPEN-AI Key
+        input.form-control(type="text",name="openaikey")
+    .mb-3
+        label.form-label Location
+        input.form-control(type="text",name="location")
+    .mb-3
+        label.form-label NOTAM ID
+        input.form-control(type="text",name="notamid")
+    button#submit.btn.btn-info Submit
+    hr
+    #printzone.alert.alert-secondary
