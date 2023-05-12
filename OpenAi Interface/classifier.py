@@ -2,7 +2,6 @@ import openai
 import json
 import requests
 
-openai.api_key = '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'
 
 taglist = [
     ["C1", "ATC status/hours"],
