@@ -1,7 +1,7 @@
 import openai
 import json
 import requests
-
+import re
 
 taglist=[
 ["P1","Airport status/hours","Airport Closed, Airport operating hours, AD AP not available"],
@@ -126,7 +126,8 @@ def classifyone(message,tags):
     )
     predicted_tag = response.choices[0].message.content.strip()
     #print(response)
-    
+    print(predicted_tag)
+
     return predicted_tag
 
 
@@ -146,7 +147,12 @@ def summarize(message,maxwords):
     #print(response)
     predicted_tag = response.choices[0].message.content.strip()
     return predicted_tag
-
+def fixjsonformat(s):
+    newstring=s.replace("\n","")
+    newstring=re.search("{.*}", s.replace("\n","")).group()
+    print(newstring)
+    
+    return newstring
 def tagging(notamid,location):
     #I get the message
     try:
@@ -159,7 +165,7 @@ def tagging(notamid,location):
                 #I ask for the summary
                 #summary=summarize(message,"7")
                 #I ask for the classification
-                res=json.loads(classifyone(message,taglist).replace("\n",""))
+                res=json.loads(fixjsonformat(classifyone(message,taglist)))
                 print(res)
                 newres={}
                 for k in res.keys():
@@ -179,12 +185,13 @@ def tagging_debug(notamid,location):
         value="No active NOTAM found with this ID at "+location
     else:
         message=message[0:400]
-        #I ask for the summary
-        summary=summarize(message,"7")
-        #I ask for the classification
-        c=classifyone(message,taglist)
+        res=json.loads(fixjsonformat(classifyone(message,taglist)))
+        print(res)
+        newres={}
+        for k in res.keys():
+            newres[k.upper()]=res[k]
         #I build the return string
-        value="NOTAM "+location+" "+notamid+": Tag: "+c+";Summary: "+summary
+        value="NOTAM "+location+" "+notamid+": Tag: "+newres["TAG"]+";Summary: "+newres["EXPLANATION"]
     return {"value":value}
 
 def lambda_handler(event, context):
@@ -202,8 +209,9 @@ def lambda_handler(event, context):
 #this is some test code
 '''
 print(lambda_handler({"queryStringParameters":{
-    "openaikey":"YOURAPIKEYHERE",
-    "location":"EINN",
-    "notamid":"B1142/15"
+    "openaikey":"YOURKEYHERE",
+    "location":"CYKF",
+    "notamid":"A5968/23"
 }},None))
 '''
+
