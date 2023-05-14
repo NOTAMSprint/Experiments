@@ -2,6 +2,7 @@ import openai
 import json
 import requests
 import re
+import time
 
 taglist=[
 ["P1","Airport status/hours","Airport Closed, Airport operating hours, AD AP not available"],
@@ -164,6 +165,52 @@ def classifymultiple(messages,tags):
     )
     predicted_tag = response.choices[0].message.content.strip()
     #print(response)
+    #print(predicted_tag)
+
+    return predicted_tag
+
+
+def classifymultiplesplit(messages,tags):
+    #this will call chatgpt with one message and the list of tags
+    messagearray=[m["message"] for m in messages]
+    staglist="List of NOTAM Tags, in three columns\nTag Code\tTag Name\tTag Descriptioncode\n"
+    for tag in tags:
+        staglist=staglist+tag[0]+"\t*"+tag[1]+"*\t"+tag[2]+"\n"
+    staglist=staglist+"Read and wait, no action yet"
+    prompt1="You are a NOTAM Librarian.\
+    I will give you a list of NOTAM messages one by one. Create an array of JSON objects for all the messages with the following 2 fields: \n\
+    Explanation: In very simple English only, explain the NOTAM in 7 words or less. Do not use abbreviations. Use sentence case.\n\
+    Tag: Choose the most logical Tag for this NOTAM from the list of Tags. Format as Tag Code - Tag Name.\n\
+    Provide one and only one JSON object per NOTAM message.\n\
+    Now wait for the first NOTAM."
+    #print(staglist)
+    #print(prompt1)
+    #print(prompt2)
+    
+    themessages=[
+        {"role": "user", "content": staglist},
+        {"role": "assistant", "content" : "Thank you, I got the NOTAM tags."},
+        {"role": "user", "content": prompt1},
+        {"role": "assistant", "content" : "Ok, ready for the first NOTAM."}
+        ]
+    for i,m in enumerate(messages):
+        themessages.append({"role":"user","content":m["message"]})
+        if i<len(messages)-1:
+            themessages.append({"role":"assistant","content":"Waiting for the next one."})
+        else:
+            themessages.append({"role":"assistant","content":"This was the last message."})
+            
+            
+        
+    
+    #prompt="You are a NOTAM Librarian. First, I will give you a list of NOTAM Tags in three columns: Tag Code, Tag Name, Tag Description. Here they are: \n\n" + staglist + ". Next, I will give you a NOTAM. Choose the most logical Tag for this NOTAM from the list of Tags. Format as Tag Code - Tag Name. Here is the NOTAM:\n\n " + message
+    #print(prompt)
+    response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=themessages
+    )
+    predicted_tag = response.choices[0].message.content.strip()
+    #print(response)
     print(predicted_tag)
 
     return predicted_tag
@@ -190,15 +237,18 @@ def summarize(message,maxwords):
     return predicted_tag
 def fixjsonformat(s):
     newstring=re.search("\[.*\]", s.replace("\n","")).group()
-    print(newstring)
+    #print(newstring)
     
     return newstring
 
 
 def tagging(notamids,location):
     #I get the message
+    t=time.time()
     try:
+        
         messages=getnotambyid(notamids,location)
+        print("Messages received: "+str(time.time()-t))
         if len(messages)==0:
             value="No active NOTAM found with this ID at "+location
         elif len(messages)>10:
@@ -206,6 +256,7 @@ def tagging(notamids,location):
         else:
             try:
                 res=json.loads(fixjsonformat(classifymultiple(messages,taglist)))
+                print("Classified and formatted: "+str(time.time()-t))
                 output=[]
                 for i,line in enumerate(res):
                     newline={}
@@ -217,6 +268,7 @@ def tagging(notamids,location):
                 output="There was a problem treating this NOTAM(s) with Open AI"
     except:
         output="There was a problem retrieving the NOTAM(s) "+notamids+" from "+location
+    print("Ready for output: "+str(time.time()-t))
 
     return output
         
@@ -232,7 +284,7 @@ def tagging_debug(notamids,location):
         value="Only accepting a maximum of 10 NOTAMIDS at a time"
     else:
         res=json.loads(fixjsonformat(classifymultiple(messages,taglist)))
-        print(res)
+        #print(res)
         output=[]
         for i,line in enumerate(res):
             newline={}
@@ -255,12 +307,12 @@ def lambda_handler(event, context):
         return respond(None,{"message":'Unsupported call. you need to submit location, notamid and openaikey query string parameters'})
 
 #this is some test code
-'''
+
 print(lambda_handler({"queryStringParameters":{
-    "openaikey":"YOUROPENAIKEYHERE",
+    "openaikey":"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",
     "location":"CYUL",
     "notamid":"E2422/23,E2420/23,E2383/23,E2358/23,E2339/23,E2245/23,E2157/23,H1088/23,E2134/23,E1964/23"
     #"notamid":"E2422/23"
 }},None))
-'''
+
 
